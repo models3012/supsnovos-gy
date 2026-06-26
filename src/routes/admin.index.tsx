@@ -15,7 +15,7 @@ import {
   type AdminStats,
 } from "@/lib/admin.functions";
 import { toast } from "sonner";
-import { Eye, EyeOff, LogOut, RefreshCw, Trash2, Search, Send, Zap } from "lucide-react";
+import { LogOut, RefreshCw, Trash2, Search, Send, Zap } from "lucide-react";
 
 export const Route = createFileRoute("/admin/")({
   beforeLoad: async () => {
