@@ -1,5 +1,5 @@
 import { createServerFn } from "@tanstack/react-start";
-import { requireAdminUnlocked } from "./admin-gate.functions";
+// requireAdminUnlocked imported dynamically inside handlers to keep server-only deps out of client bundle
 
 export type SiteSettings = {
   id: string;
