@@ -3,7 +3,8 @@ import { SEO } from '@/components/seo/SEO'
 import { Button } from '@/components/ui/button'
 import { useCart } from '@/lib/cart-store'
 import { ChevronLeft, CreditCard, ShieldCheck, Truck, Lock, MapPin, User, CheckCircle2 } from 'lucide-react'
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
+import { trackBeginCheckout, trackPurchase, setEnhancedConversionData, setEcomm } from '@/lib/tracking'
 
 export const Route = createFileRoute('/checkout')({
   component: CheckoutPage,
@@ -14,9 +15,33 @@ function CheckoutPage() {
   const [step, setStep] = useState(1);
   const [paymentMethod, setPaymentMethod] = useState<'pix' | 'card'>('pix');
   const [isFinished, setIsFinished] = useState(false);
+  const emailRef = useRef<HTMLInputElement>(null);
+  const cpfRef = useRef<HTMLInputElement>(null);
+  const nameRef = useRef<HTMLInputElement>(null);
+  const phoneRef = useRef<HTMLInputElement>(null);
+  const cepRef = useRef<HTMLInputElement>(null);
+  const streetRef = useRef<HTMLInputElement>(null);
+  const cityRef = useRef<HTMLInputElement>(null);
+  const ufRef = useRef<HTMLInputElement>(null);
 
   const totalPrice = getTotalPrice();
   const pixPrice = items.reduce((sum, item) => sum + item.pixPrice * item.quantity, 0);
+
+  // begin_checkout — dispara 1x ao entrar com itens
+  const beganRef = useRef(false);
+  useEffect(() => {
+    if (!beganRef.current && items.length > 0) {
+      beganRef.current = true;
+      trackBeginCheckout(
+        items.map(i => ({
+          id: i.id, name: i.name,
+          brand: (i as any).brand, category: (i as any).category,
+          price: i.price, quantity: i.quantity,
+        })),
+      );
+    }
+  }, [items.length]);
+
 
   if (isFinished) {
     return (
