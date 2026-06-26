@@ -2,7 +2,8 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import { SEO } from "@/components/seo/SEO";
 import { Button } from "@/components/ui/button";
 import { Truck, ShieldCheck, CreditCard, ChevronRight, Star, Plus, Lock } from "lucide-react";
-import hazeHardcoreImg from "@/assets/haze-hardcore.png";
+
+const hazeHardcoreImg = "https://bold-rush-s2acommerce.lovable.app/products/dad8ff31ec43.webp";
 
 
 
