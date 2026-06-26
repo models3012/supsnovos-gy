@@ -18,7 +18,7 @@ export const Route = createFileRoute("/")({
 });
 
 function Index() {
-  const addItem = useCart(state => state.addItem);
+
   
   return (
 
