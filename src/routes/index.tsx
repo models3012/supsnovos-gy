@@ -5,6 +5,7 @@ import { Truck, ShieldCheck, CreditCard, ChevronRight, Star, Clock, Plus, Lock, 
 import { PRODUCTS } from "@/lib/products";
 import { BLOG_POSTS } from "@/lib/blog";
 import { useCart } from "@/lib/cart-store";
+import hazeHardcoreImg from "@/assets/haze-hardcore.png";
 
 
 
