@@ -42,7 +42,7 @@ export type AdminStats = {
 };
 
 export const adminGetSettings = createServerFn({ method: "GET" }).handler(async () => {
-  await requireAdminUnlocked();
+  await (await import("./admin-gate.server")).requireAdminUnlocked();
   const { supabaseAdmin } = await import("@/integrations/supabase/client.server");
   const { data, error } = await supabaseAdmin
     .from("site_settings")
@@ -56,7 +56,7 @@ export const adminGetSettings = createServerFn({ method: "GET" }).handler(async 
 export const adminSaveSettings = createServerFn({ method: "POST" })
   .inputValidator((data: Partial<SiteSettings>) => data)
   .handler(async ({ data }) => {
-    await requireAdminUnlocked();
+    await (await import("./admin-gate.server")).requireAdminUnlocked();
     const { supabaseAdmin } = await import("@/integrations/supabase/client.server");
     const patch = { ...data, id: "default", updated_at: new Date().toISOString() };
     const { error } = await supabaseAdmin.from("site_settings").upsert(patch, { onConflict: "id" });
@@ -67,7 +67,7 @@ export const adminSaveSettings = createServerFn({ method: "POST" })
 export const adminListOrders = createServerFn({ method: "POST" })
   .inputValidator((data: { status?: string; search?: string; date?: string }) => data ?? {})
   .handler(async ({ data }) => {
-    await requireAdminUnlocked();
+    await (await import("./admin-gate.server")).requireAdminUnlocked();
     const { supabaseAdmin } = await import("@/integrations/supabase/client.server");
     let q = supabaseAdmin
       .from("orders")
@@ -93,7 +93,7 @@ export const adminListOrders = createServerFn({ method: "POST" })
   });
 
 export const adminGetStats = createServerFn({ method: "GET" }).handler(async () => {
-  await requireAdminUnlocked();
+  await (await import("./admin-gate.server")).requireAdminUnlocked();
   const { supabaseAdmin } = await import("@/integrations/supabase/client.server");
   const today = new Date();
   const startToday = new Date(today.getFullYear(), today.getMonth(), today.getDate()).toISOString();
@@ -120,7 +120,7 @@ export const adminGetStats = createServerFn({ method: "GET" }).handler(async () 
 export const adminUpdateOrder = createServerFn({ method: "POST" })
   .inputValidator((data: { id: string; status?: string; tracking_code?: string }) => data)
   .handler(async ({ data }) => {
-    await requireAdminUnlocked();
+    await (await import("./admin-gate.server")).requireAdminUnlocked();
     if (!/^[0-9a-f-]{36}$/i.test(data.id)) throw new Error("Invalid order id");
     const { supabaseAdmin } = await import("@/integrations/supabase/client.server");
     const patch: any = { updated_at: new Date().toISOString() };
@@ -132,7 +132,7 @@ export const adminUpdateOrder = createServerFn({ method: "POST" })
   });
 
 export const adminDeleteTestOrders = createServerFn({ method: "POST" }).handler(async () => {
-  await requireAdminUnlocked();
+  await (await import("./admin-gate.server")).requireAdminUnlocked();
   const { supabaseAdmin } = await import("@/integrations/supabase/client.server");
   const { error } = await supabaseAdmin
     .from("orders")
@@ -143,7 +143,7 @@ export const adminDeleteTestOrders = createServerFn({ method: "POST" }).handler(
 });
 
 export const adminResendSpeedmax = createServerFn({ method: "POST" }).handler(async () => {
-  await requireAdminUnlocked();
+  await (await import("./admin-gate.server")).requireAdminUnlocked();
   const { supabaseAdmin } = await import("@/integrations/supabase/client.server");
   const { data, error } = await supabaseAdmin
     .from("orders")
