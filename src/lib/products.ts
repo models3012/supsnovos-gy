@@ -20,7 +20,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 119.9,
     "pixPrice": 71.77,
     "description": "Shake proteico com sabor irresistível de café cremoso. Rica fonte de proteínas para auxiliar na recuperação muscular e manter a saciedade. Benefícios: Sabor café cremoso exclusivo, Rica fonte de proteínas, Auxilia na saciedade, Prático para o dia a dia. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/cb7d89f38429.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/cb7d89f38429.webp",
     "category": "suplementos"
   },
   {
@@ -31,7 +31,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 304.1,
     "pixPrice": 158.69,
     "description": "Kit performance avançado com Whey 1kg, Creatina 250g e Beta Alanina 250g. Trio para atletas avançados. Benefícios: Whey + Creatina + Beta Alanina, Para atletas avançados, Resistência muscular, 23% de desconto. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/971941436206.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/971941436206.webp",
     "category": "kits"
   },
   {
@@ -42,7 +42,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 179.9,
     "pixPrice": 91.92,
     "description": "Whey Protein Concentrado sabor Mocaccino, combinação perfeita de café e chocolate. 1kg de proteína para quem ama café. Benefícios: Sabor Mocaccino único, Combinação café + chocolate, Proteína concentrada, Energia e recuperação. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/soldiers_Designsemnome_92.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/soldiers_Designsemnome_92.webp",
     "category": "barrinhas"
   },
   {
@@ -53,7 +53,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 49.88,
     "pixPrice": 32.33,
     "description": "Barra de Proteína com Recheio da Growth Supplements. Sabor delicioso com 11g de proteína por unidade. Display com 12 unidades de 40g. Benefícios: 11g de proteína por barra, Recheio cremoso, 12 unidades por display, Lanche pós-treino ideal. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/97e8d2e8769b.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/97e8d2e8769b.webp",
     "category": "barrinhas"
   },
   {
@@ -64,7 +64,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 280.77,
     "pixPrice": 158.69,
     "description": "Kit com Whey Concentrado 1kg, Creatina 250g e Multivitamínico 120 caps. Trio essencial para atletas. Benefícios: Whey + Creatina + Multi, Trio essencial, Para atletas, Saúde e performance. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/62ea5a73bea7.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/62ea5a73bea7.webp",
     "category": "kits"
   },
   {
@@ -75,7 +75,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 122.11,
     "pixPrice": 69.24,
     "description": "Creatina Creapure® 250g, a creatina mais pura do mundo, fabricada na Alemanha. Selo de qualidade internacional com 99,99% de pureza. Benefícios: 99,99% de pureza, Fabricada na Alemanha, Selo Creapure®, Máxima absorção. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/1d88fa1e597c.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/1d88fa1e597c.webp",
     "category": "creatina"
   },
   {
@@ -86,7 +86,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 222.11,
     "pixPrice": 125.94,
     "description": "Whey Protein Zero Lactose da Growth. Concentração de 77% com 23g de proteína por dose. Perfeito para quem tem sensibilidade à lactose. Benefícios: Zero lactose, 77% de concentração, 23g de proteína por dose, Sem desconforto digestivo. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/2d4b15b685ad.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/2d4b15b685ad.webp",
     "category": "suplementos"
   },
   {
@@ -97,7 +97,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 179.9,
     "pixPrice": 91.92,
     "description": "Whey Protein Concentrado de alta qualidade com sabor irresistível de Chocolate Belga. 1kg de pura proteína para auxiliar no ganho de massa muscular e recuperação pós-treino. Benefícios: Alto teor de proteína concentrada, Sabor Chocolate Belga premium, Auxilia no ganho de massa muscular, Recuperação pós-treino. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/soldiers_Designsemnome_90.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/soldiers_Designsemnome_90.webp",
     "category": "barrinhas"
   },
   {
@@ -108,7 +108,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 44.33,
     "pixPrice": 28.73,
     "description": "Barra de Proteína tradicional da Growth Supplements. Sem adição de açúcar, com 10g de proteína por unidade. Display com 12 unidades de 30g. Benefícios: 10g de proteína por barra, Sem adição de açúcar, 12 unidades por display, Ideal para controle calórico. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/c3fe89ffaed8.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/c3fe89ffaed8.webp",
     "category": "barrinhas"
   },
   {
@@ -119,7 +119,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 34.9,
     "pixPrice": 22.32,
     "description": "Polivitamínico mastigável da Growth Supplements. Fórmula completa em formato prático de comprimido mastigável com sabor agradável. Benefícios: Formato mastigável, Sabor agradável, Fórmula completa, 120 comprimidos. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/29612508ad58.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/29612508ad58.webp",
     "category": "vitaminas"
   },
   {
@@ -130,7 +130,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 52.9,
     "pixPrice": 34.32,
     "description": "Multivitamínico Gummy da Growth Supplements. Vitaminas em formato de goma com sabor agradável para adultos que preferem praticidade. Benefícios: Formato gummy, Sabor agradável, Vitaminas completas, 30 unidades. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/f8eb1f4ff91e.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/f8eb1f4ff91e.webp",
     "category": "vitaminas"
   },
   {
@@ -141,7 +141,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 41.59,
     "pixPrice": 33.69,
     "description": "Creatina Monohidratada 100% Pura Importada 300g da Soldiers Nutrition. Para força, massa muscular e recuperação. Benefícios: 100% Pura Importada, 300g, Força e potência, Soldiers Nutrition. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_116fbe002dd2.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_116fbe002dd2.webp",
     "category": "suplementos"
   },
   {
@@ -152,7 +152,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 79.9,
     "pixPrice": 45.43,
     "description": "Cálcio com Vitamina D e K da Growth Supplements. Trio essencial para saúde óssea com máxima absorção e fixação de cálcio nos ossos. Benefícios: Saúde óssea completa, Máxima absorção de cálcio, Com Vitamina D e K, 120 comprimidos. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/c4069354d8db.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/c4069354d8db.webp",
     "category": "vitaminas"
   },
   {
@@ -163,7 +163,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 230.0,
     "pixPrice": 123.87,
     "description": "Kit feminino com Creatina 300g e Femini Whey 900g. Combo especial para mulheres que treinam. Benefícios: Creatina 300g, Femini Whey 900g, Kit feminino, Performance feminina. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/2d8178cf16de.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/2d8178cf16de.webp",
     "category": "kits"
   },
   {
@@ -174,7 +174,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 165.8,
     "pixPrice": 99.41,
     "description": "100% Whey em pote de 900g. Proteína concentrada de alta qualidade com variedade de sabores para ganho de massa e recuperação muscular. Benefícios: Variedade de sabores, Pote prático, Proteína concentrada, Ganho de massa muscular. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/61c89f49246f.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/61c89f49246f.webp",
     "category": "suplementos"
   },
   {
@@ -185,7 +185,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 77.9,
     "pixPrice": 43.12,
     "description": "Beta-Alanina pura da Max Titanium. Aminoácido essencial para aumentar a resistência muscular e retardar a fadiga durante treinos intensos. Benefícios: Aumenta resistência muscular, Retarda a fadiga, 100% pura, Ideal para treinos intensos. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/8c5373f087fc.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/8c5373f087fc.webp",
     "category": "pre-treino"
   },
   {
@@ -196,7 +196,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 105.88,
     "pixPrice": 82.56,
     "description": "Kit com 2 unidades de Creatina 100% Pura Monohidratada totalizando 600g. Laudo de pureza disponível. Benefícios: 600g total, Laudo de pureza, Kit econômico, 100% pura. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_2fea52f10ae7.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_2fea52f10ae7.webp",
     "category": "creatina"
   },
   {
@@ -207,7 +207,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 26.57,
     "pixPrice": 21.52,
     "description": "BCAA 2400 com 60 cápsulas da Max Titanium. Versão econômica com aminoácidos essenciais para recuperação muscular pós-treino. Benefícios: 60 cápsulas, 2400mg por dose, Custo-benefício, Max Titanium. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_11fe21e9b41c.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_11fe21e9b41c.webp",
     "category": "suplementos"
   },
   {
@@ -218,7 +218,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 139.9,
     "pixPrice": 80.42,
     "description": "Multivitamínico Ultra da Growth Supplements. Fórmula premium com maior concentração de vitaminas e minerais para performance superior. Benefícios: Fórmula premium, Alta concentração, Performance superior, 120 comprimidos. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/984dd2bced40.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/984dd2bced40.webp",
     "category": "vitaminas"
   },
   {
@@ -229,7 +229,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 172.11,
     "pixPrice": 97.59,
     "description": "Whey Protein Concentrado 80% da Growth. O melhor custo-benefício em proteína concentrada com 24g por dose e absorção eficiente. Benefícios: 80% de concentração, 24g de proteína por dose, Melhor custo-benefício, Absorção eficiente. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/b7332e96d23f.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/b7332e96d23f.webp",
     "category": "suplementos"
   },
   {
@@ -240,7 +240,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 6.55,
     "pixPrice": 4.25,
     "description": "Sachê individual de Whey Protein Concentrado 80% da Growth. Perfeito para experimentar sabores ou levar na bolsa. Benefícios: Porção individual prática, 24g de proteína, Ideal para experimentar, Fácil de transportar. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/ff1333a83d8a.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/ff1333a83d8a.webp",
     "category": "suplementos"
   },
   {
@@ -251,7 +251,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 280.0,
     "pixPrice": 153.91,
     "description": "Kit com Top Whey 3W Performance 900g e Creatina 100g. Duo essencial para treinos intensos. Benefícios: Top Whey 3W 900g, Creatina 100g, Treinos intensos, Duo essencial. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/933c75bef09a.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/933c75bef09a.webp",
     "category": "kits"
   },
   {
@@ -262,7 +262,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 55.9,
     "pixPrice": 35.91,
     "description": "Hair Skin Gummy da Growth Supplements. Gomas com biotina e vitaminas para cabelos brilhantes, pele saudável e unhas fortes. Benefícios: Cabelos brilhantes, Pele saudável, Unhas fortes, Formato gummy saboroso. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/cc8a994bcf29.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/cc8a994bcf29.webp",
     "category": "vitaminas"
   },
   {
@@ -273,7 +273,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 99.64,
     "pixPrice": 77.8,
     "description": "Creatina 300g Pura Monohidratada da Vhita. Suporte para saúde cerebral e muscular com 100 doses. Benefícios: 100% pura, Saúde cerebral e muscular, 100 doses, Sem aditivos. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_6d0c7485b758.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_6d0c7485b758.webp",
     "category": "creatina"
   },
   {
@@ -284,7 +284,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 59.38,
     "pixPrice": 47.09,
     "description": "BCAA 1800 com 450 cápsulas da Bodybuilders. Alto rendimento para uso prolongado. Benefícios: 450 cápsulas, Alto rendimento, Uso prolongado, Custo-benefício. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_e209efdcc83d.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_e209efdcc83d.webp",
     "category": "suplementos"
   },
   {
@@ -295,7 +295,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 35.92,
     "pixPrice": 29.2,
     "description": "Imecap Hair Max Kit com 60 + 30 cápsulas. Vitaminas para cabelos e unhas com cisteína. Benefícios: 90 cápsulas total, Com cisteína, Cabelos e unhas, Kit econômico. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_d7a746e5b1da.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_d7a746e5b1da.webp",
     "category": "vitaminas"
   },
   {
@@ -306,7 +306,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 55.9,
     "pixPrice": 35.91,
     "description": "BCAA 2:1:1 em pó da Growth Supplements. Proporção clássica de aminoácidos de cadeia ramificada para recuperação muscular eficiente. Benefícios: Proporção clássica 2:1:1, 200g em pó, Recuperação muscular, Fácil de misturar. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/a5fc4718c4f9.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/a5fc4718c4f9.webp",
     "category": "pre-treino"
   },
   {
@@ -317,7 +317,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 53.08,
     "pixPrice": 42.28,
     "description": "Glutamina Hydra 300g da Iridium Labs. Glutamina para hidratação e recuperação muscular. Benefícios: 300g, Hidratação, Recuperação muscular, Iridium Labs. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_0d00405eb6f1.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_0d00405eb6f1.webp",
     "category": "vitaminas"
   },
   {
@@ -328,7 +328,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 110.88,
     "pixPrice": 56.64,
     "description": "Kit com 2 unidades de Creatina Monohidratada 250g, totalizando 500g. O melhor custo-benefício em creatina. Benefícios: Melhor custo-benefício, 500g total, Economia no kit, Rendimento prolongado. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/359044b7e30a.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/359044b7e30a.webp",
     "category": "creatina"
   },
   {
@@ -339,7 +339,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 52.9,
     "pixPrice": 34.32,
     "description": "Multivitamínico Kids Gummy da Growth Supplements. Gomas vitaminadas especialmente formuladas para crianças com sabor delicioso. Benefícios: Especial para crianças, Sabor delicioso, Vitaminas essenciais, 30 gomas. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/99a014c38d41.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/99a014c38d41.webp",
     "category": "vitaminas"
   },
   {
@@ -350,7 +350,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 35.52,
     "pixPrice": 17.21,
     "description": "Creatina Monohidratada 100g da Growth. Versão compacta e acessível para quem quer começar a suplementar com creatina. Benefícios: Preço acessível, Ideal para iniciantes, Comprovação científica, Fácil de dosar. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/aad7716bbe67.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/aad7716bbe67.webp",
     "category": "creatina"
   },
   {
@@ -361,7 +361,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 179.9,
     "pixPrice": 91.92,
     "description": "Whey Protein Concentrado sabor Baunilha, ideal para shakes e receitas proteicas. 1kg de proteína de alta qualidade para seus objetivos fitness. Benefícios: Proteína concentrada de qualidade, Sabor Baunilha suave, Versátil para receitas, Auxilia na recuperação muscular. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/soldiers_Designsemnome_88.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/soldiers_Designsemnome_88.webp",
     "category": "barrinhas"
   },
   {
@@ -372,7 +372,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 49.9,
     "pixPrice": 31.91,
     "description": "Picolinato de Cromo Ultra da Growth Supplements. Versão com maior concentração para melhor controle glicêmico e metabolismo. Benefícios: Alta concentração, Controle glicêmico, Metabolismo acelerado, 120 comprimidos. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/9b31ab8065a4.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/9b31ab8065a4.webp",
     "category": "vitaminas"
   },
   {
@@ -383,7 +383,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 150.2,
     "pixPrice": 75.47,
     "description": "Pack econômico com 2 potes de Creatina 300g, totalizando 600g. Economia garantida para quem usa creatina diariamente. Benefícios: Economia no pack, 600g total, Uso contínuo, Preço por grama reduzido. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/9486c99b7fb9.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/9486c99b7fb9.webp",
     "category": "creatina"
   },
   {
@@ -394,7 +394,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 32.67,
     "pixPrice": 26.72,
     "description": "BCAA 3000 com 120 cápsulas. Ultra concentrado com rápida absorção, enriquecido com vitamina B6. Benefícios: Ultra concentrado, 120 cápsulas, Com vitamina B6, Rápida absorção. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_6c1602abda87.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_6c1602abda87.webp",
     "category": "suplementos"
   },
   {
@@ -405,7 +405,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 188.54,
     "pixPrice": 90.03,
     "description": "Kit com Pré-Treino Haze 300g, Creatina 250g e Fita Strap para treinos pesados. Benefícios: Pré-Treino + Creatina + Strap, Para treinos pesados, Performance máxima, Acessório incluso. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/34cdf33ae83b.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/34cdf33ae83b.webp",
     "category": "kits"
   },
   {
@@ -416,7 +416,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 277.55,
     "pixPrice": 141.69,
     "description": "Kit com Whey Protein Concentrado Zero Lactose e Creatina Monohidratada 250g. Para intolerantes à lactose. Benefícios: Whey Zero Lactose, Creatina Mono 250g, Para intolerantes, Alta concentração. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/766645b92a0c.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/766645b92a0c.webp",
     "category": "kits"
   },
   {
@@ -427,7 +427,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 176.7,
     "pixPrice": 106.04,
     "description": "Collab exclusiva Max Titanium x Dr. Peanut. Whey protein com sabores inspirados nos famosos produtos Dr. Peanut para uma experiência única. Benefícios: Collab exclusiva Dr. Peanut, Sabores únicos e diferenciados, Proteína de alta qualidade, Experiência gourmet. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/4a5513da649c.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/4a5513da649c.webp",
     "category": "suplementos"
   },
   {
@@ -438,7 +438,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 43.83,
     "pixPrice": 35.23,
     "description": "BCAA 2044mg em 90 cápsulas da Integralmedica. Aminoácidos essenciais para energia e desempenho nos treinos. Benefícios: 2044mg por dose, 90 cápsulas, Energia e desempenho, Aminoácidos essenciais. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_83746d6f3b61.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_83746d6f3b61.webp",
     "category": "suplementos"
   },
   {
@@ -449,7 +449,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 210.0,
     "pixPrice": 112.64,
     "description": "Kit com Creatina 300g e Mass Titanium 3Kg. Combo para ganho de massa muscular e peso. Benefícios: Creatina 300g, Mass Titanium 3Kg, Ganho de peso, Hipercalórico + Creatina. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/ca975dcf9af0.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/ca975dcf9af0.webp",
     "category": "kits"
   },
   {
@@ -460,7 +460,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 88.18,
     "pixPrice": 69.06,
     "description": "BCAA Fort 210g sabor Tangerina da Vitafor. BCAA em pó com sabor cítrico refrescante. Benefícios: BCAA em pó, Sabor tangerina, 210g, Vitafor. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_2f5909e029e9.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_2f5909e029e9.webp",
     "category": "suplementos"
   },
   {
@@ -471,7 +471,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 100.29,
     "pixPrice": 78.29,
     "description": "Coenzima Q10 da Vitafor com TCM e Vitamina E. Antioxidante essencial para produção de energia celular. Benefícios: Com TCM e Vitamina E, Produção de energia, Antioxidante, Vitafor. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_48e47aa087dd.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_48e47aa087dd.webp",
     "category": "vitaminas"
   },
   {
@@ -482,7 +482,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 62.33,
     "pixPrice": 49.34,
     "description": "Ômega 3 1200mg com Vitamina D 1000UI em 120 cápsulas. Combo para saúde óssea e cardiovascular. Benefícios: Ômega 3 + Vitamina D, 120 cápsulas, Saúde óssea, Saúde cardiovascular. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_4219e081ea13.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_4219e081ea13.webp",
     "category": "vitaminas"
   },
   {
@@ -493,7 +493,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 78.9,
     "pixPrice": 44.73,
     "description": "Vitamina C 1000mg da Growth Supplements. Mega dose para máxima proteção imunológica e ação antioxidante potente. Benefícios: 1000mg por comprimido, Mega dose, Proteção imunológica máxima, 120 comprimidos. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/cf8728f49013.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/cf8728f49013.webp",
     "category": "vitaminas"
   },
   {
@@ -504,7 +504,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 34.9,
     "pixPrice": 22.32,
     "description": "Cafeína 100mg em comprimidos da Growth Supplements. Dose moderada ideal para iniciantes ou para quem prefere uma estimulação mais leve. Benefícios: 100mg por comprimido, Dose moderada, Ideal para iniciantes, 120 comprimidos. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/923eba65bd4c.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/923eba65bd4c.webp",
     "category": "pre-treino"
   },
   {
@@ -515,7 +515,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 174.5,
     "pixPrice": 134.89,
     "description": "Glutamina 100% Pure 300g sabor Natural. Glutamina pura para recuperação e imunidade. Benefícios: 100% pura, 300g, Recuperação, Imunidade. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_c6cc2997999c.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_c6cc2997999c.webp",
     "category": "vitaminas"
   },
   {
@@ -526,7 +526,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 52.0,
     "pixPrice": 41.46,
     "description": "Nouve Biotin da Mantecorp com 30 cápsulas. Biotina para unhas mais resistentes e redução de queda capilar. Benefícios: Biotina, Unhas resistentes, Reduz queda capilar, 30 cápsulas. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_5b3c060fac3f.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_5b3c060fac3f.webp",
     "category": "vitaminas"
   },
   {
@@ -537,7 +537,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 59.9,
     "pixPrice": 34.49,
     "description": "Multivitamínico completo da Growth Supplements com 120 cápsulas. Fórmula com vitaminas e minerais essenciais para o bom funcionamento do organismo. Benefícios: Fórmula completa, 120 cápsulas, Vitaminas e minerais essenciais, Saúde e bem-estar. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/912b35ad14df.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/912b35ad14df.webp",
     "category": "vitaminas"
   },
   {
@@ -548,7 +548,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 81.55,
     "pixPrice": 64.0,
     "description": "BCAA 4:1:1 Drink sabor Uva da Max Titanium. Proporção otimizada de aminoácidos em pó. Benefícios: Proporção 4:1:1, Sabor uva, 280g, Aminoácidos otimizados. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_9bbc5a7b28f4.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_9bbc5a7b28f4.webp",
     "category": "suplementos"
   },
   {
@@ -559,7 +559,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 24.9,
     "pixPrice": 15.92,
     "description": "Picolinato de Cromo da Growth Supplements. Mineral que auxilia no metabolismo de carboidratos e controle da glicemia. Benefícios: Metabolismo de carboidratos, Controle da glicemia, Reduz vontade de doces, 120 cápsulas. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/fbc86d76a059.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/fbc86d76a059.webp",
     "category": "vitaminas"
   },
   {
@@ -570,7 +570,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 24.02,
     "pixPrice": 20.12,
     "description": "BCAA 3:1:1 com 60 cápsulas da Dark Lab. Proporção otimizada de aminoácidos essenciais. Benefícios: Proporção 3:1:1, 60 cápsulas, Preço acessível, Aminoácidos essenciais. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_d5edb026885d.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_d5edb026885d.webp",
     "category": "suplementos"
   },
   {
@@ -581,7 +581,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 71.9,
     "pixPrice": 40.53,
     "description": "Multi + Energy da Growth Supplements. Multivitamínico com cafeína e guaraná para energia e vitalidade durante o dia. Benefícios: Multivitamínico + Energia, Com cafeína e guaraná, Vitalidade diária, 60 softgels. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/a2bf94114528.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/a2bf94114528.webp",
     "category": "vitaminas"
   },
   {
@@ -592,7 +592,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 115.6,
     "pixPrice": 56.63,
     "description": "Creatina Monohidratada 500g da Max Titanium. 100% pura, aumenta força, potência e auxilia no ganho de massa muscular. Benefícios: 100% pura, Aumenta força e potência, Ganho de massa muscular, Alta absorção. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/81fc581668c8.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/81fc581668c8.webp",
     "category": "creatina"
   },
   {
@@ -603,7 +603,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 179.9,
     "pixPrice": 91.92,
     "description": "Whey Protein Concentrado importado sabor Morango. 1kg de proteína concentrada para maximizar seus resultados na academia. Benefícios: Proteína importada de alta qualidade, Sabor Morango refrescante, Maximiza resultados, Fácil dissolução. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/soldiers_Designsemnome_94.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/soldiers_Designsemnome_94.webp",
     "category": "barrinhas"
   },
   {
@@ -614,7 +614,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 161.11,
     "pixPrice": 124.68,
     "description": "Creatina Creafort da Vitafor em pote de 300g. Creatina de alta pureza para performance máxima. Benefícios: Alta pureza, Pote 300g, Performance máxima, Marca Vitafor. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_420208b90de3.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_420208b90de3.webp",
     "category": "creatina"
   },
   {
@@ -625,7 +625,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 197.43,
     "pixPrice": 94.44,
     "description": "Kit completo com Creatina 250g, Multivitamínico 120 caps e Pré-Treino Haze 300g. Tudo para seu treino. Benefícios: Creatina + Multi + Pré-Treino, Kit completo, Performance máxima, Economia no combo. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/4d2a9199200e.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/4d2a9199200e.webp",
     "category": "kits"
   },
   {
@@ -636,7 +636,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 99.77,
     "pixPrice": 51.75,
     "description": "Kit Growth Supplements com Creatina Monohidratada 250g + Display de Barra de Proteína 30g com 12 unidades. Combo ideal para performance e praticidade. Benefícios: Creatina + Barras no combo, Economia no kit, Praticidade no dia a dia, Ideal para treino. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/6d856875887d.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/6d856875887d.webp",
     "category": "barrinhas"
   },
   {
@@ -647,7 +647,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 215.09,
     "pixPrice": 100.74,
     "description": "Kit beleza com Beauty Skin Gummy, Ácido Hialurônico 60 caps, Betacaroteno 60 soft e Vitamina C 500mg 120 comp. Benefícios: Kit beleza completo, Pele radiante, 4 produtos, Saúde e beleza. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/88343e77f600.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/88343e77f600.webp",
     "category": "kits"
   },
   {
@@ -658,7 +658,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 27.9,
     "pixPrice": 17.51,
     "description": "Vitamina K2 da Growth Supplements. Essencial para direcionar o cálcio para os ossos e prevenir calcificação arterial. Benefícios: Saúde óssea, Saúde cardiovascular, Direciona cálcio, 60 cápsulas. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/e9f94c7ebc7a.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/e9f94c7ebc7a.webp",
     "category": "vitaminas"
   },
   {
@@ -669,7 +669,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 130.0,
     "pixPrice": 78.05,
     "description": "Power Protein Bar 90g da Max Titanium. Barra proteica com 20g de proteína por unidade, display com 8 barras. Sabor premium e textura irresistível. Benefícios: 20g de proteína por barra, Display com 8 unidades, Sabor premium, Prática para o dia a dia. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/10ffd62cd50c.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/10ffd62cd50c.webp",
     "category": "barrinhas"
   },
   {
@@ -680,7 +680,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 39.9,
     "pixPrice": 24.4,
     "description": "Creatina Monohidratada 100g da Max Titanium. A menor embalagem, perfeita para quem quer começar a suplementar. Benefícios: Preço acessível, Ideal para iniciantes, 100% monohidratada, Qualidade Max Titanium. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/c682e5b159bb.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/c682e5b159bb.webp",
     "category": "creatina"
   },
   {
@@ -691,7 +691,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 87.2,
     "pixPrice": 52.32,
     "description": "Top Whey Bar 41g da Max Titanium. Barra proteica com whey protein, textura macia e sabor delicioso. Display com 12 unidades. Benefícios: Com whey protein, Textura macia, 12 unidades por display, Sabor delicioso. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/1ac0137e2be8.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/1ac0137e2be8.webp",
     "category": "barrinhas"
   },
   {
@@ -702,7 +702,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 24.17,
     "pixPrice": 20.23,
     "description": "Glutamina 100g. Tamanho compacto ideal para experimentar ou uso de curto prazo. Benefícios: Tamanho compacto, Ideal para teste, 100g, Glutamina pura. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_2bb672931bc0.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_2bb672931bc0.webp",
     "category": "vitaminas"
   },
   {
@@ -713,7 +713,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 53.48,
     "pixPrice": 43.32,
     "description": "Creatina Monohidratada 100% Pura Importada 500g da Soldiers Nutrition. Embalagem econômica para uso prolongado. Benefícios: 100% Pura Importada, 500g, Embalagem econômica, Soldiers Nutrition. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_027218a56ef8.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_027218a56ef8.webp",
     "category": "suplementos"
   },
   {
@@ -724,7 +724,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 102.66,
     "pixPrice": 80.1,
     "description": "Omegafor Plus 60 cápsulas da Vitafor. Ômega 3 de alta concentração com EPA e DHA. Benefícios: Alta concentração, EPA e DHA, 60 cápsulas, Vitafor. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_d0b584d8fca8.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_d0b584d8fca8.webp",
     "category": "vitaminas"
   },
   {
@@ -735,7 +735,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 17.99,
     "pixPrice": 15.53,
     "description": "BCAA Attack 120 cápsulas da 3VS Nutrition. BCAA acessível para suplementação diária. Benefícios: 120 cápsulas, Preço acessível, Suplementação diária, 3VS Nutrition. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_afa29d8a5fa9.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_afa29d8a5fa9.webp",
     "category": "suplementos"
   },
   {
@@ -746,7 +746,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 99.5,
     "pixPrice": 59.61,
     "description": "Whey Pro é a opção mais acessível da Max Titanium. Proteína de qualidade para quem busca praticidade e economia na suplementação diária. Benefícios: Preço acessível, 1Kg de rendimento, Qualidade Max Titanium, Ideal para iniciantes. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/1ae63cf724d8.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/1ae63cf724d8.webp",
     "category": "suplementos"
   },
   {
@@ -757,7 +757,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 164.9,
     "pixPrice": 98.74,
     "description": "Creatina Creapure® linha assinatura Rafael Brandão. A creatina mais pura do mundo com selo Creapure® alemão, escolhida pelo atleta campeão. Benefícios: Selo Creapure® alemão, Linha Rafael Brandão, 99,99% de pureza, Máxima performance. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/d0b1b24cbae7.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/d0b1b24cbae7.webp",
     "category": "creatina"
   },
   {
@@ -768,7 +768,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 85.42,
     "pixPrice": 66.95,
     "description": "Whey Protein Isolado Blend de 2kg da Giants Nutrition. Proteína de alta qualidade com rápida absorção para ganho de massa muscular. Benefícios: Blend de proteínas isoladas, 2kg de rendimento, Rápida absorção, Ganho de massa muscular. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_a8c11df83e1e.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_a8c11df83e1e.webp",
     "category": "suplementos"
   },
   {
@@ -779,7 +779,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 87.6,
     "pixPrice": 52.97,
     "description": "Super Whey 900g da Max Titanium. Hipercalórico com 30g de proteína e 460 kcal por dose. Ideal para ganho de massa muscular com alta concentração proteica. Contém WPC + Colágeno. Benefícios: 30g de proteína por dose, 460 kcal por porção, WPC + Colágeno, Ideal para ganho de massa. Indicado para: Pessoas com dificuldade de ganhar peso (ectomorfos), atletas em fase de bulking, praticantes que precisam de alto aporte calórico diário e indivíduos em recuperação que necessitam aumentar a… Modo de uso: Misture 2 a 4 doses (medidor incluso) em 400–600ml de leite, água ou bebida vegetal. Consuma 1 a 2 vezes ao dia, preferencialmente entre as refeições principais ou após o treino. Ajuste a quantidade conforme sua meta… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/697155cf64de.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/697155cf64de.webp",
     "category": "hipercaloricos"
   },
   {
@@ -790,7 +790,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 28.08,
     "pixPrice": 23.22,
     "description": "Glutamina Natural 150g. Aminoácido para recuperação muscular e imunidade em tamanho compacto. Benefícios: 150g, Natural, Recuperação muscular, Imunidade. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_90d878ade7a8.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_90d878ade7a8.webp",
     "category": "vitaminas"
   },
   {
@@ -801,7 +801,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 175.0,
     "pixPrice": 95.35,
     "description": "Kit Pro Imunidade com Glutamina 300g e Multi Max 90 cápsulas. Reforço completo para o sistema imunológico. Benefícios: Glutamina 300g, Multi Max 90 caps, Reforço imunológico, Combo completo. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/47b209165603.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/47b209165603.webp",
     "category": "kits"
   },
   {
@@ -812,7 +812,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 128.69,
     "pixPrice": 99.95,
     "description": "Mass Titanium Zero Lactose 2.4Kg sabor Chocolate. Hipercalórico para intolerantes à lactose. Benefícios: Zero lactose, 2.4Kg, Sabor chocolate, Para intolerantes. Indicado para: Pessoas com dificuldade de ganhar peso (ectomorfos), atletas em fase de bulking, praticantes que precisam de alto aporte calórico diário e indivíduos em recuperação que necessitam aumentar a… Modo de uso: Misture 2 a 4 doses (medidor incluso) em 400–600ml de leite, água ou bebida vegetal. Consuma 1 a 2 vezes ao dia, preferencialmente entre as refeições principais ou após o treino. Ajuste a quantidade conforme sua meta… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_b567c67d8909.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_b567c67d8909.webp",
     "category": "hipercaloricos"
   },
   {
@@ -823,7 +823,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 41.16,
     "pixPrice": 33.19,
     "description": "BCAA Drink 4:1:1 sabor Laranja da Max Titanium. BCAA em pó com proporção 4:1:1 para recuperação. Benefícios: Proporção 4:1:1, Sabor laranja, 280g, Recuperação muscular. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_d2aca02dc5e7.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_d2aca02dc5e7.webp",
     "category": "suplementos"
   },
   {
@@ -834,7 +834,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 61.0,
     "pixPrice": 39.53,
     "description": "Basic Whey da Growth é a opção mais acessível para aumentar a proteína na dieta. Com 10g de proteína por dose a um custo imbatível. Benefícios: Mais acessível do mercado, 10g de proteína por dose, Ideal para iniciantes, Custo por dose imbatível. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/02a542a2bc34.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/02a542a2bc34.webp",
     "category": "suplementos"
   },
   {
@@ -845,7 +845,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 38.9,
     "pixPrice": 24.71,
     "description": "Blend de óleos funcionais da Growth Supplements. Combinação de Cártamo, Coco, Chia, Cromo e Vitamina E para metabolismo e emagrecimento. Benefícios: Blend de óleos funcionais, Auxilia no emagrecimento, Metabolismo acelerado, 75 cápsulas. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/4dd46b6c29fd.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/4dd46b6c29fd.webp",
     "category": "vitaminas"
   },
   {
@@ -856,7 +856,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 39.35,
     "pixPrice": 31.82,
     "description": "Creatina Turbo 300g da Black Skull. Creatina monohidratada para aumento de força e potência muscular. Benefícios: Aumenta força, Potência muscular, 300g de rendimento, Marca reconhecida. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_f79a7b69cfbd.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_f79a7b69cfbd.webp",
     "category": "creatina"
   },
   {
@@ -867,7 +867,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 18.9,
     "pixPrice": 11.92,
     "description": "Óleo de Alho da Growth Supplements. Suplemento natural com propriedades antimicrobianas e cardiovasculares comprovadas. Benefícios: Propriedades antimicrobianas, Saúde cardiovascular, 100% natural, 75 cápsulas. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/4441776bd5a8.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/4441776bd5a8.webp",
     "category": "vitaminas"
   },
   {
@@ -878,7 +878,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 154.9,
     "pixPrice": 92.76,
     "description": "100% Whey em embalagem refil econômica. Proteína de alta qualidade para ganho de massa e recuperação muscular com ótimo custo-benefício. Benefícios: Embalagem econômica refil, Proteína de alta qualidade, Ótimo custo-benefício, Ganho de massa muscular. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/10f7b1b19927.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/10f7b1b19927.webp",
     "category": "suplementos"
   },
   {
@@ -889,7 +889,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 79.9,
     "pixPrice": 45.43,
     "description": "Vitamina E Ultra da Growth Supplements. Versão com maior concentração para máxima proteção antioxidante e saúde da pele. Benefícios: Alta concentração, Máxima proteção antioxidante, Saúde da pele, 120 cápsulas. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/eb41a7d6a9c6.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/eb41a7d6a9c6.webp",
     "category": "vitaminas"
   },
   {
@@ -900,7 +900,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 121.99,
     "pixPrice": 64.19,
     "description": "Kit com Daily Whey 400g e Creatina Monohidratada 250g. Combo acessível para quem está começando. Benefícios: Daily Whey 400g, Creatina Mono 250g, Preço acessível, Ideal para iniciantes. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/f40e14d9efe4.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/f40e14d9efe4.webp",
     "category": "kits"
   },
   {
@@ -911,7 +911,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 28.5,
     "pixPrice": 18.32,
     "description": "Maltodextrina pura da Growth Supplements. Carboidrato de rápida absorção ideal para fornecer energia antes e durante os treinos intensos. Benefícios: Carboidrato de rápida absorção, Energia para treinos intensos, 1Kg rende bastante, Pode ser misturada com outros suplementos. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/f225f0887ed1.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/f225f0887ed1.webp",
     "category": "pre-treino"
   },
   {
@@ -922,7 +922,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 186.35,
     "pixPrice": 143.93,
     "description": "Kit com 2 unidades do Hipercalórico 6 Six Bulking sabor Baunilha totalizando 6Kg. Máxima economia. Benefícios: 6Kg total, Kit econômico, Six Bulking, Baunilha. Indicado para: Pessoas com dificuldade de ganhar peso (ectomorfos), atletas em fase de bulking, praticantes que precisam de alto aporte calórico diário e indivíduos em recuperação que necessitam aumentar a… Modo de uso: Misture 2 a 4 doses (medidor incluso) em 400–600ml de leite, água ou bebida vegetal. Consuma 1 a 2 vezes ao dia, preferencialmente entre as refeições principais ou após o treino. Ajuste a quantidade conforme sua meta… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_b09ca3c2ee72.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_b09ca3c2ee72.webp",
     "category": "hipercaloricos"
   },
   {
@@ -933,7 +933,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 9.88,
     "pixPrice": 6.41,
     "description": "Bebida láctea pronta para beber com proteínas. Ideal para consumo imediato no pós-treino ou como lanche proteico rápido. Benefícios: Pronta para beber, Prática e portátil, Ideal pós-treino, Sem necessidade de preparo. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/8af6c1f4b302.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/8af6c1f4b302.webp",
     "category": "suplementos"
   },
   {
@@ -944,7 +944,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 167.43,
     "pixPrice": 77.43,
     "description": "Kit saúde com Creatina 250g, Multivitamínico 120 caps e Óleo de Peixe Ultra 75 caps. Benefícios: Creatina + Multi + Ômega 3, Kit saúde completo, Performance e bem-estar, Economia no combo. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/728d7d9053ab.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/728d7d9053ab.webp",
     "category": "kits"
   },
   {
@@ -955,7 +955,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 49.22,
     "pixPrice": 39.34,
     "description": "Nutren A-Z multivitamínico e mineral com 60 cápsulas gel da Nestlé. Suplementação completa. Benefícios: Multivitamínico completo, 60 cápsulas gel, Nestlé, De A a Z. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_85038f7fdcbd.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_85038f7fdcbd.webp",
     "category": "vitaminas"
   },
   {
@@ -966,7 +966,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 35.27,
     "pixPrice": 28.7,
     "description": "Glutamina 500mg com 120 cápsulas da NaturalGreen. Praticidade em cápsulas. Benefícios: 120 cápsulas, 500mg por cápsula, Prático, NaturalGreen. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_a332c9a1c11b.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_a332c9a1c11b.webp",
     "category": "vitaminas"
   },
   {
@@ -977,7 +977,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 27.66,
     "pixPrice": 17.93,
     "description": "Barra Proteica Extra 65g da Growth Supplements. 16g de proteína por unidade em tamanho maior. Display com 6 unidades. Benefícios: 16g de proteína por barra, Tamanho extra 65g, 6 unidades por display, Proteína extra na rotina. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/dca0b9ff5c0b.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/dca0b9ff5c0b.webp",
     "category": "barrinhas"
   },
   {
@@ -988,7 +988,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 27.9,
     "pixPrice": 17.51,
     "description": "Vitamina B12 da Growth Supplements. Essencial para o sistema nervoso, formação de glóbulos vermelhos e metabolismo energético. Benefícios: Sistema nervoso saudável, Metabolismo energético, Formação de glóbulos vermelhos, 120 cápsulas. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/7fe083a9df66.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/7fe083a9df66.webp",
     "category": "vitaminas"
   },
   {
@@ -999,7 +999,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 78.58,
     "pixPrice": 61.73,
     "description": "BCAA Fix 4500mg da linha Darkness com 120 tabletes. Alta dosagem para atletas de alto rendimento. Benefícios: 4500mg por dose, 120 tabletes, Linha Darkness, Alto rendimento. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_52d9fb40ee6a.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_52d9fb40ee6a.webp",
     "category": "suplementos"
   },
   {
@@ -1010,7 +1010,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 67.9,
     "pixPrice": 38.43,
     "description": "Colágeno Verisol da Growth Supplements. Peptídeos bioativos de colágeno com tecnologia alemã para pele, cabelos e unhas. Benefícios: Tecnologia Verisol, Pele firme e hidratada, Cabelos e unhas fortes, 120 comprimidos. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/c2a13ea20976.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/c2a13ea20976.webp",
     "category": "vitaminas"
   },
   {
@@ -1021,7 +1021,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 47.52,
     "pixPrice": 28.0,
     "description": "Creatina Monohidratada 150g da Max Titanium. Tamanho compacto ideal para experimentar ou para uso de curto prazo. Benefícios: Tamanho compacto, Ideal para experimentar, 100% monohidratada, Fácil dissolução. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/c6df10438ca5.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/c6df10438ca5.webp",
     "category": "creatina"
   },
   {
@@ -1032,7 +1032,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 177.55,
     "pixPrice": 84.99,
     "description": "Kit com Whey Protein Medium 1kg e Creatina Monohidratada 250g. Custo-benefício imbatível. Benefícios: Whey Medium 1kg, Creatina Mono 250g, Custo-benefício, Para treinos intensos. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/12dc2401f23e.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/12dc2401f23e.webp",
     "category": "kits"
   },
   {
@@ -1043,7 +1043,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 198.95,
     "pixPrice": 119.07,
     "description": "Whey Protein Concentrado em pote de 910g. Excelente custo-benefício com alto teor de proteína para ganho de massa muscular. Benefícios: Excelente custo-benefício, Alto teor proteico, Ganho de massa muscular, Pote econômico. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/4f96aa47bdda.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/4f96aa47bdda.webp",
     "category": "suplementos"
   },
   {
@@ -1054,7 +1054,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 74.56,
     "pixPrice": 58.67,
     "description": "Creatina Pura Refil 500g da Dark Lab. Embalagem econômica refil de creatina monohidratada. Benefícios: 500g refil, Econômica, 100% pura, Monohidratada. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_ff4d818812ec.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_ff4d818812ec.webp",
     "category": "creatina"
   },
   {
@@ -1065,7 +1065,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 75.51,
     "pixPrice": 59.39,
     "description": "Glutamina em pó 300g da 3VS Nutrition. 100% glutamina pura para recuperação e imunidade. Benefícios: 100% glutamina pura, 300g, Recuperação muscular, Fortalece imunidade. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_a0b87f5f8f3c.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_a0b87f5f8f3c.webp",
     "category": "suplementos"
   },
   {
@@ -1076,7 +1076,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 52.9,
     "pixPrice": 34.32,
     "description": "Vitamina C Ultra da Growth Supplements. Versão com maior concentração para máxima proteção imunológica e ação antioxidante. Benefícios: Alta concentração, Máxima proteção imunológica, Ação antioxidante, 120 cápsulas. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/8de9b41ecc47.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/8de9b41ecc47.webp",
     "category": "vitaminas"
   },
   {
@@ -1087,7 +1087,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 79.9,
     "pixPrice": 40.51,
     "description": "Horus é o pré-treino da Max Titanium formulado com cafeína, taurina e beta-alanina para energia explosiva e foco total nos treinos. Benefícios: Energia explosiva, Foco e concentração, Reduz fadiga, Com cafeína e beta-alanina. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/86d59b2ac7d3.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/86d59b2ac7d3.webp",
     "category": "pre-treino"
   },
   {
@@ -1098,7 +1098,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 30.9,
     "pixPrice": 19.92,
     "description": "BCAA 2:1:1 em cápsulas da Growth Supplements. Aminoácidos de cadeia ramificada essenciais para recuperação muscular e redução do catabolismo. Benefícios: Proporção 2:1:1, Recuperação muscular, Reduz catabolismo, 120 cápsulas. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/e0db6a67f6fe.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/e0db6a67f6fe.webp",
     "category": "pre-treino"
   },
   {
@@ -1109,7 +1109,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 66.55,
     "pixPrice": 43.13,
     "description": "Creatina Creapure® em comprimidos para máxima praticidade. Sem necessidade de medir doses, basta engolir os comprimidos. Benefícios: Máxima praticidade, Sem necessidade de medir, Selo Creapure®, Fácil de transportar. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/3c71dba251b9.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/3c71dba251b9.webp",
     "category": "creatina"
   },
   {
@@ -1120,7 +1120,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 42.9,
     "pixPrice": 27.92,
     "description": "Coenzima Q10 da Growth Supplements. Antioxidante essencial para produção de energia celular e saúde cardiovascular. Benefícios: Produção de energia celular, Saúde cardiovascular, Antioxidante, 60 cápsulas. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/0a27477e4b0b.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/0a27477e4b0b.webp",
     "category": "vitaminas"
   },
   {
@@ -1131,7 +1131,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 7.63,
     "pixPrice": 5.22,
     "description": "Barra de proteína prática e saborosa, perfeita para um lanche rápido e nutritivo entre as refeições. Benefícios: Prática e portátil, Fonte de proteína, Baixo teor de açúcar, Sabor delicioso. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/1b62014c59b0.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/1b62014c59b0.webp",
     "category": "suplementos"
   },
   {
@@ -1142,7 +1142,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 179.9,
     "pixPrice": 91.92,
     "description": "Whey Protein Concentrado com sabor exclusivo de Beijinho. 1kg de proteína para quem busca sabor diferenciado sem abrir mão da qualidade. Benefícios: Sabor Beijinho exclusivo, Alto teor proteico, Qualidade premium, Ótima solubilidade. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/soldiers_Designsemnome_89.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/soldiers_Designsemnome_89.webp",
     "category": "barrinhas"
   },
   {
@@ -1153,7 +1153,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 179.9,
     "pixPrice": 91.92,
     "description": "Whey Protein Concentrado sabor Cookies and Cream. 1kg de proteína concentrada com sabor irresistível para o seu pós-treino. Benefícios: Sabor Cookies and Cream, Proteína de alta absorção, Ideal para pós-treino, Baixo teor de gordura. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/soldiers_Designsemnome_91.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/soldiers_Designsemnome_91.webp",
     "category": "barrinhas"
   },
   {
@@ -1164,7 +1164,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 444.33,
     "pixPrice": 251.94,
     "description": "Whey Protein Hidrolisado da Growth. Absorção ultra rápida com 90% de concentração e 27g de proteína por dose. O premium para atletas exigentes. Benefícios: Absorção ultra rápida, 90% de concentração, 27g de proteína por dose, Ideal para atletas profissionais. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/65c8649c1b26.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/65c8649c1b26.webp",
     "category": "suplementos"
   },
   {
@@ -1175,7 +1175,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 79.9,
     "pixPrice": 45.43,
     "description": "D-Ribose da Growth Supplements. Açúcar natural que auxilia na produção de ATP, acelerando a recuperação energética muscular. Benefícios: Produção de ATP, Recuperação energética, 300g de rendimento, Açúcar natural. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/2bb02091c367.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/2bb02091c367.webp",
     "category": "pre-treino"
   },
   {
@@ -1186,7 +1186,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 331.58,
     "pixPrice": 198.45,
     "description": "Whey Protein Isolado de altíssima pureza. Com 90% de concentração proteica, ideal para atletas que buscam máximo desempenho e definição muscular. Benefícios: 90% de proteína, Baixíssimo teor de gordura, Rápida absorção, Ideal para definição. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/49bcfdb2bf02.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/49bcfdb2bf02.webp",
     "category": "suplementos"
   },
   {
@@ -1197,7 +1197,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 92.9,
     "pixPrice": 52.43,
     "description": "BCAA 10:1:1 em comprimidos da Growth Supplements. Proporção avançada com alta concentração de leucina em formato prático de comprimidos. Benefícios: Proporção 10:1:1, Alta concentração de leucina, 120 comprimidos, Recuperação muscular avançada. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/22a9a9e4876a.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/22a9a9e4876a.webp",
     "category": "pre-treino"
   },
   {
@@ -1208,7 +1208,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 59.9,
     "pixPrice": 38.32,
     "description": "BCAA 5:1:1 em pó da Growth Supplements. Proporção intermediária com 5x mais leucina, ideal para quem busca equilíbrio entre recuperação e performance. Benefícios: Proporção 5:1:1, 5x mais leucina, 200g em pó, Equilíbrio recuperação e performance. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/bb9b99082b86.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/bb9b99082b86.webp",
     "category": "pre-treino"
   },
   {
@@ -1219,7 +1219,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 75.1,
     "pixPrice": 43.13,
     "description": "Creatina Monohidratada 300g da Max Titanium. Tamanho intermediário com ótimo custo-benefício para suplementação contínua. Benefícios: Ótimo custo-benefício, Creatina 100% pura, Mais força nos treinos, Recuperação muscular. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/428614278bf7.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/428614278bf7.webp",
     "category": "creatina"
   },
   {
@@ -1230,7 +1230,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 210.88,
     "pixPrice": 103.89,
     "description": "Kit com Whey Gourmet 800g e Creatina Monohidratada 250g. Combo ideal para ganho de massa e performance. Benefícios: Whey Gourmet 800g, Creatina Mono 250g, Melhor custo-benefício, Ideal para ganho de massa. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/631244c40623.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/631244c40623.webp",
     "category": "kits"
   },
   {
@@ -1241,7 +1241,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 179.9,
     "pixPrice": 91.92,
     "description": "Whey Protein Concentrado sabor Natural, sem adição de saborizantes artificiais. 1kg de proteína pura e versátil para adicionar em qualquer receita. Benefícios: Sem saborizantes artificiais, Versátil para receitas, Proteína pura, Ideal para intolerantes a sabores artificiais. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/soldiers_Designsemnome_93.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/soldiers_Designsemnome_93.webp",
     "category": "barrinhas"
   },
   {
@@ -1252,7 +1252,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 71.9,
     "pixPrice": 40.53,
     "description": "Cafeína 200mg com 120 cápsulas da Growth Supplements. Versão econômica do termogênico mais vendido, rendimento para 4 meses. Benefícios: 200mg por cápsula, 120 cápsulas - mais economia, Termogênico natural, Rendimento para 4 meses. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/01286b9b3ad2.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/01286b9b3ad2.webp",
     "category": "pre-treino"
   },
   {
@@ -1263,7 +1263,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 67.9,
     "pixPrice": 38.43,
     "description": "BCAA 10:1:1 em pó da Growth Supplements. Proporção avançada com 10x mais leucina para máxima síntese proteica e recuperação muscular. Benefícios: Proporção 10:1:1, 10x mais leucina, Máxima síntese proteica, 200g em pó. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/eca59be04ad1.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/eca59be04ad1.webp",
     "category": "pre-treino"
   },
   {
@@ -1274,7 +1274,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 42.01,
     "pixPrice": 33.84,
     "description": "HIALOBIOT com Ácido Hialurônico e Biotina alto teor. 60 cápsulas com 19 vitaminas e minerais essenciais. Benefícios: Ácido Hialurônico + Biotina, 19 vitaminas e minerais, 60 cápsulas, 2 meses de uso. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_ed922294452b.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_ed922294452b.webp",
     "category": "vitaminas"
   },
   {
@@ -1285,7 +1285,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 149.9,
     "pixPrice": 69.23,
     "description": "TDZ Force é o pré-treino assinado por Gabriel Zancanelli. Fórmula potente com alta dose de cafeína, beta-alanina e citrulina para treinos extremos. Benefícios: Fórmula potente, Alta dose de cafeína, Com citrulina malato, Assinado por Zancanelli. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/7cc8cd45e4ac.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/7cc8cd45e4ac.webp",
     "category": "pre-treino"
   },
   {
@@ -1296,7 +1296,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 77.57,
     "pixPrice": 60.97,
     "description": "BCAA Powder sabor Limão da Dux Nutrition. BCAA em pó com sabor refrescante para melhor absorção. Benefícios: BCAA em pó, Sabor limão, Melhor absorção, 200g. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_6aff299e9b33.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_6aff299e9b33.webp",
     "category": "suplementos"
   },
   {
@@ -1307,7 +1307,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 227.55,
     "pixPrice": 113.34,
     "description": "Kit com Whey Protein Concentrado 80% 1kg e Creatina Monohidratada 250g. O combo mais vendido da Growth. Benefícios: Whey Concentrado 80% 1kg, Creatina Mono 250g, Mais vendido, Alta concentração proteica. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/d064e4e2cd71.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/d064e4e2cd71.webp",
     "category": "kits"
   },
   {
@@ -1318,7 +1318,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 220.9,
     "pixPrice": 132.56,
     "description": "Top Whey 3W + Performance combina proteínas concentrada, isolada e hidrolisada para máxima performance e recuperação muscular. Benefícios: Blend 3W completo, Alta performance, Recuperação muscular otimizada, Excelente sabor. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/a7d8ef23dd7b.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/a7d8ef23dd7b.webp",
     "category": "suplementos"
   },
   {
@@ -1329,7 +1329,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 45.18,
     "pixPrice": 36.26,
     "description": "Hipercalórico Creamass sabor Baunilha 3Kg da Integralmédica. Para ganho de peso com qualidade. Benefícios: 3Kg de rendimento, Sabor baunilha, Qualidade Integralmédica, Ganho de peso. Indicado para: Pessoas com dificuldade de ganhar peso (ectomorfos), atletas em fase de bulking, praticantes que precisam de alto aporte calórico diário e indivíduos em recuperação que necessitam aumentar a… Modo de uso: Misture 2 a 4 doses (medidor incluso) em 400–600ml de leite, água ou bebida vegetal. Consuma 1 a 2 vezes ao dia, preferencialmente entre as refeições principais ou após o treino. Ajuste a quantidade conforme sua meta… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_e9bd521ffd3e.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_e9bd521ffd3e.webp",
     "category": "hipercaloricos"
   },
   {
@@ -1340,7 +1340,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 49.88,
     "pixPrice": 27.96,
     "description": "Protein Bar 30g da Growth Supplements. Barra compacta com sabores diferenciados e 8,9g de proteína. Display com 12 unidades. Benefícios: 8,9g de proteína por barra, Sabores diferenciados, Compacta e prática, 12 unidades por display. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/f15806ff79ba.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/f15806ff79ba.webp",
     "category": "barrinhas"
   },
   {
@@ -1351,7 +1351,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 344.95,
     "pixPrice": 264.9,
     "description": "Kit com 3 caixas de Colaten Plenne sabor Abacaxi e Hortelã. 30 envelopes por caixa para saúde e beleza. Benefícios: 3 caixas, Sabor Abacaxi e Hortelã, 90 envelopes total, Colágeno para beleza. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_b5f33e4c93d6.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_b5f33e4c93d6.webp",
     "category": "vitaminas"
   },
   {
@@ -1362,7 +1362,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 55.5,
     "pixPrice": 44.13,
     "description": "Colágeno Hidrolisado com Ácido Hialurônico e Vitamina C. 60 cápsulas para cabelo, pele, unhas e articulações. Benefícios: Colágeno + Ácido Hialurônico, Com Vitamina C, 60 cápsulas, Pele, cabelo e unhas. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_439afa35ba4c.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_439afa35ba4c.webp",
     "category": "vitaminas"
   },
   {
@@ -1373,7 +1373,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 67.9,
     "pixPrice": 38.43,
     "description": "Cloreto de Magnésio da Growth Supplements. Mineral essencial para relaxamento muscular, saúde óssea e funcionamento do sistema nervoso. Benefícios: Relaxamento muscular, Saúde óssea, Sistema nervoso, 120 comprimidos. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/6c1a133a06c8.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/6c1a133a06c8.webp",
     "category": "vitaminas"
   },
   {
@@ -1384,7 +1384,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 79.9,
     "pixPrice": 45.43,
     "description": "Hair E Nails da Growth Supplements. Fórmula com biotina, zinco e vitaminas para fortalecer cabelos e unhas de dentro para fora. Benefícios: Com biotina e zinco, Fortalece cabelos, Unhas mais resistentes, 120 comprimidos. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/b99c1e102d0f.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/b99c1e102d0f.webp",
     "category": "vitaminas"
   },
   {
@@ -1395,7 +1395,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 80.83,
     "pixPrice": 63.45,
     "description": "Glutamina Micronizada Isolada 300g da Fitoway. Melhor absorção com partículas micronizadas. Benefícios: Micronizada, 300g, Melhor absorção, Isolada. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_635acbc92c07.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_635acbc92c07.webp",
     "category": "vitaminas"
   },
   {
@@ -1406,7 +1406,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 98.9,
     "pixPrice": 55.93,
     "description": "Palatinose da Growth Supplements. Carboidrato de baixo índice glicêmico que fornece energia gradual e sustentada para treinos longos. Benefícios: Baixo índice glicêmico, Energia gradual e sustentada, Ideal para treinos longos, 1Kg de rendimento. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/159e738a4e7e.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/159e738a4e7e.webp",
     "category": "pre-treino"
   },
   {
@@ -1417,7 +1417,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 35.68,
     "pixPrice": 29.02,
     "description": "Hipercalórico 100% Hiper Mass Flavour 2.5Kg sabor Chocolate da Atlhetica Nutrition. Para ganho de massa muscular. Benefícios: 2.5Kg de rendimento, Sabor chocolate, Ganho de massa, Alto valor calórico. Indicado para: Pessoas com dificuldade de ganhar peso (ectomorfos), atletas em fase de bulking, praticantes que precisam de alto aporte calórico diário e indivíduos em recuperação que necessitam aumentar a… Modo de uso: Misture 2 a 4 doses (medidor incluso) em 400–600ml de leite, água ou bebida vegetal. Consuma 1 a 2 vezes ao dia, preferencialmente entre as refeições principais ou após o treino. Ajuste a quantidade conforme sua meta… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_880590a896de.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_880590a896de.webp",
     "category": "hipercaloricos"
   },
   {
@@ -1428,7 +1428,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 71.19,
     "pixPrice": 56.1,
     "description": "Hipercalórico Mass 36500 Gainers Refil 3Kg sabor Mousse de Morango com Whey Isolado e Concentrado. Benefícios: 3Kg refil, Com Whey Isolado, 36.500 calorias, Mousse de Morango. Indicado para: Pessoas com dificuldade de ganhar peso (ectomorfos), atletas em fase de bulking, praticantes que precisam de alto aporte calórico diário e indivíduos em recuperação que necessitam aumentar a… Modo de uso: Misture 2 a 4 doses (medidor incluso) em 400–600ml de leite, água ou bebida vegetal. Consuma 1 a 2 vezes ao dia, preferencialmente entre as refeições principais ou após o treino. Ajuste a quantidade conforme sua meta… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_3cc28b9ffd94.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_3cc28b9ffd94.webp",
     "category": "hipercaloricos"
   },
   {
@@ -1439,7 +1439,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 55.44,
     "pixPrice": 35.93,
     "description": "Barra de Nuts da Growth Supplements. Rica em fibras com 6,8g de proteína por unidade. Display com 12 unidades de 40g. Benefícios: 6,8g de proteína por barra, Rica em fibras, Ingredientes naturais, 12 unidades por display. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/8339aa18edd7.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/8339aa18edd7.webp",
     "category": "barrinhas"
   },
   {
@@ -1450,7 +1450,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 135.8,
     "pixPrice": 81.83,
     "description": "Mass Titanium 17500 Zero Lactose 2,4kg. Hipercalórico com 604 kcal e 17g de proteína por dose. Fórmula com Maltodextrina e Waxy Maize, sem lactose. Benefícios: 604 kcal por porção, 17g de proteína, Zero Lactose, Maltodextrina + Waxy Maize. Indicado para: Pessoas com dificuldade de ganhar peso (ectomorfos), atletas em fase de bulking, praticantes que precisam de alto aporte calórico diário e indivíduos em recuperação que necessitam aumentar a… Modo de uso: Misture 2 a 4 doses (medidor incluso) em 400–600ml de leite, água ou bebida vegetal. Consuma 1 a 2 vezes ao dia, preferencialmente entre as refeições principais ou após o treino. Ajuste a quantidade conforme sua meta… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/61863f7f4e4e.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/61863f7f4e4e.webp",
     "category": "hipercaloricos"
   },
   {
@@ -1461,7 +1461,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 166.44,
     "pixPrice": 78.69,
     "description": "Kit com Daily Whey 800g e Creatina Monohidratada 250g. Proteína diária com creatina para resultados constantes. Benefícios: Daily Whey 800g, Creatina Mono 250g, Para uso diário, Resultados constantes. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/b295faee3c4a.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/b295faee3c4a.webp",
     "category": "kits"
   },
   {
@@ -1472,7 +1472,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 143.5,
     "pixPrice": 86.14,
     "description": "Femini Whey é o whey protein desenvolvido especialmente para mulheres. Enriquecido com vitaminas e colágeno para saúde e beleza. Benefícios: Desenvolvido para mulheres, Enriquecido com colágeno, Adicionado de vitaminas, Sabor suave e agradável. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/8efaf2fd64bb.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/8efaf2fd64bb.webp",
     "category": "suplementos"
   },
   {
@@ -1483,7 +1483,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 69.05,
     "pixPrice": 54.47,
     "description": "BCAA Fort 120 cápsulas da Vitafor. BCAA de alta qualidade para recuperação muscular. Benefícios: 120 cápsulas, Alta qualidade, Recuperação muscular, Vitafor. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_f2e25921c058.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_f2e25921c058.webp",
     "category": "suplementos"
   },
   {
@@ -1494,7 +1494,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 167.25,
     "pixPrice": 129.37,
     "description": "Creatina Monohidratada 600g da Vitafor. Embalagem grande para uso prolongado com máxima qualidade. Benefícios: 600g de rendimento, Alta qualidade, Uso prolongado, Marca Vitafor. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_11ade4afeff6.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_11ade4afeff6.webp",
     "category": "creatina"
   },
   {
@@ -1505,7 +1505,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 96.0,
     "pixPrice": 57.62,
     "description": "Power Protein Crisp da Max Titanium. Barra crocante com cobertura de chocolate e recheio proteico. Display com 12 unidades de 44g. Benefícios: Textura crocante, Cobertura de chocolate, 12 unidades por display, Lanche proteico prático. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/8d22e926dbc1.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/8d22e926dbc1.webp",
     "category": "barrinhas"
   },
   {
@@ -1516,7 +1516,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 46.72,
     "pixPrice": 37.43,
     "description": "Ômega 3 1000mg com 120 cápsulas da Catarinense. Ácidos graxos essenciais para saúde cardiovascular. Benefícios: 1000mg, 120 cápsulas, Saúde cardiovascular, Ácidos graxos essenciais. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_09fd47981e93.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_09fd47981e93.webp",
     "category": "vitaminas"
   },
   {
@@ -1527,7 +1527,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 267.45,
     "pixPrice": 205.78,
     "description": "Kit com 3 caixas de Colaten Artro com 30 comprimidos cada. Suplemento para saúde das articulações. Benefícios: 3 caixas, Saúde das articulações, 90 comprimidos total, Colágeno para articulações. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_5fe5b6afcd0c.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_5fe5b6afcd0c.webp",
     "category": "vitaminas"
   },
   {
@@ -1538,7 +1538,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 30.9,
     "pixPrice": 19.92,
     "description": "ZMA da Growth Supplements. Combinação de Zinco, Magnésio e Vitamina B6 que auxilia na recuperação muscular e qualidade do sono. Benefícios: Zinco + Magnésio + B6, Recuperação muscular, Qualidade do sono, 120 cápsulas. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/85734b830a68.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/85734b830a68.webp",
     "category": "vitaminas"
   },
   {
@@ -1549,7 +1549,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 233.22,
     "pixPrice": 132.24,
     "description": "3W Whey da Growth combina proteínas concentrada, isolada e hidrolisada em uma só fórmula. Absorção mista para recuperação prolongada. Benefícios: Blend 3 proteínas em 1, Absorção mista e prolongada, 24g de proteína por dose, 80% de concentração. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/51b4470adfab.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/51b4470adfab.webp",
     "category": "suplementos"
   },
   {
@@ -1560,7 +1560,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 45.12,
     "pixPrice": 36.22,
     "description": "Creatina Pura Monohidratada 300g da Dark Lab. Creatina acessível e de qualidade. Benefícios: 100% pura, Preço acessível, 300g, Boa dissolução. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_4668d0fe7d5a.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_4668d0fe7d5a.webp",
     "category": "creatina"
   },
   {
@@ -1571,7 +1571,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 221.76,
     "pixPrice": 100.73,
     "description": "Kit com 4 unidades de Creatina Monohidratada 250g, totalizando 1kg. Máxima economia para uso contínuo. Benefícios: Máxima economia, 1kg total, Uso contínuo garantido, Preço imbatível por grama. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/73de4712f558.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/73de4712f558.webp",
     "category": "creatina"
   },
   {
@@ -1582,7 +1582,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 85.21,
     "pixPrice": 66.79,
     "description": "Hipercalórico Size Mass Foods 72.700 sabor Chocolate 3Kg da BRN Foods. Ultra calórico para ganho de peso. Benefícios: 3Kg de rendimento, 72.700 calorias, Sabor chocolate, Ultra calórico. Indicado para: Pessoas com dificuldade de ganhar peso (ectomorfos), atletas em fase de bulking, praticantes que precisam de alto aporte calórico diário e indivíduos em recuperação que necessitam aumentar a… Modo de uso: Misture 2 a 4 doses (medidor incluso) em 400–600ml de leite, água ou bebida vegetal. Consuma 1 a 2 vezes ao dia, preferencialmente entre as refeições principais ou após o treino. Ajuste a quantidade conforme sua meta… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_0fa8ee6c66cf.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_0fa8ee6c66cf.webp",
     "category": "hipercaloricos"
   },
   {
@@ -1593,7 +1593,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 241.88,
     "pixPrice": 143.57,
     "description": "Kit com Whey Concentrado 1kg, Creatina 250g e Sacola tipo Mochila preta Growth. Leve tudo para a academia. Benefícios: Whey + Creatina + Mochila, Sacola tipo mochila, Para academia, Kit completo. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/ec7994149465.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/ec7994149465.webp",
     "category": "kits"
   },
   {
@@ -1604,7 +1604,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 208.42,
     "pixPrice": 124.74,
     "description": "Hipercalórico Master Mass 3Kg para ganho de peso e massa muscular. Fórmula completa com proteínas, carboidratos e vitaminas. Benefícios: Ganho de peso saudável, Fórmula completa, Rico em carboidratos, Adicionado de vitaminas. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/2b5221133320.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/2b5221133320.webp",
     "category": "suplementos"
   },
   {
@@ -1615,7 +1615,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 101.09,
     "pixPrice": 78.9,
     "description": "V-Fort 240g sabor Frutas Vermelhas da Vitafor. Pré-treino com vitaminas e minerais para energia. Benefícios: Vitaminas e minerais, Sabor frutas vermelhas, 240g, Energia para treino. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_7475c289b0f9.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_7475c289b0f9.webp",
     "category": "suplementos"
   },
   {
@@ -1626,7 +1626,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 69.01,
     "pixPrice": 54.43,
     "description": "BCAA Top 120 cápsulas da Integralmedica. Para recuperação e desempenho muscular otimizado. Benefícios: 120 cápsulas, Recuperação muscular, Desempenho otimizado, Marca confiável. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_af26aea1dcda.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_af26aea1dcda.webp",
     "category": "suplementos"
   },
   {
@@ -1637,7 +1637,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 44.97,
     "pixPrice": 32.78,
     "description": "Nouve Biotin nutracêutico da Mantecorp. Biotina para unhas mais resistentes, redução da queda capilar e fortalecimento dos fios. 30 cápsulas. Benefícios: Biotina concentrada, Reduz queda capilar, Fortalece unhas, 30 cápsulas. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_9871aa051d4f.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_9871aa051d4f.webp",
     "category": "suplementos"
   },
   {
@@ -1648,7 +1648,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 157.9,
     "pixPrice": 94.44,
     "description": "Tropa é o pré-treino assinado pelo Tenente Breno. Fórmula militar com ingredientes de alta performance para quem treina pesado de verdade. Benefícios: Fórmula militar de alta performance, Energia e foco extremos, Assinado por Tenente Breno, Para treinos pesados. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/05058c302f09.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/05058c302f09.webp",
     "category": "pre-treino"
   },
   {
@@ -1659,7 +1659,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 75.57,
     "pixPrice": 59.44,
     "description": "Creatina Creapure em sachês individuais da Vitafor. Praticidade máxima com a pureza Creapure. Benefícios: Sachês individuais, Creapure alemã, Prático, Alta pureza. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_acfc02b87937.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_acfc02b87937.webp",
     "category": "creatina"
   },
   {
@@ -1670,7 +1670,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 344.33,
     "pixPrice": 195.24,
     "description": "Whey Protein Isolado da Growth. Máxima pureza com 90% de concentração e 27g de proteína por dose. Absorção muito rápida e baixo teor de gordura. Benefícios: 90% de concentração, 27g de proteína por dose, Absorção muito rápida, Baixíssimo teor de gordura e carboidrato. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/06682b5066bf.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/06682b5066bf.webp",
     "category": "suplementos"
   },
   {
@@ -1681,7 +1681,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 199.0,
     "pixPrice": 106.97,
     "description": "Kit termogênico com 2Hot 200g e Shot Thermo 60 cápsulas. Combo para emagrecimento e redução de medidas. Benefícios: 2Hot termogênico 200g, Shot Thermo 60 caps, Emagrecimento, Redução de medidas. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/664fb6be4519.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/664fb6be4519.webp",
     "category": "kits"
   },
   {
@@ -1692,7 +1692,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 125.69,
     "pixPrice": 97.67,
     "description": "Firmalize Age Complex com 30 sachês. Suplemento anti-idade com colágeno e nutrientes para pele firme. Benefícios: Anti-idade, Colágeno, 30 sachês, Pele firme. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_5328c71a8973.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_5328c71a8973.webp",
     "category": "vitaminas"
   },
   {
@@ -1703,7 +1703,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 138.54,
     "pixPrice": 62.94,
     "description": "Kit para iniciantes com Cafeína 200mg 120 comp, ZMA 120 caps e Creatina Monohidratada 250g. Benefícios: Kit para iniciantes, Cafeína + ZMA + Creatina, 20% de desconto, Tudo para começar. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/916f66269795.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/916f66269795.webp",
     "category": "kits"
   },
   {
@@ -1714,7 +1714,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 85.4,
     "pixPrice": 66.93,
     "description": "Eximia Fortalize com 30 comprimidos. Fortalece cabelos e unhas de dentro para fora. Benefícios: Fortalece cabelos, Unhas mais fortes, 30 comprimidos, De dentro para fora. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_d8fc4d118351.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_d8fc4d118351.webp",
     "category": "vitaminas"
   },
   {
@@ -1725,7 +1725,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 149.9,
     "pixPrice": 88.13,
     "description": "Super Gainers Refil 3kg da Max Titanium. Hipercalórico com 610 kcal por dose, 16g de proteína e 3g de creatina. Contém WPC + WPI e blend de Maltodextrina com Waxy Maize. Benefícios: 610 kcal por porção, 3g de Creatina por dose, WPC + WPI, 16g de proteína. Indicado para: Pessoas com dificuldade de ganhar peso (ectomorfos), atletas em fase de bulking, praticantes que precisam de alto aporte calórico diário e indivíduos em recuperação que necessitam aumentar a… Modo de uso: Misture 2 a 4 doses (medidor incluso) em 400–600ml de leite, água ou bebida vegetal. Consuma 1 a 2 vezes ao dia, preferencialmente entre as refeições principais ou após o treino. Ajuste a quantidade conforme sua meta… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/65d2c60341d7.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/65d2c60341d7.webp",
     "category": "hipercaloricos"
   },
   {
@@ -1736,7 +1736,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 235.0,
     "pixPrice": 127.39,
     "description": "Kit com 100% Whey sabor Dr. Peanut e Creatina 100g. Combo sabor premium com performance. Benefícios: 100% Whey Dr. Peanut, Creatina 100g, Sabor premium, Performance. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/48920277a1a7.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/48920277a1a7.webp",
     "category": "kits"
   },
   {
@@ -1747,7 +1747,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 27.9,
     "pixPrice": 17.51,
     "description": "Complexo B da Growth Supplements. Contém todas as vitaminas do complexo B essenciais para metabolismo energético e sistema nervoso. Benefícios: Todas as vitaminas B, Metabolismo energético, Sistema nervoso, 120 cápsulas. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/9c84d8b8464e.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/9c84d8b8464e.webp",
     "category": "vitaminas"
   },
   {
@@ -1758,7 +1758,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 39.9,
     "pixPrice": 25.52,
     "description": "Vitamina D 2000UI da Growth Supplements. Essencial para saúde óssea, imunidade e absorção de cálcio. 120 cápsulas para 4 meses de uso. Benefícios: 2000UI por cápsula, Saúde óssea, Fortalece imunidade, 120 cápsulas. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/20f80dd745ef.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/20f80dd745ef.webp",
     "category": "vitaminas"
   },
   {
@@ -1769,7 +1769,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 256.32,
     "pixPrice": 151.13,
     "description": "Kit com Whey Concentrado 1kg, Creatina 250g e Coqueteleira 3 compartimentos. Kit completo com brinde. Benefícios: Whey + Creatina + Coqueteleira, Coqueteleira 3 compartimentos, Kit completo, Pronto para treinar. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/74ea765bcd1a.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/74ea765bcd1a.webp",
     "category": "kits"
   },
   {
@@ -1780,7 +1780,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 320.0,
     "pixPrice": 170.29,
     "description": "Kit com Creatina 300g e Top Whey 3W Performance 900g. Combo para ganho de massa e força. Benefícios: Creatina 300g, Top Whey 3W 900g, Ganho de massa, Força e performance. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/2728967fed93.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/2728967fed93.webp",
     "category": "kits"
   },
   {
@@ -1791,7 +1791,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 49.9,
     "pixPrice": 40.42,
     "description": "BCAA 2400 com 100 cápsulas da Max Titanium. Aminoácidos de cadeia ramificada (Leucina, Isoleucina e Valina) para recuperação e síntese proteica. Benefícios: 100 cápsulas, 2400mg por dose, Recuperação muscular, Max Titanium. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_f7f8b4881c34.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_f7f8b4881c34.webp",
     "category": "suplementos"
   },
   {
@@ -1802,7 +1802,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 342.9,
     "pixPrice": 205.51,
     "description": "IsoWhey é o Whey Protein Isolado da Max Titanium com alta pureza e rápida absorção. Ideal para ganho de massa e recuperação muscular pós-treino. Benefícios: Proteína isolada de alta pureza, Rápida absorção, Baixo teor de gordura e carboidrato, Ideal para ganho de massa magra. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/1bbf9be3b4c0.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/1bbf9be3b4c0.webp",
     "category": "suplementos"
   },
   {
@@ -1813,7 +1813,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 115.5,
     "pixPrice": 69.23,
     "description": "Night Train é o pré-treino sem cafeína da Max Titanium. Ideal para quem treina à noite e não quer comprometer o sono. Benefícios: Sem cafeína, Ideal para treinos noturnos, Não interfere no sono, Performance sem estimulantes. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/8d104a57f2dd.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/8d104a57f2dd.webp",
     "category": "pre-treino"
   },
   {
@@ -1824,7 +1824,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 244.22,
     "pixPrice": 132.24,
     "description": "Kit com 2 unidades de Creatina Creapure® 250g, totalizando 500g. Economia garantida na creatina mais pura do mundo. Benefícios: Economia no kit, 500g total, Selo Creapure®, Rendimento de longo prazo. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/21369265ef13.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/21369265ef13.webp",
     "category": "creatina"
   },
   {
@@ -1835,7 +1835,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 88.02,
     "pixPrice": 68.93,
     "description": "100% Whey Protein Concentrado em pote de 900g. Matéria-prima de alta tecnologia com rápida digestibilidade. Benefícios: Alta tecnologia, Rápida digestibilidade, Elevado valor biológico, Variedade de sabores. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_f1606d128dd0.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_f1606d128dd0.webp",
     "category": "suplementos"
   },
   {
@@ -1846,7 +1846,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 116.55,
     "pixPrice": 55.93,
     "description": "Haze Hardcore é o pré-treino mais potente da Growth Supplements. Fórmula avançada com alta concentração de cafeína, beta-alanina e taurina para treinos extremos. Benefícios: Alta concentração de cafeína, Com beta-alanina e taurina, Energia explosiva, Foco e performance extremos. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/dad8ff31ec43.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/dad8ff31ec43.webp",
     "category": "pre-treino"
   },
   {
@@ -1857,7 +1857,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 316.32,
     "pixPrice": 181.37,
     "description": "Kit performance com Whey Concentrado 1kg, Creatina 250g e Pré-Treino Haze 300g. O kit do atleta completo. Benefícios: Whey + Creatina + Pré-Treino, Kit do atleta, Performance máxima, Economia de 16%. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/2693f8a7c322.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/2693f8a7c322.webp",
     "category": "kits"
   },
   {
@@ -1868,7 +1868,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 55.9,
     "pixPrice": 35.91,
     "description": "NAC da Growth Supplements. Poderoso antioxidante precursor da glutationa, auxiliando na desintoxicação e proteção celular. Benefícios: Antioxidante poderoso, Precursor da glutationa, Desintoxicação, 60 cápsulas. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/b9324f5bee2c.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/b9324f5bee2c.webp",
     "category": "vitaminas"
   },
   {
@@ -1879,7 +1879,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 61.0,
     "pixPrice": 39.53,
     "description": "Creatina Creapure® 100g, versão compacta da creatina mais pura do mundo. Ideal para experimentar ou para uso de curto prazo. Benefícios: 99,99% de pureza, Tamanho ideal para teste, Selo Creapure®, Fabricada na Alemanha. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/932ec3fd2c72.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/932ec3fd2c72.webp",
     "category": "creatina"
   },
   {
@@ -1890,7 +1890,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 64.64,
     "pixPrice": 51.1,
     "description": "Ora Pro Nóbis Solúvel 200g da Herbalsave. Superalimento rico em proteínas e fibras. Benefícios: Superalimento, Rico em proteínas, Rico em fibras, 200g. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_b4c80374d4ea.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_b4c80374d4ea.webp",
     "category": "vitaminas"
   },
   {
@@ -1901,7 +1901,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 57.9,
     "pixPrice": 37.52,
     "description": "Vitamina C 500mg da Growth Supplements. Dose intermediária ideal para manutenção diária da imunidade e saúde geral. Benefícios: 500mg por comprimido, Dose intermediária, Imunidade diária, 120 comprimidos. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/d9065a3b26d4.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/d9065a3b26d4.webp",
     "category": "vitaminas"
   },
   {
@@ -1912,7 +1912,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 47.46,
     "pixPrice": 38.0,
     "description": "Creatina Monohidratada 100% Pura da FTW. Absorção rápida para ganho de massa e performance. Benefícios: 100% pura, Absorção rápida, Ganho de massa, Performance. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_ac30afb37efc.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_ac30afb37efc.webp",
     "category": "creatina"
   },
   {
@@ -1923,7 +1923,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 52.93,
     "pixPrice": 42.17,
     "description": "BCAA 2400 com 100 tabletes da Black Skull. Aminoácidos de cadeia ramificada para recuperação muscular. Benefícios: 100 tabletes, 2400mg por dose, Recuperação muscular, Black Skull. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_0f2ab127b636.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_0f2ab127b636.webp",
     "category": "suplementos"
   },
   {
@@ -1934,7 +1934,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 17.9,
     "pixPrice": 11.12,
     "description": "Vitamina E da Growth Supplements. Antioxidante lipossolúvel que protege as células contra danos oxidativos e promove saúde da pele. Benefícios: Antioxidante potente, Saúde da pele, Proteção celular, 75 softgels. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/019cab2c0c96.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/019cab2c0c96.webp",
     "category": "vitaminas"
   },
   {
@@ -1945,7 +1945,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 49.9,
     "pixPrice": 31.91,
     "description": "Vitamina D3 Gummy da Growth Supplements. Vitamina D em formato de goma com sabor delicioso para imunidade e saúde óssea. Benefícios: Formato gummy, Sabor delicioso, Imunidade e saúde óssea, 30 unidades. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/975be832cdf5.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/975be832cdf5.webp",
     "category": "vitaminas"
   },
   {
@@ -1956,7 +1956,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 93.22,
     "pixPrice": 52.86,
     "description": "Whey Gourmet sabor Tiramisù da Growth Supplements. Sabor premium e diferenciado com proteína de alta qualidade para quem exige o melhor. Benefícios: Sabor gourmet premium, 22g de proteína por dose, 55% de concentração, Boa absorção. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/9d13b716a813.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/9d13b716a813.webp",
     "category": "suplementos"
   },
   {
@@ -1967,7 +1967,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 49.9,
     "pixPrice": 31.91,
     "description": "Imunidade Gummy da Growth Supplements. Gomas com vitaminas C, D, Zinco e Selênio para reforçar o sistema imunológico. Benefícios: Vitaminas C e D, Zinco e Selênio, Reforço imunológico, Formato gummy saboroso. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/0c14f047b8b1.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/0c14f047b8b1.webp",
     "category": "vitaminas"
   },
   {
@@ -1978,7 +1978,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 131.99,
     "pixPrice": 68.04,
     "description": "Kit com Creatina Monohidratada 250g e Beta Alanina 250g. Dupla perfeita para força e resistência. Benefícios: Creatina + Beta Alanina, Força e resistência, 24% de desconto, Combo performance. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/709dc219da07.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/709dc219da07.webp",
     "category": "kits"
   },
   {
@@ -1989,7 +1989,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 88.8,
     "pixPrice": 43.11,
     "description": "Creatina Monohidratada 250g da Growth Supplements. Aumenta a força, potência e volume muscular. Um dos suplementos mais estudados e comprovados cientificamente. Benefícios: Aumenta força e potência, Melhora performance nos treinos, Auxilia no ganho de massa, Cientificamente comprovada. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/f6dddada5ba5.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/f6dddada5ba5.webp",
     "category": "creatina"
   },
   {
@@ -2000,7 +2000,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 530.0,
     "pixPrice": 289.66,
     "description": "Kit premium com Creatina 300g e Top Whey 3W Performance 1,8Kg. O maior combo de performance da Max Titanium. Benefícios: Creatina 300g, Top Whey 3W 1,8Kg, Kit premium, Máxima performance. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/acd09d700ffb.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/acd09d700ffb.webp",
     "category": "kits"
   },
   {
@@ -2011,7 +2011,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 23.01,
     "pixPrice": 19.35,
     "description": "Glutamina Powder Natural 150g Refil da Synthesize. Glutamina em pó econômica. Benefícios: 150g refil, Econômica, Natural, Em pó. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_80acc459a849.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_80acc459a849.webp",
     "category": "vitaminas"
   },
   {
@@ -2022,7 +2022,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 84.84,
     "pixPrice": 66.51,
     "description": "Creatina Monohidratada 300g da Vitafor. Qualidade premium para performance nos treinos. Benefícios: Qualidade premium, 300g, Monohidratada, Performance. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_72cc5c41963e.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_72cc5c41963e.webp",
     "category": "creatina"
   },
   {
@@ -2033,7 +2033,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 141.99,
     "pixPrice": 69.24,
     "description": "Kit com Multivitamínico 120 caps e Pré-Treino Haze 300g. Saúde e energia para seu treino. Benefícios: Multivitamínico + Pré-Treino, Saúde e energia, 14% de desconto, Combo essencial. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/24eeedc39142.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/24eeedc39142.webp",
     "category": "kits"
   },
   {
@@ -2044,7 +2044,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 65.49,
     "pixPrice": 51.75,
     "description": "Creatina Monohidratada 300g da Dux Human Health. Suplementação para ganho muscular e performance. Benefícios: Monohidratada pura, 300g, Ganho muscular, Dux Human Health. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_50e35d098594.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_50e35d098594.webp",
     "category": "suplementos"
   },
   {
@@ -2055,7 +2055,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 59.9,
     "pixPrice": 36.64,
     "description": "Horus Gel é o pré-treino em gel da Max Titanium. Praticidade máxima para tomar antes do treino sem precisar preparar shaker. Benefícios: Praticidade máxima, Não precisa de água, Absorção rápida, Energia imediata. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/31f16c0739c2.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/31f16c0739c2.webp",
     "category": "pre-treino"
   },
   {
@@ -2066,7 +2066,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 199.0,
     "pixPrice": 106.97,
     "description": "Kit Seca Barriga com Shot Thermo 60 caps e Shot Dry 150g. Combo para definição e redução de medidas. Benefícios: Shot Thermo 60 caps, Shot Dry 150g, Definição corporal, Redução de medidas. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/9ee0c57e3bab.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/9ee0c57e3bab.webp",
     "category": "kits"
   },
   {
@@ -2077,7 +2077,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 220.9,
     "pixPrice": 132.56,
     "description": "Top Whey 3W + Sabor é o blend proteico com os sabores mais deliciosos do mercado. Proteína concentrada, isolada e hidrolisada com sabor premium. Benefícios: Melhor sabor do mercado, Blend 3W completo, Sabores exclusivos, Alta qualidade proteica. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/a53681268c66.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/a53681268c66.webp",
     "category": "suplementos"
   },
   {
@@ -2088,7 +2088,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 146.96,
     "pixPrice": 113.89,
     "description": "Creatina Creapure 300g da Vitafor. A creatina mais pura do mundo com selo Creapure alemão. Benefícios: Selo Creapure, 300g, Máxima pureza, Fabricada na Alemanha. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_858aec3c6603.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_858aec3c6603.webp",
     "category": "creatina"
   },
   {
@@ -2099,7 +2099,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 69.27,
     "pixPrice": 54.63,
     "description": "Glutamina 300g. Aminoácido essencial para recuperação muscular e fortalecimento do sistema imunológico. Benefícios: 300g, Recuperação muscular, Sistema imunológico, Aminoácido essencial. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_6d0edcad4e0b.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_6d0edcad4e0b.webp",
     "category": "vitaminas"
   },
   {
@@ -2110,7 +2110,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 125.26,
     "pixPrice": 59.19,
     "description": "Whey Crispy é o suplemento proteico crocante da Masterway. Com alto teor de proteína e textura única, ideal para lanches saudáveis e práticos no dia a dia. Benefícios: Alto teor proteico, Textura crocante e saborosa, Prático para o dia a dia, Fonte de aminoácidos essenciais. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/65d04d6e395a.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/65d04d6e395a.webp",
     "category": "suplementos"
   },
   {
@@ -2121,7 +2121,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 205.26,
     "pixPrice": 122.85,
     "description": "Whey Protein Zero Lactose da Masterway, perfeito para quem tem intolerância à lactose. Fórmula de alta absorção com perfil completo de aminoácidos. Benefícios: Zero lactose, Alta absorção, Perfil completo de aminoácidos, Ideal para intolerantes. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/59bba7cf27dd.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/59bba7cf27dd.webp",
     "category": "suplementos"
   },
   {
@@ -2132,7 +2132,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 66.55,
     "pixPrice": 43.13,
     "description": "Daily Whey da Growth, a proteína acessível para o dia a dia. Com 22g de proteína por dose, ideal para quem busca praticidade e qualidade. Benefícios: 22g de proteína por dose, Preço acessível, Ideal para rotina, Boa solubilidade. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/7ab10adb91cd.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/7ab10adb91cd.webp",
     "category": "suplementos"
   },
   {
@@ -2143,7 +2143,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 189.37,
     "pixPrice": 113.34,
     "description": "Whey Protein Concentrado 910g da Masterway. Proteína de alta qualidade para suporte ao crescimento e recuperação muscular. Benefícios: Proteína de alta qualidade, Recuperação muscular, Boa solubilidade, Sabor agradável. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/bc33ee330bf9.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/bc33ee330bf9.webp",
     "category": "suplementos"
   },
   {
@@ -2154,7 +2154,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 39.9,
     "pixPrice": 25.52,
     "description": "Cafeína 200mg em cápsulas da Growth Supplements. Termogênico natural que aumenta a disposição, o foco e acelera o metabolismo. Benefícios: 200mg por cápsula, Aumenta disposição e foco, Acelera metabolismo, 60 cápsulas. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/c15976e5ab8d.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/c15976e5ab8d.webp",
     "category": "pre-treino"
   },
   {
@@ -2165,7 +2165,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 55.44,
     "pixPrice": 35.93,
     "description": "Barra de Proteína Vegana da Growth Supplements. 9,6g de proteína vegetal por unidade. Display com 12 unidades de 40g. Ideal para veganos e intolerantes. Benefícios: 9,6g de proteína vegetal, 100% vegana, 12 unidades por display, Para veganos e intolerantes. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/a0d1a758ea79.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/a0d1a758ea79.webp",
     "category": "barrinhas"
   },
   {
@@ -2176,7 +2176,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 122.11,
     "pixPrice": 62.93,
     "description": "Insanity é o pré-treino da Growth Supplements para quem busca intensidade máxima. Fórmula completa com cafeína, arginina e vitaminas do complexo B. Benefícios: Intensidade máxima, Com cafeína e arginina, Vitaminas do complexo B, Energia prolongada. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/1a41c06a0426.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/1a41c06a0426.webp",
     "category": "pre-treino"
   },
   {
@@ -2187,7 +2187,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 419.9,
     "pixPrice": 251.93,
     "description": "Top Whey 3W + Performance na versão econômica de 1,8Kg. Blend triplo de proteínas para quem treina pesado e busca rendimento superior. Benefícios: Embalagem econômica 1,8Kg, Blend 3W completo, Rendimento superior, Ideal para treinos intensos. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/ccdbd6fd4e2b.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/ccdbd6fd4e2b.webp",
     "category": "suplementos"
   },
   {
@@ -2198,7 +2198,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 66.55,
     "pixPrice": 43.13,
     "description": "Barra Crisp com Whey Protein da Growth Supplements. Crocante com 12g de proteína por unidade. Display com 12 unidades de 40g. Benefícios: 12g de proteína por barra, Textura crocante, Com whey protein, 12 unidades por display. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/b30dadf88807.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/b30dadf88807.webp",
     "category": "barrinhas"
   },
   {
@@ -2209,7 +2209,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 142.41,
     "pixPrice": 110.42,
     "description": "BCAA Mega-Size 1000 com 200 cápsulas da Optimum Nutrition. A referência mundial em BCAA. Benefícios: 200 cápsulas, 1000mg por cápsula, Optimum Nutrition, Referência mundial. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_d6a09497cbd5.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_d6a09497cbd5.webp",
     "category": "suplementos"
   },
   {
@@ -2220,7 +2220,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 148.66,
     "pixPrice": 69.24,
     "description": "Kit com Whey Gourmet 400g e Creatina Monohidratada 250g. Versão compacta para quem quer experimentar. Benefícios: Whey Gourmet 400g, Creatina Mono 250g, Versão compacta, Ótimo para iniciar. Indicado para: Praticantes de atividade física que querem montar uma rotina completa de suplementação com economia, evitando comprar item por item. Modo de uso: Cada produto do kit tem seu próprio modo de uso. Consulte os rótulos individuais e/ou a página de cada produto para a posologia correta. Em geral: whey após o treino, creatina diária em qualquer horário, pré-treino 30… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/58757c1b2903.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/58757c1b2903.webp",
     "category": "kits"
   },
   {
@@ -2231,7 +2231,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 66.14,
     "pixPrice": 53.58,
     "description": "BCAA 2400 com 200 cápsulas da Max Titanium. Embalagem econômica para suplementação contínua de BCAA. Benefícios: 200 cápsulas, 2400mg por dose, Embalagem econômica, Max Titanium. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_73f8a6f88b0a.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_73f8a6f88b0a.webp",
     "category": "suplementos"
   },
   {
@@ -2242,7 +2242,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 61.9,
     "pixPrice": 39.91,
     "description": "Cafeína 200mg em comprimidos da Growth Supplements. Formato prático em comprimidos para quem prefere essa forma de consumo. Benefícios: 200mg por comprimido, 120 comprimidos, Formato prático, Termogênico natural. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/09b88b88ea1b.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/09b88b88ea1b.webp",
     "category": "pre-treino"
   },
   {
@@ -2253,7 +2253,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 122.11,
     "pixPrice": 69.24,
     "description": "Medium Whey da Growth. Equilíbrio perfeito entre economia e eficiência com 17g de proteína por dose e 57% de concentração. Benefícios: Equilíbrio entre preço e qualidade, 17g de proteína por dose, 57% de concentração, Boa absorção. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/6fc477c263c5.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/6fc477c263c5.webp",
     "category": "suplementos"
   },
   {
@@ -2264,7 +2264,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 79.89,
     "pixPrice": 47.82,
     "description": "Display com 12 unidades de barras de proteína Masterway. Ideal para quem busca praticidade e economia na suplementação diária. Benefícios: Economia no display, 12 unidades, Praticidade, Fonte de proteína de qualidade. Indicado para: Adultos saudáveis, praticantes de atividade física, atletas e pessoas que buscam aumentar a ingestão diária de proteínas para suporte ao ganho de massa magra, recuperação muscular e saciedade. Modo de uso: Adicione 1 dose (medidor incluso, geralmente 30g) em 200–300ml de água gelada, leite ou bebida vegetal. Misture em coqueteleira ou liquidificador por 20 segundos. Consuma de 1 a 2 doses por dia, preferencialmente após… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/ade0a8d31ab2.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/ade0a8d31ab2.webp",
     "category": "suplementos"
   },
   {
@@ -2275,7 +2275,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 30.9,
     "pixPrice": 19.92,
     "description": "Waxy Maize da Growth Supplements. Carboidrato de alto peso molecular com absorção rápida, ideal para pré e pós-treino. Benefícios: Alto peso molecular, Absorção rápida, Energia sustentada, 1Kg de rendimento. Indicado para: Adultos saudáveis e praticantes de atividade física que desejam aumentar energia, foco, disposição e performance durante o treino. Modo de uso: Misture 1 dose (geralmente 5–10g) em 200–300ml de água gelada e consuma de 20 a 30 minutos antes do treino. Não exceder 1 dose ao dia. Evite consumir após as 17h para não interferir no sono. Inicie com meia dose para… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/6a04120aeacc.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/6a04120aeacc.webp",
     "category": "pre-treino"
   },
   {
@@ -2286,7 +2286,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 21.9,
     "pixPrice": 13.52,
     "description": "Vitamina C da Growth Supplements. Antioxidante essencial para imunidade, pele saudável e absorção de ferro. Benefícios: Fortalece imunidade, Pele saudável, Absorção de ferro, 120 cápsulas. Indicado para: Adultos que desejam complementar a ingestão diária de vitaminas e minerais, pessoas com dietas restritivas, idosos, esportistas com alto desgaste e indivíduos com deficiências nutricionais… Modo de uso: Tomar 1 a 2 cápsulas/comprimidos por dia, preferencialmente junto com uma refeição para melhor absorção (especialmente vitaminas lipossolúveis A, D, E, K). Siga sempre a recomendação do fabricante na embalagem ou… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/11ba47df6d45.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/11ba47df6d45.webp",
     "category": "vitaminas"
   },
   {
@@ -2297,7 +2297,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 85.62,
     "pixPrice": 67.1,
     "description": "Hipercalórico sabor Chocolate 1Kg da Growth Supplements. Fórmula completa para ganho de peso. Benefícios: 1Kg de rendimento, Sabor chocolate, Fórmula completa, Growth Supplements. Indicado para: Pessoas com dificuldade de ganhar peso (ectomorfos), atletas em fase de bulking, praticantes que precisam de alto aporte calórico diário e indivíduos em recuperação que necessitam aumentar a… Modo de uso: Misture 2 a 4 doses (medidor incluso) em 400–600ml de leite, água ou bebida vegetal. Consuma 1 a 2 vezes ao dia, preferencialmente entre as refeições principais ou após o treino. Ajuste a quantidade conforme sua meta… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/farma_4fb346212cba.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/farma_4fb346212cba.webp",
     "category": "hipercaloricos"
   },
   {
@@ -2308,7 +2308,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 100.5,
     "pixPrice": 60.27,
     "description": "Power Protein Bar 41g da Max Titanium. Versão compacta com 12g de proteína por barra. Display com 12 unidades, ideal para levar na bolsa. Benefícios: 12g de proteína por barra, Tamanho compacto, Display com 12 unidades, Ideal para levar na bolsa. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/441a62890738.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/441a62890738.webp",
     "category": "barrinhas"
   },
   {
@@ -2319,7 +2319,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 225.3,
     "pixPrice": 113.19,
     "description": "Pack econômico com 3 potes de Creatina 300g, totalizando 900g. A melhor economia para uso prolongado de creatina. Benefícios: Máxima economia, 900g total, Uso prolongado, Melhor preço por grama. Indicado para: Praticantes de musculação, atletas de força, esportes explosivos (sprint, futebol, lutas) e adultos que desejam aumentar performance, força máxima e volume muscular. Modo de uso: Dose padrão: 3 a 5g por dia, todos os dias, em qualquer horário. Não é necessária fase de saturação — a saturação muscular acontece naturalmente em 3 a 4 semanas de uso contínuo. Dissolva em água, suco ou junto com… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/cb3655611505.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/cb3655611505.webp",
     "category": "creatina"
   },
   {
@@ -2330,7 +2330,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 133.5,
     "pixPrice": 74.9,
     "description": "Mass Titanium Refil 3kg da Max Titanium. Hipercalórico com 619 kcal e 17g de proteína por dose. Blend de WPC, Colágeno e Albumina com Maltodextrina. Benefícios: 619 kcal por porção, 17g de proteína, WPC + Colágeno + Albumina, Ideal para ganho de peso. Indicado para: Pessoas com dificuldade de ganhar peso (ectomorfos), atletas em fase de bulking, praticantes que precisam de alto aporte calórico diário e indivíduos em recuperação que necessitam aumentar a… Modo de uso: Misture 2 a 4 doses (medidor incluso) em 400–600ml de leite, água ou bebida vegetal. Consuma 1 a 2 vezes ao dia, preferencialmente entre as refeições principais ou após o treino. Ajuste a quantidade conforme sua meta… Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/4d3fcf22df1c.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/4d3fcf22df1c.webp",
     "category": "hipercaloricos"
   },
   {
@@ -2341,7 +2341,7 @@ export const PRODUCTS: Product[] = [
     "originalPrice": 66.55,
     "pixPrice": 43.13,
     "description": "Barra Wafer Protein da Growth Supplements. Wafer crocante com cobertura de chocolate e alto teor proteico. Display com 6 unidades de 65g. Benefícios: 16g de proteína por barra, Textura wafer crocante, Cobertura de chocolate, 6 unidades por display. Indicado para: Pessoas com rotina corrida, praticantes de exercício, estudantes, viajantes e quem busca um lanche prático, saboroso e nutricionalmente equilibrado entre as refeições. Modo de uso: Consumir 1 a 2 unidades por dia como lanche entre refeições, antes do treino para energia ou após o treino para recuperação. Pode substituir um lanche, mas não uma refeição principal. Frete grátis para todo o Brasil, sem valor mínimo. Entrega rápida.",
-    "image": "https://ultragym.net/products/3f3c9385fb3c.webp",
+    "image": "https://bold-rush-s2acommerce.lovable.app/products/3f3c9385fb3c.webp",
     "category": "barrinhas"
   }
 ];
