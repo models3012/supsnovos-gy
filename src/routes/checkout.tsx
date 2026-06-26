@@ -3,7 +3,8 @@ import { SEO } from '@/components/seo/SEO'
 import { Button } from '@/components/ui/button'
 import { useCart } from '@/lib/cart-store'
 import { ChevronLeft, CreditCard, ShieldCheck, Truck, Lock, MapPin, User, CheckCircle2 } from 'lucide-react'
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
+import { trackBeginCheckout, trackPurchase, setEnhancedConversionData, setEcomm } from '@/lib/tracking'
 
 export const Route = createFileRoute('/checkout')({
   component: CheckoutPage,
@@ -14,9 +15,33 @@ function CheckoutPage() {
   const [step, setStep] = useState(1);
   const [paymentMethod, setPaymentMethod] = useState<'pix' | 'card'>('pix');
   const [isFinished, setIsFinished] = useState(false);
+  const emailRef = useRef<HTMLInputElement>(null);
+  const cpfRef = useRef<HTMLInputElement>(null);
+  const nameRef = useRef<HTMLInputElement>(null);
+  const phoneRef = useRef<HTMLInputElement>(null);
+  const cepRef = useRef<HTMLInputElement>(null);
+  const streetRef = useRef<HTMLInputElement>(null);
+  const cityRef = useRef<HTMLInputElement>(null);
+  const ufRef = useRef<HTMLInputElement>(null);
 
   const totalPrice = getTotalPrice();
   const pixPrice = items.reduce((sum, item) => sum + item.pixPrice * item.quantity, 0);
+
+  // begin_checkout — dispara 1x ao entrar com itens
+  const beganRef = useRef(false);
+  useEffect(() => {
+    if (!beganRef.current && items.length > 0) {
+      beganRef.current = true;
+      trackBeginCheckout(
+        items.map(i => ({
+          id: i.id, name: i.name,
+          brand: (i as any).brand, category: (i as any).category,
+          price: i.price, quantity: i.quantity,
+        })),
+      );
+    }
+  }, [items.length]);
+
 
   if (isFinished) {
     return (
@@ -77,10 +102,10 @@ function CheckoutPage() {
                       <h2 className="text-2xl font-black italic uppercase tracking-tighter">Dados Pessoais</h2>
                    </div>
                    <div className="grid md:grid-cols-2 gap-4">
-                      <input placeholder="E-mail" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
-                      <input placeholder="CPF" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
-                      <input placeholder="Nome Completo" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20 md:col-span-2" />
-                      <input placeholder="WhatsApp" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
+                      <input ref={emailRef} placeholder="E-mail" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
+                      <input ref={cpfRef} placeholder="CPF" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
+                      <input ref={nameRef} placeholder="Nome Completo" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20 md:col-span-2" />
+                      <input ref={phoneRef} placeholder="WhatsApp" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
                    </div>
                 </div>
 
@@ -91,14 +116,15 @@ function CheckoutPage() {
                       <h2 className="text-2xl font-black italic uppercase tracking-tighter">Entrega</h2>
                    </div>
                    <div className="grid md:grid-cols-3 gap-4">
-                      <input placeholder="CEP" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
-                      <input placeholder="Rua" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20 md:col-span-2" />
+                      <input ref={cepRef} placeholder="CEP" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
+                      <input ref={streetRef} placeholder="Rua" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20 md:col-span-2" />
                       <input placeholder="Número" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
                       <input placeholder="Bairro" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20 md:col-span-2" />
-                      <input placeholder="Cidade" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20 md:col-span-2" />
-                      <input placeholder="UF" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
+                      <input ref={cityRef} placeholder="Cidade" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20 md:col-span-2" />
+                      <input ref={ufRef} placeholder="UF" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
                    </div>
                 </div>
+
 
                 {/* Section 3: Payment */}
                 <div className="flex flex-col gap-8">
@@ -170,7 +196,30 @@ function CheckoutPage() {
                 </div>
 
                 <Button 
-                  onClick={() => {
+                  onClick={async () => {
+                    const finalValue = paymentMethod === 'pix' ? pixPrice : totalPrice;
+                    const transactionId = `ULTRA-${Date.now()}`;
+                    const [firstName, ...rest] = (nameRef.current?.value ?? '').trim().split(/\s+/);
+                    await setEnhancedConversionData({
+                      email: emailRef.current?.value,
+                      phone: phoneRef.current?.value,
+                      firstName,
+                      lastName: rest.join(' '),
+                      street: streetRef.current?.value,
+                      city: cityRef.current?.value,
+                      region: ufRef.current?.value,
+                      postalCode: cepRef.current?.value,
+                      country: 'BR',
+                    });
+                    trackPurchase({
+                      transactionId,
+                      value: finalValue,
+                      items: items.map(i => ({
+                        id: i.id, name: i.name,
+                        brand: (i as any).brand, category: (i as any).category,
+                        price: i.price, quantity: i.quantity,
+                      })),
+                    });
                     setIsFinished(true);
                     clearCart();
                   }}
@@ -178,6 +227,7 @@ function CheckoutPage() {
                 >
                    Finalizar Agora <CheckCircle2 className="ml-2 h-5 w-5 group-hover:scale-125 transition-transform" />
                 </Button>
+
 
                 <div className="flex flex-col items-center gap-4 pt-4">
                    <div className="flex items-center gap-2 opacity-50 grayscale">

@@ -1,6 +1,7 @@
 import { create } from 'zustand';
 import { persist } from 'zustand/middleware';
 import { Product } from './products';
+import { trackAddToCart } from './tracking';
 
 interface CartItem extends Product {
   quantity: number;
@@ -35,6 +36,15 @@ export const useCart = create<CartStore>()(
         } else {
           set({ items: [...currentItems, { ...product, quantity: 1 }] });
         }
+
+        trackAddToCart({
+          id: product.id,
+          name: product.name,
+          brand: (product as any).brand,
+          category: (product as any).category,
+          price: product.price,
+          quantity: 1,
+        });
       },
       removeItem: (productId) => {
         set({ items: get().items.filter((item) => item.id !== productId) });

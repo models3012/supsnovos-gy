@@ -4,7 +4,8 @@ import { ShoppingCart, ShieldCheck, Truck, Star, ChevronLeft, Heart, Award, Zap,
 import { PRODUCTS } from "@/lib/products";
 import { useCart } from "@/lib/cart-store";
 import { toast } from "sonner";
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import { trackViewItem } from "@/lib/tracking";
 
 
 export const Route = createFileRoute("/produto/$slug")({
@@ -19,6 +20,18 @@ function ProductPage() {
   const [tab, setTab] = useState<"desc" | "nutri" | "benef">("desc");
 
   const product = PRODUCTS.find(p => p.id === slug);
+
+  useEffect(() => {
+    if (product) {
+      trackViewItem({
+        id: product.id,
+        name: product.name,
+        brand: (product as any).brand,
+        category: (product as any).category,
+        price: product.price,
+      });
+    }
+  }, [product?.id]);
 
   if (!product) {
     return (
