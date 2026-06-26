@@ -102,10 +102,10 @@ function CheckoutPage() {
                       <h2 className="text-2xl font-black italic uppercase tracking-tighter">Dados Pessoais</h2>
                    </div>
                    <div className="grid md:grid-cols-2 gap-4">
-                      <input placeholder="E-mail" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
-                      <input placeholder="CPF" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
-                      <input placeholder="Nome Completo" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20 md:col-span-2" />
-                      <input placeholder="WhatsApp" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
+                      <input ref={emailRef} placeholder="E-mail" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
+                      <input ref={cpfRef} placeholder="CPF" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
+                      <input ref={nameRef} placeholder="Nome Completo" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20 md:col-span-2" />
+                      <input ref={phoneRef} placeholder="WhatsApp" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
                    </div>
                 </div>
 
@@ -116,14 +116,15 @@ function CheckoutPage() {
                       <h2 className="text-2xl font-black italic uppercase tracking-tighter">Entrega</h2>
                    </div>
                    <div className="grid md:grid-cols-3 gap-4">
-                      <input placeholder="CEP" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
-                      <input placeholder="Rua" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20 md:col-span-2" />
+                      <input ref={cepRef} placeholder="CEP" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
+                      <input ref={streetRef} placeholder="Rua" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20 md:col-span-2" />
                       <input placeholder="Número" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
                       <input placeholder="Bairro" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20 md:col-span-2" />
-                      <input placeholder="Cidade" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20 md:col-span-2" />
-                      <input placeholder="UF" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
+                      <input ref={cityRef} placeholder="Cidade" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20 md:col-span-2" />
+                      <input ref={ufRef} placeholder="UF" className="h-14 bg-slate-50 border rounded-2xl px-6 font-bold text-sm focus:ring-2 focus:ring-orange-600/20" />
                    </div>
                 </div>
+
 
                 {/* Section 3: Payment */}
                 <div className="flex flex-col gap-8">
