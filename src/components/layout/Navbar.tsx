@@ -3,7 +3,7 @@ import { ShoppingCart, Search, User, Menu, Zap, Truck, ShieldCheck } from "lucid
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger, SheetHeader, SheetTitle } from "@/components/ui/sheet";
 import { CartSidebar } from "@/components/cart/CartSidebar";
-import { useState } from "react";
+import { useRef, useState } from "react";
 
 const NAV_LINKS = [
   { label: "Suplementos", slug: "suplementos" },
@@ -26,6 +26,20 @@ const PROMO_ITEMS = [
 export const Navbar = () => {
   const [searchQuery, setSearchQuery] = useState("");
   const navigate = useNavigate();
+  const logoClicks = useRef(0);
+  const logoTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  const handleLogoClick = (e: React.MouseEvent) => {
+    logoClicks.current += 1;
+    if (logoTimer.current) clearTimeout(logoTimer.current);
+    if (logoClicks.current >= 3) {
+      e.preventDefault();
+      logoClicks.current = 0;
+      navigate({ to: "/admin/unlock" });
+      return;
+    }
+    logoTimer.current = setTimeout(() => { logoClicks.current = 0; }, 800);
+  };
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
@@ -84,7 +98,7 @@ export const Navbar = () => {
               </SheetContent>
             </Sheet>
 
-            <Link to="/" className="flex items-center gap-2 group">
+            <Link to="/" onClick={handleLogoClick} className="flex items-center gap-2 group select-none">
               <div className="relative">
                 <div className="absolute inset-0 bg-orange-500 blur-lg opacity-60 group-hover:opacity-100 transition-opacity" />
                 <div className="relative bg-orange-500 text-black font-display text-2xl px-2 leading-none py-1 skew-x-[-8deg]">U</div>

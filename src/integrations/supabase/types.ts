@@ -93,8 +93,11 @@ export type Database = {
           pix_key: string | null
           pix_qr_code: string | null
           shipping_address: Json
+          source: string | null
+          speedmax_synced: boolean | null
           status: string
           total_amount: number
+          tracking_code: string | null
           updated_at: string
           user_id: string | null
         }
@@ -107,8 +110,11 @@ export type Database = {
           pix_key?: string | null
           pix_qr_code?: string | null
           shipping_address: Json
+          source?: string | null
+          speedmax_synced?: boolean | null
           status?: string
           total_amount: number
+          tracking_code?: string | null
           updated_at?: string
           user_id?: string | null
         }
@@ -121,8 +127,11 @@ export type Database = {
           pix_key?: string | null
           pix_qr_code?: string | null
           shipping_address?: Json
+          source?: string | null
+          speedmax_synced?: boolean | null
           status?: string
           total_amount?: number
+          tracking_code?: string | null
           updated_at?: string
           user_id?: string | null
         }
@@ -223,27 +232,54 @@ export type Database = {
       site_settings: {
         Row: {
           google_merchant_id: string | null
+          hide_pix_holder: boolean | null
           id: string
+          pix_city: string | null
           pix_discount_percent: number | null
+          pix_holder: string | null
           pix_key: string | null
+          pix_provider: string | null
+          speedmax_token: string | null
           store_name: string | null
           updated_at: string
+          whatsapp_api_token: string | null
+          whatsapp_api_url: string | null
+          whatsapp_number: string | null
+          zoepay_enabled: boolean | null
         }
         Insert: {
           google_merchant_id?: string | null
+          hide_pix_holder?: boolean | null
           id?: string
+          pix_city?: string | null
           pix_discount_percent?: number | null
+          pix_holder?: string | null
           pix_key?: string | null
+          pix_provider?: string | null
+          speedmax_token?: string | null
           store_name?: string | null
           updated_at?: string
+          whatsapp_api_token?: string | null
+          whatsapp_api_url?: string | null
+          whatsapp_number?: string | null
+          zoepay_enabled?: boolean | null
         }
         Update: {
           google_merchant_id?: string | null
+          hide_pix_holder?: boolean | null
           id?: string
+          pix_city?: string | null
           pix_discount_percent?: number | null
+          pix_holder?: string | null
           pix_key?: string | null
+          pix_provider?: string | null
+          speedmax_token?: string | null
           store_name?: string | null
           updated_at?: string
+          whatsapp_api_token?: string | null
+          whatsapp_api_url?: string | null
+          whatsapp_number?: string | null
+          zoepay_enabled?: boolean | null
         }
         Relationships: []
       }
