@@ -20,6 +20,7 @@ import { Route as CategoriaRouteImport } from './routes/$categoria'
 import { Route as IndexRouteImport } from './routes/index'
 import { Route as ProdutoSlugRouteImport } from './routes/produto.$slug'
 import { Route as BlogSlugRouteImport } from './routes/blog.$slug'
+import { Route as AdminUnlockRouteImport } from './routes/admin.unlock'
 import { Route as ApiPublicMerchantFeedRouteImport } from './routes/api/public/merchant/feed'
 
 const TermosDeUsoRoute = TermosDeUsoRouteImport.update({
@@ -77,6 +78,11 @@ const BlogSlugRoute = BlogSlugRouteImport.update({
   path: '/$slug',
   getParentRoute: () => BlogRoute,
 } as any)
+const AdminUnlockRoute = AdminUnlockRouteImport.update({
+  id: '/admin/unlock',
+  path: '/admin/unlock',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const ApiPublicMerchantFeedRoute = ApiPublicMerchantFeedRouteImport.update({
   id: '/api/public/merchant/feed',
   path: '/api/public/merchant/feed',
@@ -93,6 +99,7 @@ export interface FileRoutesByFullPath {
   '/politica-de-privacidade': typeof PoliticaDePrivacidadeRoute
   '/politica-de-reembolso': typeof PoliticaDeReembolsoRoute
   '/termos-de-uso': typeof TermosDeUsoRoute
+  '/admin/unlock': typeof AdminUnlockRoute
   '/blog/$slug': typeof BlogSlugRoute
   '/produto/$slug': typeof ProdutoSlugRoute
   '/api/public/merchant/feed': typeof ApiPublicMerchantFeedRoute
@@ -107,6 +114,7 @@ export interface FileRoutesByTo {
   '/politica-de-privacidade': typeof PoliticaDePrivacidadeRoute
   '/politica-de-reembolso': typeof PoliticaDeReembolsoRoute
   '/termos-de-uso': typeof TermosDeUsoRoute
+  '/admin/unlock': typeof AdminUnlockRoute
   '/blog/$slug': typeof BlogSlugRoute
   '/produto/$slug': typeof ProdutoSlugRoute
   '/api/public/merchant/feed': typeof ApiPublicMerchantFeedRoute
@@ -122,6 +130,7 @@ export interface FileRoutesById {
   '/politica-de-privacidade': typeof PoliticaDePrivacidadeRoute
   '/politica-de-reembolso': typeof PoliticaDeReembolsoRoute
   '/termos-de-uso': typeof TermosDeUsoRoute
+  '/admin/unlock': typeof AdminUnlockRoute
   '/blog/$slug': typeof BlogSlugRoute
   '/produto/$slug': typeof ProdutoSlugRoute
   '/api/public/merchant/feed': typeof ApiPublicMerchantFeedRoute
@@ -138,6 +147,7 @@ export interface FileRouteTypes {
     | '/politica-de-privacidade'
     | '/politica-de-reembolso'
     | '/termos-de-uso'
+    | '/admin/unlock'
     | '/blog/$slug'
     | '/produto/$slug'
     | '/api/public/merchant/feed'
@@ -152,6 +162,7 @@ export interface FileRouteTypes {
     | '/politica-de-privacidade'
     | '/politica-de-reembolso'
     | '/termos-de-uso'
+    | '/admin/unlock'
     | '/blog/$slug'
     | '/produto/$slug'
     | '/api/public/merchant/feed'
@@ -166,6 +177,7 @@ export interface FileRouteTypes {
     | '/politica-de-privacidade'
     | '/politica-de-reembolso'
     | '/termos-de-uso'
+    | '/admin/unlock'
     | '/blog/$slug'
     | '/produto/$slug'
     | '/api/public/merchant/feed'
@@ -181,6 +193,7 @@ export interface RootRouteChildren {
   PoliticaDePrivacidadeRoute: typeof PoliticaDePrivacidadeRoute
   PoliticaDeReembolsoRoute: typeof PoliticaDeReembolsoRoute
   TermosDeUsoRoute: typeof TermosDeUsoRoute
+  AdminUnlockRoute: typeof AdminUnlockRoute
   ProdutoSlugRoute: typeof ProdutoSlugRoute
   ApiPublicMerchantFeedRoute: typeof ApiPublicMerchantFeedRoute
 }
@@ -264,6 +277,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof BlogSlugRouteImport
       parentRoute: typeof BlogRoute
     }
+    '/admin/unlock': {
+      id: '/admin/unlock'
+      path: '/admin/unlock'
+      fullPath: '/admin/unlock'
+      preLoaderRoute: typeof AdminUnlockRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/api/public/merchant/feed': {
       id: '/api/public/merchant/feed'
       path: '/api/public/merchant/feed'
@@ -294,6 +314,7 @@ const rootRouteChildren: RootRouteChildren = {
   PoliticaDePrivacidadeRoute: PoliticaDePrivacidadeRoute,
   PoliticaDeReembolsoRoute: PoliticaDeReembolsoRoute,
   TermosDeUsoRoute: TermosDeUsoRoute,
+  AdminUnlockRoute: AdminUnlockRoute,
   ProdutoSlugRoute: ProdutoSlugRoute,
   ApiPublicMerchantFeedRoute: ApiPublicMerchantFeedRoute,
 }
