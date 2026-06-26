@@ -1,16 +1,9 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { SEO } from "@/components/seo/SEO";
 import { Button } from "@/components/ui/button";
-import { Truck, ShieldCheck, CreditCard, ChevronRight, Star, Clock, Plus, Lock, Shirt } from "lucide-react";
-import { PRODUCTS } from "@/lib/products";
-import { BLOG_POSTS } from "@/lib/blog";
-import { useCart } from "@/lib/cart-store";
+import { Truck, ShieldCheck, CreditCard, ChevronRight, Star, Plus, Lock } from "lucide-react";
 import hazeHardcoreImg from "@/assets/haze-hardcore.png";
 
-
-
-
-import { toast } from "sonner";
 
 
 
