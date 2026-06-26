@@ -90,7 +90,7 @@ function Index() {
                   </div>
                   <span className="text-white font-display text-2xl mt-1">R$ 62,14</span>
                 </div>
-                <img src="https://bold-rush-s2acommerce.lovable.app/products/dad8ff31ec43.webp" alt="Haze Hardcore" className="w-32 md:w-40 drop-shadow-[0_20px_40px_rgba(255,77,0,0.4)] animate-float group-hover:scale-110 transition-transform duration-500" />
+                <img src={hazeHardcoreImg} alt="Haze Hardcore" className="w-32 md:w-40 drop-shadow-[0_20px_40px_rgba(255,77,0,0.4)] animate-float group-hover:scale-110 transition-transform duration-500" />
               </Link>
             </div>
 
