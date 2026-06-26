@@ -72,6 +72,9 @@ function CategoryPage() {
                    className="w-full h-full object-contain group-hover:scale-110 transition-transform duration-500 mix-blend-multiply"
                    alt={product.name}
                    loading="lazy"
+                   decoding="async"
+                   width={300}
+                   height={300}
                    onError={(e) => {
                      (e.target as HTMLImageElement).src = 'https://bold-rush-s2acommerce.lovable.app/products/dad8ff31ec43.webp';
                    }}

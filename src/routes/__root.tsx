@@ -97,11 +97,19 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { rel: "stylesheet", href: appCss },
       { rel: "preconnect", href: "https://fonts.googleapis.com" },
       { rel: "preconnect", href: "https://fonts.gstatic.com", crossOrigin: "anonymous" },
-      { rel: "preconnect", href: "https://www.googletagmanager.com", crossOrigin: "anonymous" },
+      { rel: "preconnect", href: "https://bold-rush-s2acommerce.lovable.app", crossOrigin: "anonymous" },
+      { rel: "preconnect", href: "https://images.unsplash.com", crossOrigin: "anonymous" },
+      { rel: "dns-prefetch", href: "https://www.googletagmanager.com" },
       {
         rel: "stylesheet",
-        href: "https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700;800;900&display=swap",
+        href: "https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;600;800;900&display=swap",
       },
+      {
+        rel: "preload",
+        as: "image",
+        href: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=70&w=1280&auto=format&fit=crop",
+        fetchpriority: "high",
+      } as any,
     ],
     scripts: [
       { src: "https://www.googletagmanager.com/gtag/js?id=AW-18088511561", async: true },
