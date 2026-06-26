@@ -17,7 +17,7 @@ export const BLOG_POSTS: BlogPost[] = [
     date: "21/04/2026",
     readTime: "8 min",
     category: "Suplementação",
-    image: "https://ultragym.net/products/farma_a8c11df83e1e.webp",
+    image: "https://bold-rush-s2acommerce.lovable.app/products/farma_a8c11df83e1e.webp",
     content: `
       <p>A creatina é, sem dúvida, o suplemento mais estudado e com maior evidência científica de eficácia no mundo fitness. No entanto, muitas dúvidas ainda cercam o seu uso em 2026.</p>
       
@@ -38,7 +38,7 @@ export const BLOG_POSTS: BlogPost[] = [
     date: "21/04/2026",
     readTime: "10 min",
     category: "Suplementação",
-    image: "https://ultragym.net/products/000eea4a73cf.webp",
+    image: "https://bold-rush-s2acommerce.lovable.app/products/000eea4a73cf.webp",
     content: `
       <p>Com tantas opções no mercado, escolher o Whey Protein ideal pode ser um desafio. Em 2026, a transparência dos laudos tornou-se o principal diferencial das marcas.</p>
       
@@ -60,7 +60,7 @@ export const BLOG_POSTS: BlogPost[] = [
     date: "21/04/2026",
     readTime: "7 min",
     category: "Performance",
-    image: "https://ultragym.net/products/farma_b5f33e4c93d6.webp",
+    image: "https://bold-rush-s2acommerce.lovable.app/products/farma_b5f33e4c93d6.webp",
     content: `
       <p>O mercado de pré-treinos evoluiu drasticamente. Saímos da era apenas da cafeína para fórmulas complexas que visam foco, pump e resistência muscular.</p>
       
@@ -110,7 +110,7 @@ export const BLOG_POSTS: BlogPost[] = [
     date: "05/05/2026",
     readTime: "5 min",
     category: "Saúde",
-    image: "https://ultragym.net/products/farma_1a2b3c4d5e6f.webp",
+    image: "https://bold-rush-s2acommerce.lovable.app/products/farma_1a2b3c4d5e6f.webp",
     content: `
       <p>Muitas vezes negligenciado por quem foca apenas em Whey e Creatina, o Ômega 3 é um dos pilares da longevidade esportiva.</p>
       <h2>Ação Anti-inflamatória</h2>

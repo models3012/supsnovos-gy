@@ -90,7 +90,7 @@ function Index() {
                   </div>
                   <span className="text-white font-display text-2xl mt-1">R$ 62,14</span>
                 </div>
-                <img src="https://ultragym.net/products/dad8ff31ec43.webp" alt="Haze Hardcore" className="w-32 md:w-40 drop-shadow-[0_20px_40px_rgba(255,77,0,0.4)] animate-float group-hover:scale-110 transition-transform duration-500" />
+                <img src="https://bold-rush-s2acommerce.lovable.app/products/dad8ff31ec43.webp" alt="Haze Hardcore" className="w-32 md:w-40 drop-shadow-[0_20px_40px_rgba(255,77,0,0.4)] animate-float group-hover:scale-110 transition-transform duration-500" />
               </Link>
             </div>
 
@@ -151,7 +151,7 @@ function Index() {
             className="relative h-80 rounded-[32px] overflow-hidden group border-2 border-slate-100 hover:border-orange-600/20 transition-all"
           >
             <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/20 to-transparent z-10" />
-            <img src="https://ultragym.net/products/b7332e96d23f.webp" className="absolute right-0 bottom-0 w-2/3 object-contain z-0 group-hover:scale-110 transition-transform duration-500 mix-blend-multiply" alt="Proteínas" />
+            <img src="https://bold-rush-s2acommerce.lovable.app/products/b7332e96d23f.webp" className="absolute right-0 bottom-0 w-2/3 object-contain z-0 group-hover:scale-110 transition-transform duration-500 mix-blend-multiply" alt="Proteínas" />
             <div className="relative z-20 h-full p-8 flex flex-col justify-end gap-2">
               <span className="text-orange-500 font-black italic uppercase text-xs tracking-widest">Linha Whey</span>
               <h3 className="text-white text-3xl font-black italic uppercase leading-none">PROTEÍNA <br /> DE ELITE</h3>
@@ -165,7 +165,7 @@ function Index() {
             className="relative h-80 rounded-[32px] overflow-hidden group border-2 border-slate-100 hover:border-orange-600/20 transition-all bg-slate-950"
           >
             <div className="absolute inset-0 bg-orange-600/5 z-0" />
-            <img src="https://ultragym.net/products/farma_50e35d098594.webp" className="absolute right-[-20%] top-1/2 -translate-y-1/2 w-4/5 object-contain z-10 group-hover:rotate-6 transition-transform duration-500" alt="Creatina" />
+            <img src="https://bold-rush-s2acommerce.lovable.app/products/farma_50e35d098594.webp" className="absolute right-[-20%] top-1/2 -translate-y-1/2 w-4/5 object-contain z-10 group-hover:rotate-6 transition-transform duration-500" alt="Creatina" />
             <div className="relative z-20 h-full p-8 flex flex-col justify-center gap-2">
               <span className="text-orange-500 font-black italic uppercase text-xs tracking-widest">Força Explosiva</span>
               <h3 className="text-white text-3xl font-black italic uppercase leading-none">CREATINA <br /> PURA</h3>
@@ -179,7 +179,7 @@ function Index() {
             className="relative h-80 rounded-[32px] overflow-hidden group border-2 border-slate-100 hover:border-orange-600/20 transition-all md:col-span-2 lg:col-span-1"
           >
             <div className="absolute inset-0 bg-gradient-to-l from-orange-600 via-orange-600/40 to-transparent z-10 opacity-20" />
-            <img src="https://ultragym.net/products/dad8ff31ec43.webp" className="absolute left-[-10%] bottom-0 h-4/5 object-contain z-0 group-hover:translate-x-4 transition-transform duration-500" alt="Pré-Treino" />
+            <img src="https://bold-rush-s2acommerce.lovable.app/products/dad8ff31ec43.webp" className="absolute left-[-10%] bottom-0 h-4/5 object-contain z-0 group-hover:translate-x-4 transition-transform duration-500" alt="Pré-Treino" />
             <div className="relative z-20 h-full p-8 flex flex-col justify-end items-end gap-2 text-right">
               <span className="text-orange-600 font-black italic uppercase text-xs tracking-widest">Foco Extremo</span>
               <h3 className="text-slate-950 text-3xl font-black italic uppercase leading-none">HAZE <br /> HARDCORE</h3>
@@ -240,12 +240,12 @@ function Index() {
         </div>
         <div className="grid grid-cols-3 md:grid-cols-6 gap-3 md:gap-4">
           {[
-            { name: 'Creatina', img: 'https://ultragym.net/products/farma_50e35d098594.webp', slug: 'creatina' },
-            { name: 'Whey', img: 'https://ultragym.net/products/b7332e96d23f.webp', slug: 'suplementos' },
-            { name: 'Pré-Treino', img: 'https://ultragym.net/products/7cc8cd45e4ac.webp', slug: 'pre-treino' },
-            { name: 'Kits', img: 'https://ultragym.net/products/2d8178cf16de.webp', slug: 'kits' },
-            { name: 'Vitaminas', img: 'https://ultragym.net/products/farma_90d878ade7a8.webp', slug: 'vitaminas' },
-            { name: 'Roupas', img: 'https://ultragym.net/products/fem-outlet-29.webp', slug: 'roupas' },
+            { name: 'Creatina', img: 'https://bold-rush-s2acommerce.lovable.app/products/farma_50e35d098594.webp', slug: 'creatina' },
+            { name: 'Whey', img: 'https://bold-rush-s2acommerce.lovable.app/products/b7332e96d23f.webp', slug: 'suplementos' },
+            { name: 'Pré-Treino', img: 'https://bold-rush-s2acommerce.lovable.app/products/7cc8cd45e4ac.webp', slug: 'pre-treino' },
+            { name: 'Kits', img: 'https://bold-rush-s2acommerce.lovable.app/products/2d8178cf16de.webp', slug: 'kits' },
+            { name: 'Vitaminas', img: 'https://bold-rush-s2acommerce.lovable.app/products/farma_90d878ade7a8.webp', slug: 'vitaminas' },
+            { name: 'Roupas', img: 'https://bold-rush-s2acommerce.lovable.app/products/fem-outlet-29.webp', slug: 'roupas' },
           ].map((cat) => (
             <Link 
               key={cat.name} 
@@ -342,7 +342,7 @@ function Index() {
              <Button className="bg-green-600 hover:bg-green-500 text-white font-black uppercase italic w-full h-14 md:h-auto md:py-8 text-base md:text-lg rounded-full">Comprar Agora</Button>
           </div>
           <div className="lg:col-span-3 order-1 lg:order-2">
-             <img src="https://ultragym.net/products/b7332e96d23f.webp" className="w-full max-w-xs sm:max-w-sm md:max-w-lg mx-auto drop-shadow-[0_20px_60px_rgba(234,88,12,0.2)] transform hover:rotate-3 transition-transform" alt="Whey Growth" />
+             <img src="https://bold-rush-s2acommerce.lovable.app/products/b7332e96d23f.webp" className="w-full max-w-xs sm:max-w-sm md:max-w-lg mx-auto drop-shadow-[0_20px_60px_rgba(234,88,12,0.2)] transform hover:rotate-3 transition-transform" alt="Whey Growth" />
           </div>
         </div>
       </section>
@@ -390,7 +390,7 @@ function Index() {
             <div className="relative group">
               <div className="absolute inset-0 bg-orange-600/10 blur-[100px] rounded-full group-hover:bg-orange-600/20 transition-all duration-1000" />
               <img 
-                src="https://ultragym.net/products/fem-outlet-29.webp" 
+                src="https://bold-rush-s2acommerce.lovable.app/products/fem-outlet-29.webp" 
                 alt="Roupas Ultra Gym" 
                 className="relative z-10 w-full max-w-md mx-auto drop-shadow-2xl hover:scale-105 transition-transform duration-500"
               />
