@@ -289,32 +289,6 @@ function Index() {
           </div>
         </div>
       </section>
-
-
-
-
-      {/* Subscription Teaser */}
-      <section className="bg-orange-600 py-16">
-        <div className="container px-4 text-center flex flex-col items-center gap-6">
-           <span className="bg-white/20 text-white text-xs font-black uppercase px-3 py-1 rounded-full tracking-widest italic">Novidade em Breve</span>
-           <h2 className="text-4xl md:text-6xl font-black italic uppercase text-white tracking-tighter">Assinatura Ultra Gym</h2>
-           <p className="text-orange-100 font-bold max-w-2xl text-lg leading-relaxed uppercase italic tracking-tight">
-             A maneira mais inteligente de manter sua suplementação em dia. Escolha seus produtos, defina o intervalo e relaxe.
-           </p>
-           <div className="flex flex-wrap justify-center gap-8 mt-4">
-              <div className="flex items-center gap-2 text-white font-black italic uppercase text-xs">
-                 <Clock className="h-4 w-4" /> Entrega Automática
-              </div>
-              <div className="flex items-center gap-2 text-white font-black italic uppercase text-xs">
-                 <Star className="h-4 w-4" /> 15% de Desconto Real
-              </div>
-              <div className="flex items-center gap-2 text-white font-black italic uppercase text-xs">
-                 <ShieldCheck className="h-4 w-4" /> Sem Multas ou Taxas
-              </div>
-           </div>
-           <Button className="bg-white text-orange-600 hover:bg-slate-100 font-black uppercase italic text-lg px-12 py-8 rounded-full shadow-2xl mt-4">Quero ser Avisado</Button>
-        </div>
-      </section>
     </div>
   );
 }
