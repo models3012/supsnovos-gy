@@ -18,6 +18,7 @@ import { Route as BuscaRouteImport } from './routes/busca'
 import { Route as BlogRouteImport } from './routes/blog'
 import { Route as CategoriaRouteImport } from './routes/$categoria'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as AdminIndexRouteImport } from './routes/admin.index'
 import { Route as ProdutoSlugRouteImport } from './routes/produto.$slug'
 import { Route as BlogSlugRouteImport } from './routes/blog.$slug'
 import { Route as AdminUnlockRouteImport } from './routes/admin.unlock'
@@ -68,6 +69,11 @@ const IndexRoute = IndexRouteImport.update({
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const AdminIndexRoute = AdminIndexRouteImport.update({
+  id: '/admin/',
+  path: '/admin/',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const ProdutoSlugRoute = ProdutoSlugRouteImport.update({
   id: '/produto/$slug',
   path: '/produto/$slug',
@@ -102,6 +108,7 @@ export interface FileRoutesByFullPath {
   '/admin/unlock': typeof AdminUnlockRoute
   '/blog/$slug': typeof BlogSlugRoute
   '/produto/$slug': typeof ProdutoSlugRoute
+  '/admin/': typeof AdminIndexRoute
   '/api/public/merchant/feed': typeof ApiPublicMerchantFeedRoute
 }
 export interface FileRoutesByTo {
@@ -117,6 +124,7 @@ export interface FileRoutesByTo {
   '/admin/unlock': typeof AdminUnlockRoute
   '/blog/$slug': typeof BlogSlugRoute
   '/produto/$slug': typeof ProdutoSlugRoute
+  '/admin': typeof AdminIndexRoute
   '/api/public/merchant/feed': typeof ApiPublicMerchantFeedRoute
 }
 export interface FileRoutesById {
@@ -133,6 +141,7 @@ export interface FileRoutesById {
   '/admin/unlock': typeof AdminUnlockRoute
   '/blog/$slug': typeof BlogSlugRoute
   '/produto/$slug': typeof ProdutoSlugRoute
+  '/admin/': typeof AdminIndexRoute
   '/api/public/merchant/feed': typeof ApiPublicMerchantFeedRoute
 }
 export interface FileRouteTypes {
@@ -150,6 +159,7 @@ export interface FileRouteTypes {
     | '/admin/unlock'
     | '/blog/$slug'
     | '/produto/$slug'
+    | '/admin/'
     | '/api/public/merchant/feed'
   fileRoutesByTo: FileRoutesByTo
   to:
@@ -165,6 +175,7 @@ export interface FileRouteTypes {
     | '/admin/unlock'
     | '/blog/$slug'
     | '/produto/$slug'
+    | '/admin'
     | '/api/public/merchant/feed'
   id:
     | '__root__'
@@ -180,6 +191,7 @@ export interface FileRouteTypes {
     | '/admin/unlock'
     | '/blog/$slug'
     | '/produto/$slug'
+    | '/admin/'
     | '/api/public/merchant/feed'
   fileRoutesById: FileRoutesById
 }
@@ -195,6 +207,7 @@ export interface RootRouteChildren {
   TermosDeUsoRoute: typeof TermosDeUsoRoute
   AdminUnlockRoute: typeof AdminUnlockRoute
   ProdutoSlugRoute: typeof ProdutoSlugRoute
+  AdminIndexRoute: typeof AdminIndexRoute
   ApiPublicMerchantFeedRoute: typeof ApiPublicMerchantFeedRoute
 }
 
@@ -263,6 +276,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/admin/': {
+      id: '/admin/'
+      path: '/admin'
+      fullPath: '/admin/'
+      preLoaderRoute: typeof AdminIndexRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/produto/$slug': {
       id: '/produto/$slug'
       path: '/produto/$slug'
@@ -316,6 +336,7 @@ const rootRouteChildren: RootRouteChildren = {
   TermosDeUsoRoute: TermosDeUsoRoute,
   AdminUnlockRoute: AdminUnlockRoute,
   ProdutoSlugRoute: ProdutoSlugRoute,
+  AdminIndexRoute: AdminIndexRoute,
   ApiPublicMerchantFeedRoute: ApiPublicMerchantFeedRoute,
 }
 export const routeTree = rootRouteImport
