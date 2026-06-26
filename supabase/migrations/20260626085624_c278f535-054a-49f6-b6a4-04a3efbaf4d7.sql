@@ -1,0 +1,1 @@
+UPDATE public.products SET image_url = REPLACE(image_url, 'https://ultragym.net/products/', 'https://bold-rush-s2acommerce.lovable.app/products/') WHERE image_url LIKE 'https://ultragym.net/products/%';
