@@ -43,14 +43,15 @@ export const Footer = () => {
           </div>
 
           <div className="flex flex-col gap-6">
-            <h3 className="text-sm font-black uppercase italic tracking-widest text-slate-900">Ajuda & Suporte</h3>
+            <h3 className="text-sm font-black uppercase italic tracking-widest text-slate-900">Institucional</h3>
             <nav className="flex flex-col gap-3">
-              <Link to="/termos-de-uso" className="text-sm font-bold text-slate-500 hover:text-orange-600 transition-colors uppercase italic">Termos de Uso</Link>
-              <Link to="/politica-de-privacidade" className="text-sm font-bold text-slate-500 hover:text-orange-600 transition-colors uppercase italic">Privacidade</Link>
+              <Link to="/sobre-nos" className="text-sm font-bold text-slate-500 hover:text-orange-600 transition-colors uppercase italic">Sobre Nós</Link>
+              <Link to="/politica-de-envio" className="text-sm font-bold text-slate-500 hover:text-orange-600 transition-colors uppercase italic">Envio e Prazos</Link>
+              <Link to="/politica-de-trocas" className="text-sm font-bold text-slate-500 hover:text-orange-600 transition-colors uppercase italic">Trocas e Devoluções</Link>
               <Link to="/politica-de-reembolso" className="text-sm font-bold text-slate-500 hover:text-orange-600 transition-colors uppercase italic">Reembolso</Link>
+              <Link to="/politica-de-privacidade" className="text-sm font-bold text-slate-500 hover:text-orange-600 transition-colors uppercase italic">Privacidade</Link>
+              <Link to="/termos-de-uso" className="text-sm font-bold text-slate-500 hover:text-orange-600 transition-colors uppercase italic">Termos e Condições</Link>
               <Link to="/blog" className="text-sm font-bold text-slate-500 hover:text-orange-600 transition-colors uppercase italic">Blog</Link>
-              <Link to="/" className="text-sm font-bold text-slate-500 hover:text-orange-600 transition-colors uppercase italic">Rastreio</Link>
-              <Link to="/" className="text-sm font-bold text-slate-500 hover:text-orange-600 transition-colors uppercase italic">Central de Ajuda</Link>
             </nav>
           </div>
 
