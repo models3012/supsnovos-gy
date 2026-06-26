@@ -196,7 +196,30 @@ function CheckoutPage() {
                 </div>
 
                 <Button 
-                  onClick={() => {
+                  onClick={async () => {
+                    const finalValue = paymentMethod === 'pix' ? pixPrice : totalPrice;
+                    const transactionId = `ULTRA-${Date.now()}`;
+                    const [firstName, ...rest] = (nameRef.current?.value ?? '').trim().split(/\s+/);
+                    await setEnhancedConversionData({
+                      email: emailRef.current?.value,
+                      phone: phoneRef.current?.value,
+                      firstName,
+                      lastName: rest.join(' '),
+                      street: streetRef.current?.value,
+                      city: cityRef.current?.value,
+                      region: ufRef.current?.value,
+                      postalCode: cepRef.current?.value,
+                      country: 'BR',
+                    });
+                    trackPurchase({
+                      transactionId,
+                      value: finalValue,
+                      items: items.map(i => ({
+                        id: i.id, name: i.name,
+                        brand: (i as any).brand, category: (i as any).category,
+                        price: i.price, quantity: i.quantity,
+                      })),
+                    });
                     setIsFinished(true);
                     clearCart();
                   }}
@@ -204,6 +227,7 @@ function CheckoutPage() {
                 >
                    Finalizar Agora <CheckCircle2 className="ml-2 h-5 w-5 group-hover:scale-125 transition-transform" />
                 </Button>
+
 
                 <div className="flex flex-col items-center gap-4 pt-4">
                    <div className="flex items-center gap-2 opacity-50 grayscale">
