@@ -185,3 +185,22 @@
   background-size: 48px 48px;
 }
 
+
+@utility input {
+  height: 2.5rem;
+  padding-left: 0.875rem;
+  padding-right: 0.875rem;
+  border-radius: 0.5rem;
+  border-width: 1px;
+  border-color: rgb(226 232 240);
+  background-color: white;
+  font-size: 0.875rem;
+}
+@utility input {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+}
+.input:focus {
+  border-color: rgb(16 185 129);
+  outline: none;
+}
