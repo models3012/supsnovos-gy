@@ -10,8 +10,11 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as TermosDeUsoRouteImport } from './routes/termos-de-uso'
+import { Route as SobreNosRouteImport } from './routes/sobre-nos'
+import { Route as PoliticaDeTrocasRouteImport } from './routes/politica-de-trocas'
 import { Route as PoliticaDeReembolsoRouteImport } from './routes/politica-de-reembolso'
 import { Route as PoliticaDePrivacidadeRouteImport } from './routes/politica-de-privacidade'
+import { Route as PoliticaDeEnvioRouteImport } from './routes/politica-de-envio'
 import { Route as MeusDireitosLgpdRouteImport } from './routes/meus-direitos-lgpd'
 import { Route as CheckoutRouteImport } from './routes/checkout'
 import { Route as BuscaRouteImport } from './routes/busca'
@@ -29,6 +32,16 @@ const TermosDeUsoRoute = TermosDeUsoRouteImport.update({
   path: '/termos-de-uso',
   getParentRoute: () => rootRouteImport,
 } as any)
+const SobreNosRoute = SobreNosRouteImport.update({
+  id: '/sobre-nos',
+  path: '/sobre-nos',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PoliticaDeTrocasRoute = PoliticaDeTrocasRouteImport.update({
+  id: '/politica-de-trocas',
+  path: '/politica-de-trocas',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const PoliticaDeReembolsoRoute = PoliticaDeReembolsoRouteImport.update({
   id: '/politica-de-reembolso',
   path: '/politica-de-reembolso',
@@ -37,6 +50,11 @@ const PoliticaDeReembolsoRoute = PoliticaDeReembolsoRouteImport.update({
 const PoliticaDePrivacidadeRoute = PoliticaDePrivacidadeRouteImport.update({
   id: '/politica-de-privacidade',
   path: '/politica-de-privacidade',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const PoliticaDeEnvioRoute = PoliticaDeEnvioRouteImport.update({
+  id: '/politica-de-envio',
+  path: '/politica-de-envio',
   getParentRoute: () => rootRouteImport,
 } as any)
 const MeusDireitosLgpdRoute = MeusDireitosLgpdRouteImport.update({
@@ -102,8 +120,11 @@ export interface FileRoutesByFullPath {
   '/busca': typeof BuscaRoute
   '/checkout': typeof CheckoutRoute
   '/meus-direitos-lgpd': typeof MeusDireitosLgpdRoute
+  '/politica-de-envio': typeof PoliticaDeEnvioRoute
   '/politica-de-privacidade': typeof PoliticaDePrivacidadeRoute
   '/politica-de-reembolso': typeof PoliticaDeReembolsoRoute
+  '/politica-de-trocas': typeof PoliticaDeTrocasRoute
+  '/sobre-nos': typeof SobreNosRoute
   '/termos-de-uso': typeof TermosDeUsoRoute
   '/admin/unlock': typeof AdminUnlockRoute
   '/blog/$slug': typeof BlogSlugRoute
@@ -118,8 +139,11 @@ export interface FileRoutesByTo {
   '/busca': typeof BuscaRoute
   '/checkout': typeof CheckoutRoute
   '/meus-direitos-lgpd': typeof MeusDireitosLgpdRoute
+  '/politica-de-envio': typeof PoliticaDeEnvioRoute
   '/politica-de-privacidade': typeof PoliticaDePrivacidadeRoute
   '/politica-de-reembolso': typeof PoliticaDeReembolsoRoute
+  '/politica-de-trocas': typeof PoliticaDeTrocasRoute
+  '/sobre-nos': typeof SobreNosRoute
   '/termos-de-uso': typeof TermosDeUsoRoute
   '/admin/unlock': typeof AdminUnlockRoute
   '/blog/$slug': typeof BlogSlugRoute
@@ -135,8 +159,11 @@ export interface FileRoutesById {
   '/busca': typeof BuscaRoute
   '/checkout': typeof CheckoutRoute
   '/meus-direitos-lgpd': typeof MeusDireitosLgpdRoute
+  '/politica-de-envio': typeof PoliticaDeEnvioRoute
   '/politica-de-privacidade': typeof PoliticaDePrivacidadeRoute
   '/politica-de-reembolso': typeof PoliticaDeReembolsoRoute
+  '/politica-de-trocas': typeof PoliticaDeTrocasRoute
+  '/sobre-nos': typeof SobreNosRoute
   '/termos-de-uso': typeof TermosDeUsoRoute
   '/admin/unlock': typeof AdminUnlockRoute
   '/blog/$slug': typeof BlogSlugRoute
@@ -153,8 +180,11 @@ export interface FileRouteTypes {
     | '/busca'
     | '/checkout'
     | '/meus-direitos-lgpd'
+    | '/politica-de-envio'
     | '/politica-de-privacidade'
     | '/politica-de-reembolso'
+    | '/politica-de-trocas'
+    | '/sobre-nos'
     | '/termos-de-uso'
     | '/admin/unlock'
     | '/blog/$slug'
@@ -169,8 +199,11 @@ export interface FileRouteTypes {
     | '/busca'
     | '/checkout'
     | '/meus-direitos-lgpd'
+    | '/politica-de-envio'
     | '/politica-de-privacidade'
     | '/politica-de-reembolso'
+    | '/politica-de-trocas'
+    | '/sobre-nos'
     | '/termos-de-uso'
     | '/admin/unlock'
     | '/blog/$slug'
@@ -185,8 +218,11 @@ export interface FileRouteTypes {
     | '/busca'
     | '/checkout'
     | '/meus-direitos-lgpd'
+    | '/politica-de-envio'
     | '/politica-de-privacidade'
     | '/politica-de-reembolso'
+    | '/politica-de-trocas'
+    | '/sobre-nos'
     | '/termos-de-uso'
     | '/admin/unlock'
     | '/blog/$slug'
@@ -202,8 +238,11 @@ export interface RootRouteChildren {
   BuscaRoute: typeof BuscaRoute
   CheckoutRoute: typeof CheckoutRoute
   MeusDireitosLgpdRoute: typeof MeusDireitosLgpdRoute
+  PoliticaDeEnvioRoute: typeof PoliticaDeEnvioRoute
   PoliticaDePrivacidadeRoute: typeof PoliticaDePrivacidadeRoute
   PoliticaDeReembolsoRoute: typeof PoliticaDeReembolsoRoute
+  PoliticaDeTrocasRoute: typeof PoliticaDeTrocasRoute
+  SobreNosRoute: typeof SobreNosRoute
   TermosDeUsoRoute: typeof TermosDeUsoRoute
   AdminUnlockRoute: typeof AdminUnlockRoute
   ProdutoSlugRoute: typeof ProdutoSlugRoute
@@ -220,6 +259,20 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof TermosDeUsoRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/sobre-nos': {
+      id: '/sobre-nos'
+      path: '/sobre-nos'
+      fullPath: '/sobre-nos'
+      preLoaderRoute: typeof SobreNosRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/politica-de-trocas': {
+      id: '/politica-de-trocas'
+      path: '/politica-de-trocas'
+      fullPath: '/politica-de-trocas'
+      preLoaderRoute: typeof PoliticaDeTrocasRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/politica-de-reembolso': {
       id: '/politica-de-reembolso'
       path: '/politica-de-reembolso'
@@ -232,6 +285,13 @@ declare module '@tanstack/react-router' {
       path: '/politica-de-privacidade'
       fullPath: '/politica-de-privacidade'
       preLoaderRoute: typeof PoliticaDePrivacidadeRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/politica-de-envio': {
+      id: '/politica-de-envio'
+      path: '/politica-de-envio'
+      fullPath: '/politica-de-envio'
+      preLoaderRoute: typeof PoliticaDeEnvioRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/meus-direitos-lgpd': {
@@ -331,8 +391,11 @@ const rootRouteChildren: RootRouteChildren = {
   BuscaRoute: BuscaRoute,
   CheckoutRoute: CheckoutRoute,
   MeusDireitosLgpdRoute: MeusDireitosLgpdRoute,
+  PoliticaDeEnvioRoute: PoliticaDeEnvioRoute,
   PoliticaDePrivacidadeRoute: PoliticaDePrivacidadeRoute,
   PoliticaDeReembolsoRoute: PoliticaDeReembolsoRoute,
+  PoliticaDeTrocasRoute: PoliticaDeTrocasRoute,
+  SobreNosRoute: SobreNosRoute,
   TermosDeUsoRoute: TermosDeUsoRoute,
   AdminUnlockRoute: AdminUnlockRoute,
   ProdutoSlugRoute: ProdutoSlugRoute,
@@ -342,13 +405,3 @@ const rootRouteChildren: RootRouteChildren = {
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
   ._addFileTypes<FileRouteTypes>()
-
-import type { getRouter } from './router.tsx'
-import type { startInstance } from './start.ts'
-declare module '@tanstack/react-start' {
-  interface Register {
-    ssr: true
-    router: Awaited<ReturnType<typeof getRouter>>
-    config: Awaited<ReturnType<typeof startInstance.getOptions>>
-  }
-}
