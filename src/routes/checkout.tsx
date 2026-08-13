@@ -84,7 +84,7 @@ function CheckoutPage() {
 
   return (
     <div className="bg-slate-50 min-h-screen pb-20">
-      <SEO title="Checkout Seguro | Ultra Gym Supplements" description="Finalize sua compra com segurança na Ultra Gym Supplements." />
+      <SEO title="Checkout Seguro | Skill Fitt Suplementos" description="Finalize sua compra com segurança na Skill Fitt Suplementos." />
       
       <div className="container px-4 py-8">
         <Link to="/" className="inline-flex items-center gap-2 text-sm font-bold uppercase text-slate-500 hover:text-orange-600 mb-8">
@@ -198,7 +198,7 @@ function CheckoutPage() {
                 <Button 
                   onClick={async () => {
                     const finalValue = paymentMethod === 'pix' ? pixPrice : totalPrice;
-                    const transactionId = `ULTRA-${Date.now()}`;
+                    const transactionId = `SKF-${Date.now()}`;
                     const [firstName, ...rest] = (nameRef.current?.value ?? '').trim().split(/\s+/);
                     await setEnhancedConversionData({
                       email: emailRef.current?.value,

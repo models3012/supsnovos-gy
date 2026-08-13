@@ -4,10 +4,10 @@ import { SEO } from '@/components/seo/SEO'
 export const Route = createFileRoute('/politica-de-trocas')({
   head: () => ({
     meta: [
-      { title: 'Política de Trocas e Devoluções | Ultra Gym Supplements' },
+      { title: 'Política de Trocas e Devoluções | Skill Fitt Suplementos' },
       { name: 'description', content: 'Regras de troca e devolução em conformidade com o Código de Defesa do Consumidor — prazos, condições e procedimentos.' },
-      { property: 'og:title', content: 'Política de Trocas e Devoluções | Ultra Gym' },
-      { property: 'og:description', content: 'Como solicitar troca ou devolução de produtos na Ultra Gym Supplements.' },
+      { property: 'og:title', content: 'Política de Trocas e Devoluções | Skill Fitt' },
+      { property: 'og:description', content: 'Como solicitar troca ou devolução de produtos na Skill Fitt Suplementos.' },
     ],
   }),
   component: Trocas,
@@ -16,7 +16,7 @@ export const Route = createFileRoute('/politica-de-trocas')({
 function Trocas() {
   return (
     <div className="container mx-auto py-12 px-4 md:px-8 max-w-4xl">
-      <SEO title="Política de Trocas e Devoluções | Ultra Gym Supplements" description="Regras de troca e devolução em conformidade com o CDC." />
+      <SEO title="Política de Trocas e Devoluções | Skill Fitt Suplementos" description="Regras de troca e devolução em conformidade com o CDC." />
       <div className="bg-white rounded-[40px] border p-8 md:p-12 shadow-sm">
         <div className="mb-10 text-center md:text-left">
           <span className="text-orange-600 font-black italic uppercase tracking-widest text-xs">Conformidade CDC</span>
@@ -25,7 +25,7 @@ function Trocas() {
         </div>
 
         <div className="prose prose-slate max-w-none prose-headings:italic prose-headings:uppercase prose-headings:font-black prose-headings:tracking-tighter prose-strong:text-slate-900 prose-p:leading-relaxed prose-p:font-medium">
-          <p>Na <strong>Ultra Gym</strong>, nossa prioridade é sua satisfação. Caso necessite trocar ou devolver um produto, siga as regras abaixo, que estão em total conformidade com o Código de Defesa do Consumidor (<strong>Lei nº 8.078/90</strong>).</p>
+          <p>Na <strong>Skill Fitt</strong>, nossa prioridade é sua satisfação. Caso necessite trocar ou devolver um produto, siga as regras abaixo, que estão em total conformidade com o Código de Defesa do Consumidor (<strong>Lei nº 8.078/90</strong>).</p>
 
           <hr className="my-10" />
 
@@ -57,22 +57,22 @@ function Trocas() {
           <h3>4. Troca por Defeito ou Avaria</h3>
           <ul>
             <li><strong>Prazo:</strong> <strong>30 (trinta) dias corridos</strong> a contar do recebimento, conforme o CDC.</li>
-            <li><strong>Defeito Comprovado:</strong> Troca por produto idêntico, crédito no site, ou restituição total. Todos os custos de frete são da Ultra Gym.</li>
+            <li><strong>Defeito Comprovado:</strong> Troca por produto idêntico, crédito no site, ou restituição total. Todos os custos de frete são da Skill Fitt.</li>
             <li><strong>Não Constatado Defeito:</strong> O produto será reenviado com frete por conta do consumidor.</li>
           </ul>
 
           <h3>5. Como Solicitar sua Troca ou Devolução</h3>
           <ul>
-            <li><strong>Contato:</strong> E-mail <strong>contato@ultragym.net</strong> ou WhatsApp <strong>(34) 99887-7665</strong>.</li>
+            <li><strong>Contato:</strong> E-mail <strong>contato@skillfit.online</strong> ou WhatsApp <strong>(34) 99887-7665</strong>.</li>
             <li><strong>Informações:</strong> Informe o número do pedido, motivo da troca/devolução e código do produto (se aplicável).</li>
             <li><strong>Resposta:</strong> Nossa equipe responderá em até <strong>2 (dois) dias úteis</strong> com instruções detalhadas.</li>
           </ul>
 
           <h3>6. Informações da Empresa</h3>
           <ul>
-            <li><strong>Razão Social:</strong> Ultra Gym Supplements LTDA</li>
-            <li><strong>CNPJ:</strong> 53.320.355/0001-24</li>
-            <li><strong>Endereço:</strong> Rua Olimpio Fortunato, 149 – São Miguel, Nova Ponte/MG – CEP 38160-000</li>
+            <li><strong>Razão Social:</strong> Skil Fitt Suplementos LTDA</li>
+            <li><strong>CNPJ:</strong> 64.854.093/0001-02</li>
+            <li><strong>Endereço:</strong> Avenida Luiz Tarquínio Pontes, 004 – Pitangueiras, Lauro de Freitas/BA – CEP 42701-450</li>
           </ul>
 
           <hr className="my-10" />

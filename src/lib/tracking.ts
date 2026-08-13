@@ -1,5 +1,5 @@
 // Google Ads / GA4 / Enhanced Conversions / Remarketing Dinâmico
-// Implementa todos os eventos da spec do ultragym.net
+// Implementa todos os eventos da spec do skillfit.online
 
 const ADS_ID = "AW-18088511561";
 const PURCHASE_LABEL = "2J-rCMHtpqAcEMmQo7FD";

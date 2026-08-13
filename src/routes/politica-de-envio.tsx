@@ -4,10 +4,10 @@ import { SEO } from '@/components/seo/SEO'
 export const Route = createFileRoute('/politica-de-envio')({
   head: () => ({
     meta: [
-      { title: 'Política de Envio | Ultra Gym Supplements' },
+      { title: 'Política de Envio | Skill Fitt Suplementos' },
       { name: 'description', content: 'Prazos de processamento, frete grátis, rastreamento e condições de entrega para todo o Brasil.' },
-      { property: 'og:title', content: 'Política de Envio | Ultra Gym' },
-      { property: 'og:description', content: 'Frete grátis para todo o Brasil, rastreamento e prazos da Ultra Gym Supplements.' },
+      { property: 'og:title', content: 'Política de Envio | Skill Fitt' },
+      { property: 'og:description', content: 'Frete grátis para todo o Brasil, rastreamento e prazos da Skill Fitt Suplementos.' },
     ],
   }),
   component: Envio,
@@ -16,7 +16,7 @@ export const Route = createFileRoute('/politica-de-envio')({
 function Envio() {
   return (
     <div className="container mx-auto py-12 px-4 md:px-8 max-w-4xl">
-      <SEO title="Política de Envio | Ultra Gym Supplements" description="Prazos, frete grátis e rastreamento de pedidos Ultra Gym." />
+      <SEO title="Política de Envio | Skill Fitt Suplementos" description="Prazos, frete grátis e rastreamento de pedidos Skill Fitt." />
       <div className="bg-white rounded-[40px] border p-8 md:p-12 shadow-sm">
         <div className="mb-10 text-center md:text-left">
           <span className="text-orange-600 font-black italic uppercase tracking-widest text-xs">Entrega para todo o Brasil</span>
@@ -25,7 +25,7 @@ function Envio() {
         </div>
 
         <div className="prose prose-slate max-w-none prose-headings:italic prose-headings:uppercase prose-headings:font-black prose-headings:tracking-tighter prose-strong:text-slate-900 prose-p:leading-relaxed prose-p:font-medium">
-          <p>A <strong>Ultra Gym</strong> tem o compromisso de garantir que sua compra chegue até você com a maior agilidade e segurança.</p>
+          <p>A <strong>Skill Fitt</strong> tem o compromisso de garantir que sua compra chegue até você com a maior agilidade e segurança.</p>
 
           <hr className="my-10" />
 
@@ -65,14 +65,14 @@ function Envio() {
           <h3>5. Atenção ao Endereço</h3>
           <ul>
             <li><strong>Responsabilidade:</strong> É responsabilidade do cliente informar o endereço de entrega correto e completo.</li>
-            <li><strong>Dados Incorretos:</strong> A Ultra Gym não se responsabiliza por extravio ou custos de reenvio causados por endereço incorreto.</li>
+            <li><strong>Dados Incorretos:</strong> A Skill Fitt não se responsabiliza por extravio ou custos de reenvio causados por endereço incorreto.</li>
           </ul>
 
           <h3>6. Informações da Empresa</h3>
           <ul>
-            <li><strong>Razão Social:</strong> Ultra Gym Supplements LTDA</li>
-            <li><strong>CNPJ:</strong> 53.320.355/0001-24</li>
-            <li><strong>Endereço:</strong> Rua Olimpio Fortunato, 149 – São Miguel, Nova Ponte/MG – CEP 38160-000</li>
+            <li><strong>Razão Social:</strong> Skil Fitt Suplementos LTDA</li>
+            <li><strong>CNPJ:</strong> 64.854.093/0001-02</li>
+            <li><strong>Endereço:</strong> Avenida Luiz Tarquínio Pontes, 004 – Pitangueiras, Lauro de Freitas/BA – CEP 42701-450</li>
           </ul>
 
           <hr className="my-10" />

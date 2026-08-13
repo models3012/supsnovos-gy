@@ -1,0 +1,13 @@
+<svg viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Skill Fitt">
+  <defs>
+    <linearGradient id="sf-fav" x1="8" y1="6" x2="40" y2="42" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDBA74"/>
+      <stop offset="0.45" stop-color="#F97316"/>
+      <stop offset="1" stop-color="#EA580C"/>
+    </linearGradient>
+  </defs>
+  <rect width="48" height="48" rx="11" fill="#0A0A0B"/>
+  <g transform="translate(24 24) skewX(-9) scale(1.42) translate(-20 -24)">
+    <path d="M9 12H31V18H15V21H31V36H9V30H25V27H9Z" fill="url(#sf-fav)"/>
+  </g>
+</svg>

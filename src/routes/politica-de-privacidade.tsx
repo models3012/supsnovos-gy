@@ -4,8 +4,8 @@ import { SEO } from '@/components/seo/SEO'
 export const Route = createFileRoute('/politica-de-privacidade')({
   head: () => ({
     meta: [
-      { title: 'Política de Privacidade | Ultra Gym Supplements' },
-      { name: 'description', content: 'Como a Ultra Gym Supplements LTDA coleta, utiliza, armazena, protege e compartilha suas informações pessoais — conforme a LGPD.' },
+      { title: 'Política de Privacidade | Skill Fitt Suplementos' },
+      { name: 'description', content: 'Como a Skil Fitt Suplementos LTDA coleta, utiliza, armazena, protege e compartilha suas informações pessoais — conforme a LGPD.' },
     ],
   }),
   component: PrivacyPolicy,
@@ -14,7 +14,7 @@ export const Route = createFileRoute('/politica-de-privacidade')({
 function PrivacyPolicy() {
   return (
     <div className="container mx-auto py-12 px-4 md:px-8 max-w-4xl">
-      <SEO title="Política de Privacidade | Ultra Gym Supplements" description="Esta Política de Privacidade descreve como a Ultra Gym Supplements LTDA coleta, utiliza e protege suas informações pessoais." />
+      <SEO title="Política de Privacidade | Skill Fitt Suplementos" description="Esta Política de Privacidade descreve como a Skil Fitt Suplementos LTDA coleta, utiliza e protege suas informações pessoais." />
 
       <div className="bg-white rounded-[40px] border p-8 md:p-12 shadow-sm">
         <div className="mb-10 text-center md:text-left">
@@ -24,17 +24,17 @@ function PrivacyPolicy() {
         </div>
 
         <div className="prose prose-slate max-w-none prose-headings:italic prose-headings:uppercase prose-headings:font-black prose-headings:tracking-tighter prose-strong:text-slate-900 prose-p:leading-relaxed prose-p:font-medium">
-          <p>Esta Política de Privacidade ("Política") descreve como a <strong>Ultra Gym Supplements LTDA</strong>, inscrita no CNPJ <strong>53.320.355/0001-24</strong>, coleta, utiliza, armazena, protege e compartilha as informações pessoais de seus usuários.</p>
+          <p>Esta Política de Privacidade ("Política") descreve como a <strong>Skil Fitt Suplementos LTDA</strong>, inscrita no CNPJ <strong>64.854.093/0001-02</strong>, coleta, utiliza, armazena, protege e compartilha as informações pessoais de seus usuários.</p>
           <p>Esta Política está em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018 – LGPD).</p>
 
           <hr className="my-10" />
 
           <h3>1. Controladora dos Dados Pessoais</h3>
           <ul>
-            <li><strong>Empresa:</strong> Ultra Gym Supplements LTDA</li>
-            <li><strong>CNPJ:</strong> 53.320.355/0001-24</li>
-            <li><strong>Sede:</strong> Rua Olimpio Fortunato, 149 – São Miguel, Nova Ponte/MG – CEP 38160-000</li>
-            <li><strong>Contato:</strong> contato@ultragym.net</li>
+            <li><strong>Empresa:</strong> Skil Fitt Suplementos LTDA</li>
+            <li><strong>CNPJ:</strong> 64.854.093/0001-02</li>
+            <li><strong>Sede:</strong> Avenida Luiz Tarquínio Pontes, 004 – Pitangueiras, Lauro de Freitas/BA – CEP 42701-450</li>
+            <li><strong>Contato:</strong> contato@skillfit.online</li>
           </ul>
 
           <h3>2. Dados Coletados e Finalidades</h3>
@@ -48,7 +48,7 @@ function PrivacyPolicy() {
           </ul>
 
           <h3>3. Compartilhamento de Dados Pessoais</h3>
-          <p>A Ultra Gym somente compartilha seus dados quando estritamente necessário:</p>
+          <p>A Skill Fitt somente compartilha seus dados quando estritamente necessário:</p>
           <ul>
             <li><strong>Transportadoras/Logística:</strong> Nome, CPF, Endereço e Telefone para efetuar a entrega.</li>
             <li><strong>Gateway de Pagamento:</strong> Dados de pagamento são enviados de forma criptografada para as instituições financeiras.</li>
@@ -75,7 +75,7 @@ function PrivacyPolicy() {
           </ol>
 
           <h3>6. Como Exercer Seus Direitos</h3>
-          <p>Para exercer qualquer um dos direitos mencionados, entre em contato através do e-mail: <strong>contato@ultragym.net</strong>. Você também pode consultar a página <Link to="/meus-direitos-lgpd" className="text-orange-600 font-bold">Meus Direitos como Titular dos Dados</Link>.</p>
+          <p>Para exercer qualquer um dos direitos mencionados, entre em contato através do e-mail: <strong>contato@skillfit.online</strong>. Você também pode consultar a página <Link to="/meus-direitos-lgpd" className="text-orange-600 font-bold">Meus Direitos como Titular dos Dados</Link>.</p>
 
           <h3>7. Uso de Cookies</h3>
           <ul>

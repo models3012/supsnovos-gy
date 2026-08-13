@@ -1,0 +1,20 @@
+<svg viewBox="0 0 300 64" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Skill Fitt Suplementos">
+  <defs>
+    <linearGradient id="sf-logo" x1="8" y1="14" x2="52" y2="54" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDBA74"/>
+      <stop offset="0.45" stop-color="#F97316"/>
+      <stop offset="1" stop-color="#EA580C"/>
+    </linearGradient>
+  </defs>
+
+  <!-- simbolo: placa chanfrada + "S" geometrico vazado -->
+  <g transform="translate(10 10) skewX(-9)">
+    <path d="M10 4H28L40 16V34A10 10 0 0 1 30 44H10A10 10 0 0 1 0 34V14A10 10 0 0 1 10 4Z" fill="url(#sf-logo)"/>
+    <path d="M9 12H31V18H15V21H31V36H9V30H25V27H9Z" fill="#0A0A0B"/>
+  </g>
+
+  <!-- assinatura tipografica -->
+  <text x="72" y="47" font-family="Anton, Impact, 'Arial Narrow', sans-serif" font-size="42" letter-spacing="1.2">
+    <tspan fill="#0A0A0B">SKILL</tspan><tspan fill="#F97316">FITT</tspan>
+  </text>
+</svg>

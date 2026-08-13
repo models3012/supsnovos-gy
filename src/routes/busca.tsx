@@ -27,7 +27,7 @@ function SearchResultsPage() {
 
   return (
     <div className="container px-4 py-12">
-      <SEO title={`Resultados para "${q}" | Ultra Gym`} description={`Buscando por ${q} na Ultra Gym Supplements.`} />
+      <SEO title={`Resultados para "${q}" | Skill Fitt`} description={`Buscando por ${q} na Skill Fitt Suplementos.`} />
       
       <div className="flex flex-col gap-2 mb-12">
         <span className="text-orange-600 font-black italic uppercase tracking-widest text-xs">Resultados da busca por</span>

@@ -11,8 +11,8 @@ const hazeHardcoreImg = "https://bold-rush-s2acommerce.lovable.app/products/dad8
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
-      { title: "Ultra Gym Supplements | Performance Profissional" },
-      { name: "description", content: "Loja oficial Ultra Gym. Whey Protein, Creatina e Suplementos de alta performance com o melhor preço e entrega rápida." },
+      { title: "Skill Fitt Suplementos | Performance Profissional" },
+      { name: "description", content: "Loja oficial Skill Fitt. Whey Protein, Creatina e Suplementos de alta performance com o melhor preço e entrega rápida." },
     ],
   }),
   component: Index,
@@ -25,7 +25,7 @@ function Index() {
 
     <div className="flex flex-col">
       <SEO 
-        title="Ultra Gym Supplements | Loja Oficial" 
+        title="Skill Fitt Suplementos | Loja Oficial" 
         description="Encontre os melhores suplementos para sua evolução. Whey Protein, Creatina, Pré-treino e muito mais."
       />
 

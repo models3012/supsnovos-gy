@@ -13,11 +13,11 @@ export const generateMerchantFeed = createServerFn({ method: "GET" }).handler(as
     id: p.id,
     title: p.name,
     description: p.description,
-    link: `https://ultragym.net/produto/${p.slug}`,
+    link: `https://skillfit.online/produto/${p.slug}`,
     image_link: p.image_url,
     price: `${p.price} BRL`,
     availability: p.stock_quantity > 0 ? "in stock" : "out of stock",
-    brand: p.brand || "Ultra Gym"
+    brand: p.brand || "Skill Fitt"
   }));
 
   return feed;

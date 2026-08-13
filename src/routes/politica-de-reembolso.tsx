@@ -4,7 +4,7 @@ import { SEO } from '@/components/seo/SEO'
 export const Route = createFileRoute('/politica-de-reembolso')({
   head: () => ({
     meta: [
-      { title: 'Política de Reembolso | Ultra Gym Supplements' },
+      { title: 'Política de Reembolso | Skill Fitt Suplementos' },
       { name: 'description', content: 'Condições para restituição de valores em caso de cancelamento, arrependimento ou defeito do produto, conforme o CDC.' },
     ],
   }),
@@ -14,7 +14,7 @@ export const Route = createFileRoute('/politica-de-reembolso')({
 function RefundPolicy() {
   return (
     <div className="container mx-auto py-12 px-4 md:px-8 max-w-4xl">
-      <SEO title="Política de Reembolso | Ultra Gym Supplements" description="Conheça as condições para a restituição de valores pagos em caso de cancelamento, desistência ou defeito do produto." />
+      <SEO title="Política de Reembolso | Skill Fitt Suplementos" description="Conheça as condições para a restituição de valores pagos em caso de cancelamento, desistência ou defeito do produto." />
 
       <div className="bg-white rounded-[40px] border p-8 md:p-12 shadow-sm">
         <div className="mb-10 text-center md:text-left">
@@ -31,7 +31,7 @@ function RefundPolicy() {
           <h3>1. Condições para Reembolso</h3>
           <p>O reembolso dos valores pagos será processado somente após:</p>
           <ol>
-            <li>O produto retornar à Central de Distribuição da Ultra Gym;</li>
+            <li>O produto retornar à Central de Distribuição da Skill Fitt;</li>
             <li>A equipe de qualidade realizar a análise das condições do item;</li>
             <li>A solicitação de reembolso estar em conformidade com o prazo legal (7 dias para arrependimento, ou prazo estipulado para defeito).</li>
           </ol>
@@ -50,7 +50,7 @@ function RefundPolicy() {
           <ul>
             <li>O estorno é solicitado à operadora do cartão de crédito imediatamente após a aprovação da devolução.</li>
             <li>O prazo para que o valor retorne é de responsabilidade da administradora do cartão, podendo ocorrer na fatura atual ou na seguinte.</li>
-            <li><em>Prazo Médio:</em> A Ultra Gym envia a solicitação em até <strong>30 dias</strong> após a aprovação da devolução.</li>
+            <li><em>Prazo Médio:</em> A Skill Fitt envia a solicitação em até <strong>30 dias</strong> após a aprovação da devolução.</li>
           </ul>
 
           <h4>B) Pagamento via PIX</h4>
@@ -68,14 +68,14 @@ function RefundPolicy() {
           <h3>4. Frete e Custos Adicionais</h3>
           <ul>
             <li>Em casos de <strong>arrependimento</strong> ou <strong>defeito</strong> dentro do prazo legal, o valor do frete pago pelo cliente na compra (se houver) será restituído integralmente.</li>
-            <li>Os custos de devolução do produto à Ultra Gym (logística reversa) serão arcados pela empresa, desde que a solicitação seja feita dentro do prazo legal.</li>
+            <li>Os custos de devolução do produto à Skill Fitt (logística reversa) serão arcados pela empresa, desde que a solicitação seja feita dentro do prazo legal.</li>
           </ul>
 
           <h3>5. Informações da Empresa</h3>
           <ul>
-            <li><strong>Razão Social:</strong> Ultra Gym Supplements LTDA</li>
-            <li><strong>CNPJ:</strong> 53.320.355/0001-24</li>
-            <li><strong>Endereço:</strong> Rua Olimpio Fortunato, 149 – São Miguel, Nova Ponte/MG – CEP 38160-000</li>
+            <li><strong>Razão Social:</strong> Skil Fitt Suplementos LTDA</li>
+            <li><strong>CNPJ:</strong> 64.854.093/0001-02</li>
+            <li><strong>Endereço:</strong> Avenida Luiz Tarquínio Pontes, 004 – Pitangueiras, Lauro de Freitas/BA – CEP 42701-450</li>
           </ul>
 
           <p>Em caso de dúvidas sobre o status do seu reembolso, entre em contato com nosso <strong>Fale Conosco</strong> informando o número do seu pedido.</p>

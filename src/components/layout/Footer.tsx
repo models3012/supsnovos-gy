@@ -1,5 +1,6 @@
 import { Link } from "@tanstack/react-router";
 import { ShieldCheck, Lock, Facebook, Instagram, Youtube, Mail, Phone, MapPin } from "lucide-react";
+import { Logo } from "@/components/brand/Logo";
 
 export const Footer = () => {
   return (
@@ -8,10 +9,8 @@ export const Footer = () => {
         {/* Top Section: Brand & Contact */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
           <div className="flex flex-col gap-6">
-            <Link to="/" className="flex items-center space-x-2">
-              <span className="inline-block font-black text-3xl tracking-tighter uppercase italic">
-                Ultra<span className="text-orange-600">Gym</span>
-              </span>
+            <Link to="/" className="group w-fit">
+              <Logo tone="light" />
             </Link>
             <p className="text-sm text-slate-500 font-medium leading-relaxed">
               Performance Profissional e Suplementação de Elite. Qualidade garantida com o melhor preço do Brasil.
@@ -69,14 +68,14 @@ export const Footer = () => {
                 <Mail className="h-5 w-5 text-orange-600 mt-0.5" />
                 <div className="flex flex-col">
                   <span className="text-xs font-black uppercase text-slate-400">E-mail</span>
-                  <span className="text-sm font-bold">contato@ultragym.net</span>
+                  <span className="text-sm font-bold">contato@skillfit.online</span>
                 </div>
               </div>
               <div className="flex items-start gap-3">
                 <MapPin className="h-5 w-5 text-orange-600 mt-0.5" />
                 <div className="flex flex-col">
                   <span className="text-xs font-black uppercase text-slate-400">Localização</span>
-                  <span className="text-sm font-bold">Nova Ponte - MG</span>
+                  <span className="text-sm font-bold">Lauro de Freitas - BA</span>
                 </div>
               </div>
             </div>
@@ -101,7 +100,7 @@ export const Footer = () => {
             <h3 className="text-xs font-black uppercase italic tracking-widest text-slate-400">Segurança & Verificação</h3>
             <div className="flex flex-wrap gap-3">
               <a 
-                href="https://transparencyreport.google.com/safe-browsing/search?url=ultragym.net" 
+                href="https://transparencyreport.google.com/safe-browsing/search?url=skillfit.online" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 bg-slate-50 border rounded-xl px-4 py-2 hover:border-orange-600 transition-colors group"
@@ -145,12 +144,12 @@ export const Footer = () => {
           <p className="text-[10px] text-slate-400 font-medium max-w-4xl leading-relaxed uppercase">
             OS PREÇOS E CONDIÇÕES DE PAGAMENTO SÃO EXCLUSIVOS PARA O SITE. AS IMAGENS SÃO MERAMENTE ILUSTRATIVAS. 
             TODOS OS PEDIDOS ESTÃO SUJEITOS À ANÁLISE E CONFIRMAÇÃO DE DADOS. <br />
-            <strong>ULTRA GYM SUPPLEMENTS LTDA | CNPJ: 53.320.355/0001-24</strong> <br />
-            RUA OLIMPIO FORTUNATO, 149 – SÃO MIGUEL, NOVA PONTE/MG – CEP 38160-000
+            <strong>SKIL FITT SUPLEMENTOS LTDA | CNPJ: 64.854.093/0001-02</strong> <br />
+            AVENIDA LUIZ TARQUÍNIO PONTES, 004 – PITANGUEIRAS, LAURO DE FREITAS/BA – CEP 42701-450
           </p>
           <div className="flex flex-col items-center gap-2">
             <p className="text-xs font-black italic uppercase tracking-tighter">
-              © {new Date().getFullYear()} ULTRA<span className="text-orange-600">GYM</span> SUPPLEMENTS
+              © {new Date().getFullYear()} SKILL<span className="text-orange-600">FITT</span> SUPLEMENTOS
             </p>
             <span className="text-[8px] font-bold text-slate-300 uppercase tracking-[0.2em]">Nutrição de Alta Performance</span>
           </div>

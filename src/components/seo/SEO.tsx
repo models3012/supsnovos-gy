@@ -10,7 +10,7 @@ interface SEOProps {
 export const SEO: React.FC<SEOProps> = ({ title, description, canonical, schema }) => {
   return (
     <>
-      <title>{`${title} | Ultra Gym Supplements`}</title>
+      <title>{`${title} | Skill Fitt Suplementos`}</title>
       <meta name="description" content={description} />
       {canonical && <link rel="canonical" href={canonical} />}
       {schema && (

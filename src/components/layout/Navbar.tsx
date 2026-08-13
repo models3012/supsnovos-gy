@@ -3,6 +3,7 @@ import { ShoppingCart, Search, User, Menu, Zap, Truck, ShieldCheck } from "lucid
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger, SheetHeader, SheetTitle } from "@/components/ui/sheet";
 import { CartSidebar } from "@/components/cart/CartSidebar";
+import { Logo } from "@/components/brand/Logo";
 import { useRef, useState } from "react";
 
 const NAV_LINKS = [
@@ -79,7 +80,7 @@ export const Navbar = () => {
               <SheetContent side="left" className="w-[300px] sm:w-[380px] bg-black text-white border-white/10">
                 <SheetHeader>
                   <SheetTitle className="text-left font-display text-3xl tracking-wide text-white">
-                    ULTRA<span className="text-orange-500">GYM</span>
+                    SKILL<span className="text-orange-500">FITT</span>
                   </SheetTitle>
                 </SheetHeader>
                 <div className="flex flex-col gap-1 mt-8">
@@ -98,14 +99,8 @@ export const Navbar = () => {
               </SheetContent>
             </Sheet>
 
-            <Link to="/" onClick={handleLogoClick} className="flex items-center gap-2 group select-none">
-              <div className="relative">
-                <div className="absolute inset-0 bg-orange-500 blur-lg opacity-60 group-hover:opacity-100 transition-opacity" />
-                <div className="relative bg-orange-500 text-black font-display text-2xl px-2 leading-none py-1 skew-x-[-8deg]">U</div>
-              </div>
-              <span className="font-display text-2xl md:text-3xl tracking-wide text-white leading-none">
-                ULTRA<span className="text-orange-500">GYM</span>
-              </span>
+            <Link to="/" onClick={handleLogoClick} className="group">
+              <Logo tone="dark" />
             </Link>
           </div>
 

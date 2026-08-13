@@ -181,7 +181,7 @@ function SettingsCard() {
         <Field label="👤 Titular do Pix (Exibição no Checkout)">
           <input value={settings.pix_holder ?? ""} onChange={(e) => update("pix_holder", e.target.value)} className="input" />
         </Field>
-        <p className="text-[10px] text-slate-500 mt-2">QR Code: {settings.pix_holder || "—"} · Total: {settings.pix_holder || "—"} · {settings.store_name || "Ultra Gym"}</p>
+        <p className="text-[10px] text-slate-500 mt-2">QR Code: {settings.pix_holder || "—"} · Total: {settings.pix_holder || "—"} · {settings.store_name || "Skill Fitt"}</p>
       </div>
 
       <label className="flex items-center gap-2 text-sm text-slate-700">
