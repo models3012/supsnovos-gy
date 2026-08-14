@@ -67,7 +67,7 @@ function PostPage() {
 
             <aside className="flex flex-col gap-8">
                <div className="bg-slate-950 text-white rounded-[40px] p-8 shadow-2xl">
-                  <h3 className="text-xl font-black italic uppercase tracking-tighter mb-6">Newsletter Ultra Gym</h3>
+                  <h3 className="text-xl font-black italic uppercase tracking-tighter mb-6">Newsletter WS Suplementos</h3>
                   <p className="text-slate-400 text-sm font-medium mb-6">Receba novos artigos e ofertas exclusivas direto no seu e-mail.</p>
                   <div className="flex flex-col gap-3">
                      <input placeholder="Seu e-mail" className="h-14 bg-white/5 border border-white/10 rounded-2xl px-6 font-bold text-sm focus:border-orange-600 outline-none transition-all" />

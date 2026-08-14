@@ -1,5 +1,7 @@
 import { Link } from "@tanstack/react-router";
 import { ShieldCheck, Lock, Facebook, Instagram, Youtube, Mail, Phone, MapPin } from "lucide-react";
+import { Logo } from "@/components/layout/Logo";
+import { COMPANY } from "@/lib/company";
 
 export const Footer = () => {
   return (
@@ -8,10 +10,8 @@ export const Footer = () => {
         {/* Top Section: Brand & Contact */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
           <div className="flex flex-col gap-6">
-            <Link to="/" className="flex items-center space-x-2">
-              <span className="inline-block font-black text-3xl tracking-tighter uppercase italic">
-                Ultra<span className="text-orange-600">Gym</span>
-              </span>
+            <Link to="/" className="flex items-center">
+              <Logo variant="light" />
             </Link>
             <p className="text-sm text-slate-500 font-medium leading-relaxed">
               Performance Profissional e Suplementação de Elite. Qualidade garantida com o melhor preço do Brasil.
@@ -62,21 +62,21 @@ export const Footer = () => {
                 <Phone className="h-5 w-5 text-orange-600 mt-0.5" />
                 <div className="flex flex-col">
                   <span className="text-xs font-black uppercase text-slate-400">WhatsApp</span>
-                  <span className="text-sm font-bold">(34) 99887-7665</span>
+                  <a href={COMPANY.contact.whatsappUrl} target="_blank" rel="noopener noreferrer" className="text-sm font-bold hover:text-orange-600 transition-colors">{COMPANY.contact.phone}</a>
                 </div>
               </div>
               <div className="flex items-start gap-3">
                 <Mail className="h-5 w-5 text-orange-600 mt-0.5" />
                 <div className="flex flex-col">
                   <span className="text-xs font-black uppercase text-slate-400">E-mail</span>
-                  <span className="text-sm font-bold">contato@ultragym.net</span>
+                  <a href={`mailto:${COMPANY.contact.email}`} className="text-sm font-bold hover:text-orange-600 transition-colors">{COMPANY.contact.email}</a>
                 </div>
               </div>
               <div className="flex items-start gap-3">
                 <MapPin className="h-5 w-5 text-orange-600 mt-0.5" />
                 <div className="flex flex-col">
                   <span className="text-xs font-black uppercase text-slate-400">Localização</span>
-                  <span className="text-sm font-bold">Nova Ponte - MG</span>
+                  <span className="text-sm font-bold">{COMPANY.address.short}</span>
                 </div>
               </div>
             </div>
@@ -101,7 +101,7 @@ export const Footer = () => {
             <h3 className="text-xs font-black uppercase italic tracking-widest text-slate-400">Segurança & Verificação</h3>
             <div className="flex flex-wrap gap-3">
               <a 
-                href="https://transparencyreport.google.com/safe-browsing/search?url=ultragym.net" 
+                href="https://transparencyreport.google.com/safe-browsing/search?url=wsuplemento.site" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 bg-slate-50 border rounded-xl px-4 py-2 hover:border-orange-600 transition-colors group"
@@ -145,12 +145,12 @@ export const Footer = () => {
           <p className="text-[10px] text-slate-400 font-medium max-w-4xl leading-relaxed uppercase">
             OS PREÇOS E CONDIÇÕES DE PAGAMENTO SÃO EXCLUSIVOS PARA O SITE. AS IMAGENS SÃO MERAMENTE ILUSTRATIVAS. 
             TODOS OS PEDIDOS ESTÃO SUJEITOS À ANÁLISE E CONFIRMAÇÃO DE DADOS. <br />
-            <strong>ULTRA GYM SUPPLEMENTS LTDA | CNPJ: 53.320.355/0001-24</strong> <br />
-            RUA OLIMPIO FORTUNATO, 149 – SÃO MIGUEL, NOVA PONTE/MG – CEP 38160-000
+            <strong>{COMPANY.legalNameUpper} | CNPJ: {COMPANY.cnpj} | IE: {COMPANY.stateRegistration}</strong> <br />
+            RUA ALBERTO JACKSON BYINGTON, 96 – JARDIM CHAPADÃO, CAMPINAS/SP – CEP 13070-063
           </p>
           <div className="flex flex-col items-center gap-2">
             <p className="text-xs font-black italic uppercase tracking-tighter">
-              © {new Date().getFullYear()} ULTRA<span className="text-orange-600">GYM</span> SUPPLEMENTS
+              © {new Date().getFullYear()} WS<span className="text-orange-600"> SUPLEMENTOS</span>
             </p>
             <span className="text-[8px] font-bold text-slate-300 uppercase tracking-[0.2em]">Nutrição de Alta Performance</span>
           </div>

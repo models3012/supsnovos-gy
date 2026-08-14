@@ -2,6 +2,7 @@ import { createFileRoute, redirect, useRouter } from "@tanstack/react-router";
 import { useServerFn } from "@tanstack/react-start";
 import { useEffect, useState } from "react";
 import { adminCheck, adminLock } from "@/lib/admin-gate.functions";
+import { COMPANY } from "@/lib/company";
 import {
   adminGetSettings,
   adminSaveSettings,
@@ -150,6 +151,10 @@ function SettingsCard() {
         <p className="text-xs text-slate-500">Gerencie Pix, SpeedMax e segurança do painel.</p>
       </div>
 
+      <Field label="Nome da Loja">
+        <input value={settings.store_name ?? ""} placeholder={COMPANY.name} onChange={(e) => update("store_name", e.target.value)} className="input" />
+      </Field>
+
       <div>
         <label className="text-[10px] font-black uppercase text-slate-500 tracking-widest">Provedor de Pix</label>
         <div className="flex gap-2 mt-2">
@@ -181,7 +186,7 @@ function SettingsCard() {
         <Field label="👤 Titular do Pix (Exibição no Checkout)">
           <input value={settings.pix_holder ?? ""} onChange={(e) => update("pix_holder", e.target.value)} className="input" />
         </Field>
-        <p className="text-[10px] text-slate-500 mt-2">QR Code: {settings.pix_holder || "—"} · Total: {settings.pix_holder || "—"} · {settings.store_name || "Ultra Gym"}</p>
+        <p className="text-[10px] text-slate-500 mt-2">QR Code: {settings.pix_holder || "—"} · Total: {settings.pix_holder || "—"} · {settings.store_name || COMPANY.name}</p>
       </div>
 
       <label className="flex items-center gap-2 text-sm text-slate-700">

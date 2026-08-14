@@ -1,4 +1,5 @@
 import React from 'react';
+import { COMPANY } from '@/lib/company';
 
 interface SEOProps {
   title: string;
@@ -10,7 +11,8 @@ interface SEOProps {
 export const SEO: React.FC<SEOProps> = ({ title, description, canonical, schema }) => {
   return (
     <>
-      <title>{`${title} | Ultra Gym Supplements`}</title>
+      {/* Só acrescenta a marca quando o título ainda não a contém — evita duplicação */}
+      <title>{title.includes(COMPANY.name) ? title : `${title} | ${COMPANY.name}`}</title>
       <meta name="description" content={description} />
       {canonical && <link rel="canonical" href={canonical} />}
       {schema && (

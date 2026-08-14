@@ -10,7 +10,7 @@ export const Route = createFileRoute('/blog')({
 function BlogPage() {
   return (
     <div className="container px-4 py-12">
-      <SEO title="Blog Ultra Gym | Dicas de Suplementação e Performance" description="Fique por dentro das últimas novidades, guias e comparativos sobre suplementação esportiva." />
+      <SEO title="Blog WS Suplementos | Dicas de Suplementação e Performance" description="Fique por dentro das últimas novidades, guias e comparativos sobre suplementação esportiva." />
       
       <div className="flex flex-col gap-2 mb-12">
         <span className="text-orange-600 font-black italic uppercase tracking-widest text-xs">Conteúdo para sua evolução</span>

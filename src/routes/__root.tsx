@@ -10,6 +10,7 @@ import {
 import { useEffect, type ReactNode } from "react";
 
 import appCss from "../styles.css?url";
+import faviconWs from "../assets/logo-ws.svg?url";
 import { reportLovableError } from "../lib/lovable-error-reporting";
 
 function NotFoundComponent() {
@@ -77,24 +78,26 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1, viewport-fit=cover" },
-      { title: "Ultra Gym | Loja de Suplementos com Nota Fiscal — Whey, Creatina, Pré-Treino" },
-      { name: "description", content: "Ultra Suplementos: loja online de suplementos esportivos com produtos originais, nota fiscal eletrônica, frete grátis acima de R$ 199 e Pix com desconto." },
-      { name: "author", content: "Ultra Gym" },
+      { title: "WS Suplementos | Loja de Suplementos com Nota Fiscal — Whey, Creatina, Pré-Treino" },
+      { name: "description", content: "WS Suplementos: loja online de suplementos esportivos com produtos originais, nota fiscal eletrônica, frete grátis acima de R$ 199 e Pix com desconto." },
+      { name: "author", content: "WS Suplementos" },
       { name: "google-site-verification", content: "aVyIW5BIKgJU2SMjL7DHC1-YpukeGqiejt5DWIl6SWo" },
-      { property: "og:title", content: "Ultra Gym | Loja de Suplementos com Nota Fiscal — Whey, Creatina, Pré-Treino" },
-      { property: "og:description", content: "Ultra Suplementos: loja online de suplementos esportivos com produtos originais, nota fiscal eletrônica, frete grátis acima de R$ 199 e Pix com desconto." },
+      { property: "og:title", content: "WS Suplementos | Loja de Suplementos com Nota Fiscal — Whey, Creatina, Pré-Treino" },
+      { property: "og:description", content: "WS Suplementos: loja online de suplementos esportivos com produtos originais, nota fiscal eletrônica, frete grátis acima de R$ 199 e Pix com desconto." },
       { property: "og:type", content: "website" },
-      { property: "og:site_name", content: "Ultra Gym" },
+      { property: "og:site_name", content: "WS Suplementos" },
       { property: "og:locale", content: "pt_BR" },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:site", content: "@UltraGym" },
-      { name: "twitter:title", content: "Ultra Gym | Loja de Suplementos com Nota Fiscal — Whey, Creatina, Pré-Treino" },
-      { name: "twitter:description", content: "Ultra Suplementos: loja online de suplementos esportivos com produtos originais, nota fiscal eletrônica, frete grátis acima de R$ 199 e Pix com desconto." },
+      { name: "twitter:site", content: "@wsuplemento" },
+      { name: "twitter:title", content: "WS Suplementos | Loja de Suplementos com Nota Fiscal — Whey, Creatina, Pré-Treino" },
+      { name: "twitter:description", content: "WS Suplementos: loja online de suplementos esportivos com produtos originais, nota fiscal eletrônica, frete grátis acima de R$ 199 e Pix com desconto." },
       { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/79a20d70-4550-4ad1-896f-125f0634021f/id-preview-c4272547--7c3620e1-e095-45a4-9fbf-af727772c267.lovable.app-1782464586306.png" },
       { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/79a20d70-4550-4ad1-896f-125f0634021f/id-preview-c4272547--7c3620e1-e095-45a4-9fbf-af727772c267.lovable.app-1782464586306.png" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
+      { rel: "icon", type: "image/svg+xml", href: faviconWs },
+      { rel: "apple-touch-icon", href: faviconWs },
       { rel: "preconnect", href: "https://fonts.googleapis.com" },
       { rel: "preconnect", href: "https://fonts.gstatic.com", crossOrigin: "anonymous" },
       { rel: "preconnect", href: "https://bold-rush-s2acommerce.lovable.app", crossOrigin: "anonymous" },
@@ -149,7 +152,7 @@ function RootShell({ children }: { children: ReactNode }) {
         </div>
         <CookieConsent />
         <a 
-          href="https://wa.me/5534998877665" 
+          href="https://wa.me/5534998877690" 
           target="_blank" 
           rel="noopener noreferrer"
           className="fixed bottom-6 right-6 z-[60] bg-[#25D366] text-white p-4 rounded-full shadow-2xl hover:scale-110 active:scale-95 transition-all group overflow-hidden"

@@ -49,7 +49,7 @@ export const BLOG_POSTS: BlogPost[] = [
         <li><strong>Solubilidade e Sabor:</strong> Tecnologia de filtragem que evita grumos.</li>
       </ul>
 
-      <h2>Veredito Ultra Gym</h2>
+      <h2>Veredito WS Suplementos</h2>
       <p>O Whey Protein Concentrado 80% da Growth Supplements continua sendo o campeão de custo-benefício, mantendo a pureza com o menor preço por grama de proteína do mercado nacional.</p>
     `
   },
