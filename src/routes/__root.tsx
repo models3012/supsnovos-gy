@@ -10,7 +10,6 @@ import {
 import { useEffect, type ReactNode } from "react";
 
 import appCss from "../styles.css?url";
-import faviconWs from "../assets/logo-ws.svg?url";
 import { reportLovableError } from "../lib/lovable-error-reporting";
 
 function NotFoundComponent() {
@@ -91,17 +90,15 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       { name: "twitter:site", content: "@wsuplemento" },
       { name: "twitter:title", content: "WS Suplementos | Loja de Suplementos com Nota Fiscal — Whey, Creatina, Pré-Treino" },
       { name: "twitter:description", content: "WS Suplementos: loja online de suplementos esportivos com produtos originais, nota fiscal eletrônica, frete grátis acima de R$ 199 e Pix com desconto." },
-      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/79a20d70-4550-4ad1-896f-125f0634021f/id-preview-c4272547--7c3620e1-e095-45a4-9fbf-af727772c267.lovable.app-1782464586306.png" },
-      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/79a20d70-4550-4ad1-896f-125f0634021f/id-preview-c4272547--7c3620e1-e095-45a4-9fbf-af727772c267.lovable.app-1782464586306.png" },
+      { property: "og:image", content: "https://wsuplemento.site/og-image.png" },
+      { name: "twitter:image", content: "https://wsuplemento.site/og-image.png" },
     ],
     links: [
+      { rel: "icon", type: "image/svg+xml", href: "/favicon.svg" },
+      { rel: "apple-touch-icon", href: "/favicon.svg" },
       { rel: "stylesheet", href: appCss },
-      { rel: "icon", type: "image/svg+xml", href: faviconWs },
-      { rel: "apple-touch-icon", href: faviconWs },
       { rel: "preconnect", href: "https://fonts.googleapis.com" },
       { rel: "preconnect", href: "https://fonts.gstatic.com", crossOrigin: "anonymous" },
-      { rel: "preconnect", href: "https://bold-rush-s2acommerce.lovable.app", crossOrigin: "anonymous" },
-      { rel: "preconnect", href: "https://images.unsplash.com", crossOrigin: "anonymous" },
       { rel: "dns-prefetch", href: "https://www.googletagmanager.com" },
       {
         rel: "stylesheet",
@@ -110,7 +107,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       {
         rel: "preload",
         as: "image",
-        href: "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=70&w=1280&auto=format&fit=crop",
+        href: "/img/hero-academia.jpg",
         fetchpriority: "high",
       } as any,
     ],

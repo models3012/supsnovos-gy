@@ -1,6 +1,6 @@
 import { Link } from "@tanstack/react-router";
 import { ShieldCheck, Lock, Facebook, Instagram, Youtube, Mail, Phone, MapPin } from "lucide-react";
-import { Logo } from "@/components/layout/Logo";
+import { Logo } from "@/components/brand/Logo";
 import { COMPANY } from "@/lib/company";
 
 export const Footer = () => {
@@ -10,8 +10,8 @@ export const Footer = () => {
         {/* Top Section: Brand & Contact */}
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-12 mb-16">
           <div className="flex flex-col gap-6">
-            <Link to="/" className="flex items-center">
-              <Logo variant="light" />
+            <Link to="/" className="group w-fit">
+              <Logo tone="light" />
             </Link>
             <p className="text-sm text-slate-500 font-medium leading-relaxed">
               Performance Profissional e Suplementação de Elite. Qualidade garantida com o melhor preço do Brasil.
@@ -88,12 +88,11 @@ export const Footer = () => {
           <div className="flex flex-col gap-6">
             <h3 className="text-xs font-black uppercase italic tracking-widest text-slate-400">Formas de Pagamento</h3>
             <div className="flex flex-wrap gap-4 grayscale opacity-70 hover:grayscale-0 hover:opacity-100 transition-all">
-              <img src="https://logospng.org/download/pix/logo-pix-icone-512.png" className="h-6" alt="Pix" />
-              <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Visa_Inc._logo.svg" className="h-6" alt="Visa" />
-              <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Mastercard-logo.svg" className="h-6" alt="Mastercard" />
-              <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Elo_logo.png" className="h-6" alt="Elo" />
-              <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/American_Express_logo_%282018%29.svg" className="h-6" alt="Amex" />
-              <img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Hipercard_logo.png" className="h-6" alt="Hipercard" />
+              <img src="/marca/pix.png" className="h-6" alt="Pix" />
+              <img src="/marca/visa.svg" className="h-6" alt="Visa" />
+              <img src="/marca/mastercard.svg" className="h-6" alt="Mastercard" />
+              <img src="/marca/elo.png" className="h-6" alt="Elo" />
+              <img src="/marca/amex.svg" className="h-6" alt="Amex" />
             </div>
           </div>
 
@@ -118,7 +117,7 @@ export const Footer = () => {
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 bg-slate-50 border rounded-xl px-4 py-2 hover:border-orange-600 transition-colors group"
               >
-                <img src="https://logospng.org/download/pix/logo-pix-icone-512.png" className="h-4 group-hover:scale-110 transition-transform" alt="Pix BCB" />
+                <img src="/marca/pix.png" className="h-4 group-hover:scale-110 transition-transform" alt="Pix BCB" />
                 <div className="flex flex-col">
                   <span className="text-[10px] font-black uppercase leading-none">PIX OFICIAL</span>
                   <span className="text-[8px] font-bold text-slate-400 uppercase">Banco Central</span>

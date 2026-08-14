@@ -3,7 +3,7 @@ import { createHash, timingSafeEqual } from "node:crypto";
 
 export const ADMIN_SESSION_CONFIG = {
   password: process.env.ADMIN_SESSION_SECRET || "fallback-dev-only-secret-32chars-min",
-  name: "ultra-admin",
+  name: "ws-suplementos-admin",
   maxAge: 60 * 60 * 8,
   cookie: { httpOnly: true, secure: true, sameSite: "lax" as const, path: "/" },
 };

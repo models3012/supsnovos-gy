@@ -76,7 +76,7 @@ function CategoryPage() {
                    width={300}
                    height={300}
                    onError={(e) => {
-                     (e.target as HTMLImageElement).src = 'https://bold-rush-s2acommerce.lovable.app/products/dad8ff31ec43.webp';
+                     (e.target as HTMLImageElement).src = '/products/dad8ff31ec43.webp';
                    }}
                  />
                  <div className="absolute top-2 left-2 bg-slate-900 text-white text-[8px] px-2 py-0.5 font-black uppercase italic rounded-full tracking-widest opacity-0 group-hover:opacity-100 transition-opacity">Ver Detalhes</div>

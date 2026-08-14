@@ -3,7 +3,7 @@ import { ShoppingCart, Search, User, Menu, Zap, Truck, ShieldCheck } from "lucid
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger, SheetHeader, SheetTitle } from "@/components/ui/sheet";
 import { CartSidebar } from "@/components/cart/CartSidebar";
-import { Logo } from "@/components/layout/Logo";
+import { Logo } from "@/components/brand/Logo";
 import { useRef, useState } from "react";
 
 const NAV_LINKS = [
@@ -80,7 +80,7 @@ export const Navbar = () => {
               <SheetContent side="left" className="w-[300px] sm:w-[380px] bg-black text-white border-white/10">
                 <SheetHeader>
                   <SheetTitle className="text-left">
-                    <Logo variant="dark" />
+                    <Logo tone="dark" />
                   </SheetTitle>
                 </SheetHeader>
                 <div className="flex flex-col gap-1 mt-8">
@@ -100,7 +100,7 @@ export const Navbar = () => {
             </Sheet>
 
             <Link to="/" onClick={handleLogoClick} className="group">
-              <Logo variant="dark" />
+              <Logo tone="dark" />
             </Link>
           </div>
 

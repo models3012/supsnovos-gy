@@ -137,7 +137,7 @@ function CheckoutPage() {
                         onClick={() => setPaymentMethod('pix')}
                         className={`flex flex-col items-center gap-3 p-6 rounded-3xl border-2 transition-all ${paymentMethod === 'pix' ? 'border-orange-600 bg-orange-50' : 'bg-slate-50 border-transparent hover:border-slate-200'}`}
                       >
-                         <img src="https://logospng.org/download/pix/logo-pix-icone-512.png" className="h-8" alt="Pix" />
+                         <img src="/marca/pix.png" className="h-8" alt="Pix" />
                          <span className="text-xs font-black uppercase italic">Pix (10% OFF)</span>
                       </button>
                       <button 
@@ -198,7 +198,7 @@ function CheckoutPage() {
                 <Button 
                   onClick={async () => {
                     const finalValue = paymentMethod === 'pix' ? pixPrice : totalPrice;
-                    const transactionId = `WS-${Date.now()}`;
+                    const transactionId = `SKF-${Date.now()}`;
                     const [firstName, ...rest] = (nameRef.current?.value ?? '').trim().split(/\s+/);
                     await setEnhancedConversionData({
                       email: emailRef.current?.value,

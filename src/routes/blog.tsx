@@ -15,7 +15,7 @@ function BlogPage() {
       <div className="flex flex-col gap-2 mb-12">
         <span className="text-orange-600 font-black italic uppercase tracking-widest text-xs">Conteúdo para sua evolução</span>
         <h1 className="text-5xl md:text-6xl font-black italic uppercase tracking-tighter leading-none">
-          Ultra<span className="text-orange-600">Blog</span>
+          WS<span className="text-orange-600">Blog</span>
         </h1>
         <div className="h-2 w-24 bg-orange-600 mt-4" />
       </div>

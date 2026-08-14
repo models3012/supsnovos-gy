@@ -17,7 +17,7 @@ export const BLOG_POSTS: BlogPost[] = [
     date: "21/04/2026",
     readTime: "8 min",
     category: "Suplementação",
-    image: "https://bold-rush-s2acommerce.lovable.app/products/farma_a8c11df83e1e.webp",
+    image: "/products/farma_a8c11df83e1e.webp",
     content: `
       <p>A creatina é, sem dúvida, o suplemento mais estudado e com maior evidência científica de eficácia no mundo fitness. No entanto, muitas dúvidas ainda cercam o seu uso em 2026.</p>
       
@@ -38,7 +38,7 @@ export const BLOG_POSTS: BlogPost[] = [
     date: "21/04/2026",
     readTime: "10 min",
     category: "Suplementação",
-    image: "https://bold-rush-s2acommerce.lovable.app/products/000eea4a73cf.webp",
+    image: "/products/000eea4a73cf.webp",
     content: `
       <p>Com tantas opções no mercado, escolher o Whey Protein ideal pode ser um desafio. Em 2026, a transparência dos laudos tornou-se o principal diferencial das marcas.</p>
       
@@ -60,7 +60,7 @@ export const BLOG_POSTS: BlogPost[] = [
     date: "21/04/2026",
     readTime: "7 min",
     category: "Performance",
-    image: "https://bold-rush-s2acommerce.lovable.app/products/farma_b5f33e4c93d6.webp",
+    image: "/products/farma_b5f33e4c93d6.webp",
     content: `
       <p>O mercado de pré-treinos evoluiu drasticamente. Saímos da era apenas da cafeína para fórmulas complexas que visam foco, pump e resistência muscular.</p>
       
@@ -78,7 +78,7 @@ export const BLOG_POSTS: BlogPost[] = [
     date: "15/05/2026",
     readTime: "6 min",
     category: "Nutrição",
-    image: "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=2070&auto=format&fit=crop",
+    image: "/img/blog-nutricao.jpg",
     content: `
       <p>A dieta flexível revolucionou a forma como atletas encaram a nutrição. Em vez de listas de alimentos proibidos, focamos no balanço energético e nos macros.</p>
       <h2>O que são Macronutrientes?</h2>
@@ -94,7 +94,7 @@ export const BLOG_POSTS: BlogPost[] = [
     date: "10/05/2026",
     readTime: "9 min",
     category: "Treinamento",
-    image: "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?q=80&w=2070&auto=format&fit=crop",
+    image: "/img/blog-treino.jpg",
     content: `
       <p>A hipertrofia depende de tensão mecânica, estresse metabólico e dano muscular. Isso pode ser alcançado em qualquer lugar, desde que haja progressão de carga.</p>
       <h2>Vantagens da Academia</h2>
@@ -110,7 +110,7 @@ export const BLOG_POSTS: BlogPost[] = [
     date: "05/05/2026",
     readTime: "5 min",
     category: "Saúde",
-    image: "https://bold-rush-s2acommerce.lovable.app/products/farma_1a2b3c4d5e6f.webp",
+    image: "/products/farma_1a2b3c4d5e6f.webp",
     content: `
       <p>Muitas vezes negligenciado por quem foca apenas em Whey e Creatina, o Ômega 3 é um dos pilares da longevidade esportiva.</p>
       <h2>Ação Anti-inflamatória</h2>

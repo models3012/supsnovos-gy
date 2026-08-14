@@ -22,7 +22,7 @@ function PostPage() {
 
   return (
     <div className="bg-slate-50 min-h-screen pb-20">
-      <SEO title={`${post.title} | Ultra Blog`} description={post.excerpt} />
+      <SEO title={`${post.title} | WS Suplementos Blog`} description={post.excerpt} />
       
       {/* Hero Header */}
       <div className="relative w-full h-[400px] md:h-[600px] bg-slate-950 overflow-hidden">

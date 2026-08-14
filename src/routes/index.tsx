@@ -3,7 +3,7 @@ import { SEO } from "@/components/seo/SEO";
 import { Button } from "@/components/ui/button";
 import { Truck, ShieldCheck, CreditCard, ChevronRight, Star, Plus, Lock } from "lucide-react";
 
-const hazeHardcoreImg = "https://bold-rush-s2acommerce.lovable.app/products/dad8ff31ec43.webp";
+const hazeHardcoreImg = "/products/dad8ff31ec43.webp";
 
 
 
@@ -40,7 +40,7 @@ function Index() {
 
             {/* Main hero card */}
             <div className="col-span-12 lg:col-span-8 row-span-4 lg:row-span-3 relative rounded-3xl overflow-hidden border border-white/10 bg-gradient-to-br from-zinc-900 via-black to-zinc-900 group">
-              <img src="https://images.unsplash.com/photo-1534438327276-14e5300c3a48?q=70&w=1280&auto=format&fit=crop" alt="" width={1280} height={720} fetchPriority="high" decoding="async" className="absolute inset-0 w-full h-full object-cover opacity-25 group-hover:opacity-35 group-hover:scale-105 transition-all duration-1000" />
+              <img src="/img/hero-academia.jpg" alt="" width={1280} height={720} fetchPriority="high" decoding="async" className="absolute inset-0 w-full h-full object-cover opacity-25 group-hover:opacity-35 group-hover:scale-105 transition-all duration-1000" />
               <div className="absolute inset-0 bg-gradient-to-r from-black via-black/70 to-transparent" />
               <div className="relative z-10 h-full flex flex-col justify-between p-5 sm:p-6 md:p-10">
                 <div className="flex flex-wrap items-center gap-2">
@@ -66,7 +66,7 @@ function Index() {
                     </Link>
                     <div className="flex flex-col">
                       <span className="text-white/40 text-[10px] font-bold uppercase tracking-widest">A partir de</span>
-                      <span className="text-white font-display text-2xl sm:text-3xl leading-none">R$ 62,14</span>
+                      <span className="text-white font-display text-2xl sm:text-3xl leading-none">R$ 62,76</span>
                     </div>
                   </div>
                 </div>
@@ -83,7 +83,7 @@ function Index() {
                   <div className="flex items-center gap-0.5">
                     {[1,2,3,4,5].map(i => <Star key={i} className="h-3 w-3 fill-orange-400 text-orange-400" />)}
                   </div>
-                  <span className="text-white font-display text-2xl mt-1">R$ 62,14</span>
+                  <span className="text-white font-display text-2xl mt-1">R$ 62,76</span>
                 </div>
                 <img src={hazeHardcoreImg} alt="Haze Hardcore" width={320} height={320} loading="lazy" decoding="async" className="w-32 md:w-40 drop-shadow-[0_20px_40px_rgba(255,77,0,0.4)] animate-float group-hover:scale-110 transition-transform duration-500" />
               </Link>
@@ -146,7 +146,7 @@ function Index() {
             className="relative h-80 rounded-[32px] overflow-hidden group border-2 border-slate-100 hover:border-orange-600/20 transition-all"
           >
             <div className="absolute inset-0 bg-gradient-to-t from-slate-950 via-slate-950/20 to-transparent z-10" />
-            <img src="https://bold-rush-s2acommerce.lovable.app/products/b7332e96d23f.webp" loading="lazy" decoding="async" width={400} height={400} className="absolute right-0 bottom-0 w-2/3 object-contain z-0 group-hover:scale-110 transition-transform duration-500 mix-blend-multiply" alt="Proteínas" />
+            <img src="/products/b7332e96d23f.webp" loading="lazy" decoding="async" width={400} height={400} className="absolute right-0 bottom-0 w-2/3 object-contain z-0 group-hover:scale-110 transition-transform duration-500 mix-blend-multiply" alt="Proteínas" />
             <div className="relative z-20 h-full p-8 flex flex-col justify-end gap-2">
               <span className="text-orange-500 font-black italic uppercase text-xs tracking-widest">Linha Whey</span>
               <h3 className="text-white text-3xl font-black italic uppercase leading-none">PROTEÍNA <br /> DE ELITE</h3>
@@ -160,7 +160,7 @@ function Index() {
             className="relative h-80 rounded-[32px] overflow-hidden group border-2 border-slate-100 hover:border-orange-600/20 transition-all bg-slate-950"
           >
             <div className="absolute inset-0 bg-orange-600/5 z-0" />
-            <img src="https://bold-rush-s2acommerce.lovable.app/products/farma_50e35d098594.webp" loading="lazy" decoding="async" width={400} height={400} className="absolute right-[-20%] top-1/2 -translate-y-1/2 w-4/5 object-contain z-10 group-hover:rotate-6 transition-transform duration-500" alt="Creatina" />
+            <img src="/products/farma_50e35d098594.webp" loading="lazy" decoding="async" width={400} height={400} className="absolute right-[-20%] top-1/2 -translate-y-1/2 w-4/5 object-contain z-10 group-hover:rotate-6 transition-transform duration-500" alt="Creatina" />
             <div className="relative z-20 h-full p-8 flex flex-col justify-center gap-2">
               <span className="text-orange-500 font-black italic uppercase text-xs tracking-widest">Força Explosiva</span>
               <h3 className="text-white text-3xl font-black italic uppercase leading-none">CREATINA <br /> PURA</h3>
@@ -174,7 +174,7 @@ function Index() {
             className="relative h-80 rounded-[32px] overflow-hidden group border-2 border-slate-100 hover:border-orange-600/20 transition-all md:col-span-2 lg:col-span-1"
           >
             <div className="absolute inset-0 bg-gradient-to-l from-orange-600 via-orange-600/40 to-transparent z-10 opacity-20" />
-            <img src="https://bold-rush-s2acommerce.lovable.app/products/dad8ff31ec43.webp" loading="lazy" decoding="async" width={400} height={400} className="absolute left-[-10%] bottom-0 h-4/5 object-contain z-0 group-hover:translate-x-4 transition-transform duration-500" alt="Pré-Treino" />
+            <img src="/products/dad8ff31ec43.webp" loading="lazy" decoding="async" width={400} height={400} className="absolute left-[-10%] bottom-0 h-4/5 object-contain z-0 group-hover:translate-x-4 transition-transform duration-500" alt="Pré-Treino" />
             <div className="relative z-20 h-full p-8 flex flex-col justify-end items-end gap-2 text-right">
               <span className="text-orange-600 font-black italic uppercase text-xs tracking-widest">Foco Extremo</span>
               <h3 className="text-slate-950 text-3xl font-black italic uppercase leading-none">HAZE <br /> HARDCORE</h3>
@@ -235,12 +235,12 @@ function Index() {
         </div>
         <div className="grid grid-cols-3 md:grid-cols-6 gap-3 md:gap-4">
           {[
-            { name: 'Creatina', img: 'https://bold-rush-s2acommerce.lovable.app/products/farma_50e35d098594.webp', slug: 'creatina' },
-            { name: 'Whey', img: 'https://bold-rush-s2acommerce.lovable.app/products/b7332e96d23f.webp', slug: 'suplementos' },
-            { name: 'Pré-Treino', img: 'https://bold-rush-s2acommerce.lovable.app/products/7cc8cd45e4ac.webp', slug: 'pre-treino' },
-            { name: 'Kits', img: 'https://bold-rush-s2acommerce.lovable.app/products/2d8178cf16de.webp', slug: 'kits' },
-            { name: 'Vitaminas', img: 'https://bold-rush-s2acommerce.lovable.app/products/farma_90d878ade7a8.webp', slug: 'vitaminas' },
-            { name: 'Roupas', img: 'https://bold-rush-s2acommerce.lovable.app/products/fem-outlet-29.webp', slug: 'roupas' },
+            { name: 'Creatina', img: '/products/farma_50e35d098594.webp', slug: 'creatina' },
+            { name: 'Whey', img: '/products/b7332e96d23f.webp', slug: 'suplementos' },
+            { name: 'Pré-Treino', img: '/products/7cc8cd45e4ac.webp', slug: 'pre-treino' },
+            { name: 'Kits', img: '/products/2d8178cf16de.webp', slug: 'kits' },
+            { name: 'Vitaminas', img: '/products/farma_90d878ade7a8.webp', slug: 'vitaminas' },
+            { name: 'Roupas', img: '/products/fem-outlet-29.webp', slug: 'roupas' },
           ].map((cat) => (
             <Link 
               key={cat.name} 
